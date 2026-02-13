@@ -17,6 +17,8 @@ public class CofreScript : MonoBehaviour
     [SerializeField] GameObject refItemContenido;
     [SerializeField] float tiempoParaDesaparecerItem = 2f;
 
+    [SerializeField] private bool tieneQueEsperar = false;
+
     private bool pedirBotonMostrandose;
     private bool estaEnRango;
     private bool estaAbierto = false;
@@ -37,7 +39,6 @@ public class CofreScript : MonoBehaviour
 
     private void OnDisable()
     {
-        interactuar.action.Disable();
         interactuar.action.started -= OnInteractuar;
     }
 
@@ -54,8 +55,11 @@ public class CofreScript : MonoBehaviour
             pedirBotonInteractuar.gameObject.SetActive(false);
 
             //Se muestra el contenido del cofre, y tras un rato, se le aplica el efecto al jugador
-            refItemContenido.SetActive(true);
-            StartCoroutine(DarObjetoAlPlayer());
+            if (!tieneQueEsperar) {
+                refItemContenido.SetActive(true);
+                StartCoroutine(DarObjetoAlPlayer());
+            }
+
         }
 
     }
@@ -72,12 +76,6 @@ public class CofreScript : MonoBehaviour
 
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-        
-    }
 
     // Update is called once per frame
     void Update()
@@ -110,4 +108,12 @@ public class CofreScript : MonoBehaviour
         }
 
     }
+
+    //Si no se hizo antes porque debía esperar. Esste se llama por la animación
+    public void EntregarObjeto()
+    {
+        refItemContenido.SetActive(true);
+        StartCoroutine(DarObjetoAlPlayer());
+    }
+
 }

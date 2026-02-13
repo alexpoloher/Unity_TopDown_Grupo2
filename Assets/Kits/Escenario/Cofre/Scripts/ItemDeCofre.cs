@@ -9,6 +9,7 @@ public class ItemDeCofre : MonoBehaviour
 
     private void OnEnable()
     {
+        print("enable");
         posEnElInicio = transform.position;
     }
 

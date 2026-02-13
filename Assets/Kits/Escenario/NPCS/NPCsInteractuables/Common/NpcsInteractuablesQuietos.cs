@@ -28,7 +28,6 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
 
     private void OnDisable()
     {
-        interactuar.action.Disable();
         interactuar.action.started -= OnHablar;
     }
 

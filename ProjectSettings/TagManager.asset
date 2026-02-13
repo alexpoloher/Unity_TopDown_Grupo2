@@ -8,6 +8,7 @@ TagManager:
   - PiesPlayer
   - Item
   - HuecoSuelo
+  - Palanca
   layers:
   - Default
   - TransparentFX

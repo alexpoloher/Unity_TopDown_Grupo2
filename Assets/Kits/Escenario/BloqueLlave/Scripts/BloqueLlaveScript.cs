@@ -28,7 +28,6 @@ public class BloqueLlaveScript : MonoBehaviour
 
     private void OnDisable()
     {
-        interactuar.action.Disable();
         interactuar.action.started -= OnComprobarAbrir;
     }
 

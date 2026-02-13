@@ -20,6 +20,7 @@ public class PlayerCharacter : BaseCharacter
     Life life;
 
     private bool tieneEspada = false;
+    private bool tieneArco = false;
     private int cantidadFlechas = 0;    //Flechas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxFlechas = 20;
 
@@ -29,6 +30,10 @@ public class PlayerCharacter : BaseCharacter
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
 
+    private bool estaCayendo = false;
+
+    private Vector3 ultimaPosEnSuelo;
+    private float tiempoUltimaComprobacion;
 
     protected override void Awake()
     {
@@ -59,6 +64,24 @@ public class PlayerCharacter : BaseCharacter
             mustPunch = false;
             PerformPunch();
         }
+
+        GuardarPosSuelo();
+    }
+
+    private void GuardarPosSuelo()
+    {
+        if (!estaCayendo)
+        {
+            tiempoUltimaComprobacion += Time.deltaTime;
+
+            if (tiempoUltimaComprobacion >= 0.5f)
+            {
+                tiempoUltimaComprobacion = 0.0f;
+                ultimaPosEnSuelo = transform.position;
+            }
+
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D elOtro)
@@ -111,6 +134,12 @@ public class PlayerCharacter : BaseCharacter
                 if(jarron != null)
                 {
                     jarron.NotifyHit();
+                }
+
+                ScriptPalanca palanca = hit.collider.GetComponent<ScriptPalanca>();
+                if(palanca != null)
+                {
+                    palanca.NotifyHit();
                 }
 
 
@@ -188,7 +217,10 @@ public class PlayerCharacter : BaseCharacter
                     cantidadBombas = numMaxBombas;
                 }
                 break;
-
+            case DropDefinition.enumTipoObjeto.Arco:
+                print("Recibe arco");
+                tieneArco = true;
+                break;
         }
     }
 
@@ -229,13 +261,14 @@ public class PlayerCharacter : BaseCharacter
         }
     }
 
-    public void TocarHueco(Vector3 posHueco, Vector3 posRespawn)
+    public void TocarHueco(Vector3 posHueco)
     {
-        StartCoroutine(CaerPorHueco(posHueco, posRespawn));
+        StartCoroutine(CaerPorHueco(posHueco));
     }
 
-    IEnumerator CaerPorHueco(Vector3 posHueco, Vector3 posRespawn)
+    IEnumerator CaerPorHueco(Vector3 posHueco)
     {
+        estaCayendo = true;
         GestorPlayer.Instance.ImpedirMovimiento();
         //cayendo = true;
         transform.position = new Vector3(posHueco.x, posHueco.y, transform.position.z); //Se desplaza al jugador a la posición del hueco para dar mejor efecto
@@ -253,14 +286,14 @@ public class PlayerCharacter : BaseCharacter
         }
         transform.localScale = Vector3.zero;
         yield return new WaitForSeconds(2f);
-        Reaparecer(posRespawn, escalaOriginal);
+        Reaparecer(escalaOriginal);
 
     }
 
-    private void Reaparecer(Vector3 posRespawn, Vector3 escalaOriginal)
+    private void Reaparecer(Vector3 escalaOriginal)
     {
-        transform.position = posRespawn;
-
+        estaCayendo = false;
+        transform.position = ultimaPosEnSuelo;
         transform.localScale = escalaOriginal;
         GestorPlayer.Instance.PermitirMovimiento();
     }

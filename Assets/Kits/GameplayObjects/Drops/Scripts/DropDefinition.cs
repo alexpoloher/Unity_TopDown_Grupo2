@@ -13,7 +13,8 @@ public class DropDefinition : ScriptableObject
         Balas,
         Espada,
         Llave,
-        Bombas
+        Bombas,
+        Arco
     }
 
     public enumTipoObjeto tipoDeObjeto;

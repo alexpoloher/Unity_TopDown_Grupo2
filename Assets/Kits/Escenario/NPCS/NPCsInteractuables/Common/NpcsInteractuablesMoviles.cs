@@ -25,7 +25,6 @@ public class NpcsInteractuablesMoviles : NpcAnimalBase
 
     private void OnDisable()
     {
-        interactuar.action.Disable();
         interactuar.action.started -= OnHablar;
     }
 

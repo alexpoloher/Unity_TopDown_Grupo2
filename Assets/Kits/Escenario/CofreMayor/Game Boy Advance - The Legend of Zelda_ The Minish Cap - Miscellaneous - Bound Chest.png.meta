@@ -1,0 +1,2715 @@
+fileFormatVersion: 2
+guid: a515eaaffc9fe674e94c8e80358aea08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2012765858564887915
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_0
+  - first:
+      213: -3012479162764687957
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_1
+  - first:
+      213: 4971931732637568440
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_2
+  - first:
+      213: -8041690573161056586
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_3
+  - first:
+      213: 5605339580599498961
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_4
+  - first:
+      213: 7702795824983040274
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_5
+  - first:
+      213: -9013400663759509892
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_6
+  - first:
+      213: 5738120269347117419
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_7
+  - first:
+      213: -5131303990879119288
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_8
+  - first:
+      213: -1416848096328412514
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_9
+  - first:
+      213: -5335561041058985637
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_10
+  - first:
+      213: -3290507926974076683
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_11
+  - first:
+      213: 7848704029476857816
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_12
+  - first:
+      213: -814368727034933108
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_13
+  - first:
+      213: 1730666761733020404
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_14
+  - first:
+      213: 2770198325129410056
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_15
+  - first:
+      213: 2066949461921480252
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_16
+  - first:
+      213: 8352840475616144010
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_17
+  - first:
+      213: 6769677348768210581
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_18
+  - first:
+      213: 1269802441908330890
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_19
+  - first:
+      213: -6519455773369785733
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_20
+  - first:
+      213: 151286463138480574
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_21
+  - first:
+      213: -2088043770454413716
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_22
+  - first:
+      213: 1459011395136259917
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_23
+  - first:
+      213: -6851634363022283178
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_24
+  - first:
+      213: 7241325009614944362
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_25
+  - first:
+      213: 2804156086109982506
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_26
+  - first:
+      213: 5639148601847493186
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_27
+  - first:
+      213: 3512895872664506343
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_28
+  - first:
+      213: -1838771047747364414
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_29
+  - first:
+      213: 7442109751750693004
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_30
+  - first:
+      213: 4593954458532805949
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_31
+  - first:
+      213: 4354409689456544118
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_32
+  - first:
+      213: -1400957616595755272
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_33
+  - first:
+      213: 2665816076170352699
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_34
+  - first:
+      213: 8807290339461290050
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_35
+  - first:
+      213: -5028568480317409074
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_36
+  - first:
+      213: 2878860947779742532
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_37
+  - first:
+      213: -8809556783616392158
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_38
+  - first:
+      213: 5069590680056973241
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_39
+  - first:
+      213: 1652535449718743055
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_40
+  - first:
+      213: 6898529540357228008
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_41
+  - first:
+      213: 4102189029431836590
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_42
+  - first:
+      213: -4913884523465539901
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_43
+  - first:
+      213: -7626580217137502907
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_44
+  - first:
+      213: 5356351261255662339
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_45
+  - first:
+      213: 3732222856867393423
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_46
+  - first:
+      213: -6122690772278650289
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_47
+  - first:
+      213: -1216686428531732178
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_48
+  - first:
+      213: 4146622988594456540
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_49
+  - first:
+      213: 6981189371385067700
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_50
+  - first:
+      213: 2793390071268199568
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_51
+  - first:
+      213: -1568632141008941049
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_52
+  - first:
+      213: 7336713688276894066
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_53
+  - first:
+      213: 2976342189425262647
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_54
+  - first:
+      213: -3797265947126622414
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_55
+  - first:
+      213: -2398121770834465727
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_56
+  - first:
+      213: 2708346470198115494
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_57
+  - first:
+      213: 5971681266066504851
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_58
+  - first:
+      213: 8141939448829873999
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_59
+  - first:
+      213: -7743869596579247739
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_60
+  - first:
+      213: 4463092940431354446
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_61
+  - first:
+      213: -6970418371997655932
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_62
+  - first:
+      213: -5014215895109747846
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_63
+  - first:
+      213: 1936266296241352744
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_64
+  - first:
+      213: -264257155414971846
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_65
+  - first:
+      213: -3098420646614948417
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_66
+  - first:
+      213: -5271818956178348453
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_67
+  - first:
+      213: -642310881911860633
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_68
+  - first:
+      213: 582190296392552910
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_69
+  - first:
+      213: -2791060260447660707
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_70
+  - first:
+      213: 8085254330986342266
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_71
+  - first:
+      213: 1027057147151228693
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_72
+  - first:
+      213: -7932490365140297135
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_73
+  - first:
+      213: 8195712886863965818
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_74
+  - first:
+      213: 7993784296489052307
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_75
+  - first:
+      213: -6955602997863196565
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_76
+  - first:
+      213: 3284213270906210237
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_77
+  - first:
+      213: 5997402768731025616
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_78
+  - first:
+      213: 7553295141415603482
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_79
+  - first:
+      213: 1068084370057876471
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_80
+  - first:
+      213: 4007839638827498634
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_81
+  - first:
+      213: -2595789407335549325
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_82
+  - first:
+      213: 3616565143946289432
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_83
+  - first:
+      213: 9024113889504298420
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_84
+  - first:
+      213: -4601029762819595571
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_85
+  - first:
+      213: 9219860891464047464
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_86
+  - first:
+      213: 3876468877452744728
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_87
+  - first:
+      213: 8288237336370996552
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_88
+  - first:
+      213: -1139832767062502556
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_89
+  - first:
+      213: -8350763263568672244
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Bound Chest_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655bcf52e7ceeb10800000000000000
+      internalID: 2012765858564887915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 91
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5052a89268136d0800000000000000
+      internalID: -3012479162764687957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdca538199dff440800000000000000
+      internalID: 4971931732637568440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b029c70d266090800000000000000
+      internalID: -8041690573161056586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f11376aa2acd40800000000000000
+      internalID: 5605339580599498961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e97dddf3d5ea60800000000000000
+      internalID: 7702795824983040274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 133
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c762852f9d7f9e280800000000000000
+      internalID: -9013400663759509892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6957ecabf5e1af40800000000000000
+      internalID: 5738120269347117419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 133
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8481b150532f9c8b0800000000000000
+      internalID: -5131303990879119288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9218a5c928565ce0800000000000000
+      internalID: -1416848096328412514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59044e808744f5b0800000000000000
+      internalID: -5335561041058985637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 91
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86a1a6974c552d0800000000000000
+      internalID: -3290507926974076683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 91
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50284785, y: 0.5082929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d725280bb23cec60800000000000000
+      internalID: 7848704029476857816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8055ec15f7c2b4f0800000000000000
+      internalID: -814368727034933108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1ca51040940810800000000000000
+      internalID: 1730666761733020404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 119
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80678b613b8b17620800000000000000
+      internalID: 2770198325129410056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eb38e95974fac10800000000000000
+      internalID: 2066949461921480252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 119
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aea9648204be370800000000000000
+      internalID: 8352840475616144010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e56517ea9b2fd50800000000000000
+      internalID: 6769677348768210581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81aedcd79e3f9110800000000000000
+      internalID: 1269802441908330890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 91
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72ac63048d3685a0800000000000000
+      internalID: -6519455773369785733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1c1b69c3a791200800000000000000
+      internalID: 151286463138480574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ee892f047c503e0800000000000000
+      internalID: -2088043770454413716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 110
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47085a32237f3410800000000000000
+      internalID: 1459011395136259917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e623d29da1ae0a0800000000000000
+      internalID: -6851634363022283178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683045eaba5e7460800000000000000
+      internalID: 7241325009614944362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fc55f6a1d5ae620800000000000000
+      internalID: 2804156086109982506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 110
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242b2c0a6c7424e40800000000000000
+      internalID: 5639148601847493186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8a1f1f2050c030800000000000000
+      internalID: 3512895872664506343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9debb697f5b76e0800000000000000
+      internalID: -1838771047747364414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801294a36fa74760800000000000000
+      internalID: 7442109751750693004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d7b2f7d3101cf30800000000000000
+      internalID: 4593954458532805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679839aba88fd6c30800000000000000
+      internalID: 4354409689456544118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe9e65687cce8ce0800000000000000
+      internalID: -1400957616595755272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 89
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d8a0e891eef420800000000000000
+      internalID: 2665816076170352699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d15596e7c93a70800000000000000
+      internalID: 8807290339461290050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 89
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec874f11c9fe63ab0800000000000000
+      internalID: -5028568480317409074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be72677c4c3f720800000000000000
+      internalID: 2878860947779742532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22489e3c7ca2eb580800000000000000
+      internalID: -8809556783616392158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b74d691dddca5640800000000000000
+      internalID: 5069590680056973241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e93b6c3cfee610800000000000000
+      internalID: 1652535449718743055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5088521108cbf50800000000000000
+      internalID: 6898529540357228008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff9cc1037ede830800000000000000
+      internalID: 4102189029431836590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cefb8f8f006ecbb0800000000000000
+      internalID: -4913884523465539901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5456f7a23b1f82690800000000000000
+      internalID: -7626580217137502907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 30
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfb5bc715955a40800000000000000
+      internalID: 5356351261255662339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fac260ae48bc330800000000000000
+      internalID: 3732222856867393423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad4c89e25d70ba0800000000000000
+      internalID: -6122690772278650289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d358b3267d1fe0800000000000000
+      internalID: -1216686428531732178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd724ac63a3cb8930800000000000000
+      internalID: 4146622988594456540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b32fceba22e060800000000000000
+      internalID: 6981189371385067700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 30
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c4b05487d14c620800000000000000
+      internalID: 2793390071268199568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 30
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700d6e3f0691b3ae0800000000000000
+      internalID: -1568632141008941049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 21
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718d785a3e31d560800000000000000
+      internalID: 7336713688276894066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73083b2b3771e4920800000000000000
+      internalID: 2976342189425262647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23794d76db66d4bc0800000000000000
+      internalID: -3797265947126622414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce74984f828bed0800000000000000
+      internalID: -2398121770834465727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac77d4e3caf59520800000000000000
+      internalID: 2708346470198115494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cbfbfd87cafd250800000000000000
+      internalID: 5971681266066504851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_59
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8e367acafdf070800000000000000
+      internalID: 8141939448829873999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58942f471af388490800000000000000
+      internalID: -7743869596579247739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ae6f1026710fd30800000000000000
+      internalID: 4463092940431354446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1939eb69144f90800000000000000
+      internalID: -6970418371997655932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_63
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bbdd8b53de96ab0800000000000000
+      internalID: -5014215895109747846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_64
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f60a00fffeda10800000000000000
+      internalID: 1936266296241352744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa22a648b255cf0800000000000000
+      internalID: -264257155414971846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5a7c986d23005d0800000000000000
+      internalID: -3098420646614948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 11
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56a1d4379cb6d6b0800000000000000
+      internalID: -5271818956178348453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7629640f7ad0617f0800000000000000
+      internalID: -642310881911860633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec158207dfa541800800000000000000
+      internalID: 582190296392552910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55de451b792449d0800000000000000
+      internalID: -2791060260447660707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 11
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77212df9f7943070800000000000000
+      internalID: 8085254330986342266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f99f3a807d04e00800000000000000
+      internalID: 1027057147151228693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9a918a022ae190800000000000000
+      internalID: -7932490365140297135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 11
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2e96a2750db170800000000000000
+      internalID: 8195712886863965818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398635bf670afee60800000000000000
+      internalID: 7993784296489052307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68d8b10debb87f90800000000000000
+      internalID: -6955602997863196565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db70df2c19ed39d20800000000000000
+      internalID: 3284213270906210237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d03825ea0e0b3350800000000000000
+      internalID: 5997402768731025616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dc2cb79e1b2d860800000000000000
+      internalID: 7553295141415603482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3527b531992de00800000000000000
+      internalID: 1068084370057876471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cfa05cae4be9730800000000000000
+      internalID: 4007839638827498634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376fa008947e9fbd0800000000000000
+      internalID: -2595789407335549325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116af746de903230800000000000000
+      internalID: 3616565143946289432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5829c45c71c3d70800000000000000
+      internalID: 9024113889504298420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2632adecbd520c0800000000000000
+      internalID: -4601029762819595571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1b32c1a683ff70800000000000000
+      internalID: 9219860891464047464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189d67d7ebfbc530800000000000000
+      internalID: 3876468877452744728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e588c1fbb50370800000000000000
+      internalID: 8288237336370996552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46393ef23208e20f0800000000000000
+      internalID: -1139832767062502556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_90
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8b975e012c1c80800000000000000
+      internalID: -8350763263568672244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Bound Chest_91
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 119
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90294b82676d0614a804c9c3489314c1
+      internalID: -1690640947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 825b1c323531e254ba3ec07b385129a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_0: 2012765858564887915
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_1: -3012479162764687957
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_10: -5335561041058985637
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_11: -3290507926974076683
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_12: 7848704029476857816
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_13: -814368727034933108
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_14: 1730666761733020404
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_15: 2770198325129410056
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_16: 2066949461921480252
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_17: 8352840475616144010
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_18: 6769677348768210581
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_19: 1269802441908330890
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_2: 4971931732637568440
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_20: -6519455773369785733
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_21: 151286463138480574
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_22: -2088043770454413716
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_23: 1459011395136259917
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_24: -6851634363022283178
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_25: 7241325009614944362
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_26: 2804156086109982506
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_27: 5639148601847493186
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_28: 3512895872664506343
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_29: -1838771047747364414
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_3: -8041690573161056586
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_30: 7442109751750693004
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_31: 4593954458532805949
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_32: 4354409689456544118
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_33: -1400957616595755272
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_34: 2665816076170352699
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_35: 8807290339461290050
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_36: -5028568480317409074
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_37: 2878860947779742532
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_38: -8809556783616392158
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_39: 5069590680056973241
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_4: 5605339580599498961
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_40: 1652535449718743055
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_41: 6898529540357228008
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_42: 4102189029431836590
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_43: -4913884523465539901
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_44: -7626580217137502907
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_45: 5356351261255662339
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_46: 3732222856867393423
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_47: -6122690772278650289
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_48: -1216686428531732178
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_49: 4146622988594456540
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_5: 7702795824983040274
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_50: 6981189371385067700
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_51: 2793390071268199568
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_52: -1568632141008941049
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_53: 7336713688276894066
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_54: 2976342189425262647
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_55: -3797265947126622414
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_56: -2398121770834465727
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_57: 2708346470198115494
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_58: 5971681266066504851
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_59: 8141939448829873999
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_6: -9013400663759509892
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_60: -7743869596579247739
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_61: 4463092940431354446
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_62: -6970418371997655932
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_63: -5014215895109747846
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_64: 1936266296241352744
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_65: -264257155414971846
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_66: -3098420646614948417
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_67: -5271818956178348453
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_68: -642310881911860633
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_69: 582190296392552910
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_7: 5738120269347117419
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_70: -2791060260447660707
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_71: 8085254330986342266
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_72: 1027057147151228693
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_73: -7932490365140297135
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_74: 8195712886863965818
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_75: 7993784296489052307
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_76: -6955602997863196565
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_77: 3284213270906210237
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_78: 5997402768731025616
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_79: 7553295141415603482
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_8: -5131303990879119288
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_80: 1068084370057876471
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_81: 4007839638827498634
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_82: -2595789407335549325
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_83: 3616565143946289432
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_84: 9024113889504298420
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_85: -4601029762819595571
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_86: 9219860891464047464
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_87: 3876468877452744728
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_88: 8288237336370996552
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_89: -1139832767062502556
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_9: -1416848096328412514
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_90: -8350763263568672244
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Bound Chest_91: -1690640947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
