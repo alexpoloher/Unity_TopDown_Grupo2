@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: dd0a946d74220fc45932ca7247cca064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2119694018397396475
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_0
+  - first:
+      213: 6663778003094705508
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_1
+  - first:
+      213: 1231199407456637730
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_2
+  - first:
+      213: 8503021739397170410
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_3
+  - first:
+      213: 7624711395953971227
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_4
+  - first:
+      213: 8517083315229650588
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_5
+  - first:
+      213: 9041120652494943288
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_6
+  - first:
+      213: -2238470372049120505
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_7
+  - first:
+      213: -3890924855858717204
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_8
+  - first:
+      213: 2019131744806865539
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_9
+  - first:
+      213: -2708956169582777280
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_10
+  - first:
+      213: 8447101332033441219
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_11
+  - first:
+      213: -3976032511824526075
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_12
+  - first:
+      213: -243169713947017807
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_13
+  - first:
+      213: 8412368401305601939
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_14
+  - first:
+      213: 5672192845536025944
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_15
+  - first:
+      213: 2980324876943463330
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_16
+  - first:
+      213: -9069764724213928962
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_17
+  - first:
+      213: 2733141966892131877
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_18
+  - first:
+      213: -3948126045742188097
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_19
+  - first:
+      213: -4591824511142117047
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_20
+  - first:
+      213: -7894545225905367394
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_21
+  - first:
+      213: 1703554194707525393
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_22
+  - first:
+      213: -8319233192597930422
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_23
+  - first:
+      213: -7179803834981515195
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_24
+  - first:
+      213: 5034637157852451392
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_25
+  - first:
+      213: -4708669849401456295
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_26
+  - first:
+      213: -4684262187487357943
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_27
+  - first:
+      213: -1049250335136241447
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_28
+  - first:
+      213: -932569134866903378
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_29
+  - first:
+      213: -5583826923938879914
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_30
+  - first:
+      213: 5646350325018248541
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_31
+  - first:
+      213: -7094584825993236108
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_32
+  - first:
+      213: 6066059363841436790
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_33
+  - first:
+      213: -6995076908433417424
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_34
+  - first:
+      213: 7152709576503470811
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_35
+  - first:
+      213: -7713987297979522956
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_36
+  - first:
+      213: -2211156907672884387
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_37
+  - first:
+      213: 5855984322973296043
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_38
+  - first:
+      213: -11185590571112812
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_39
+  - first:
+      213: 4437077101483902690
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_40
+  - first:
+      213: -6885077642587320336
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_41
+  - first:
+      213: 192019694745974219
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_42
+  - first:
+      213: 1120172390490559380
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_43
+  - first:
+      213: -7151926910564273598
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_44
+  - first:
+      213: 7754535848754769452
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+      Characters - Smith_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdd817aa7aaa6d10800000000000000
+      internalID: 2119694018397396475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659580a9ce7a7c50800000000000000
+      internalID: 6663778003094705508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223df118659161110800000000000000
+      internalID: 1231199407456637730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 440
+        width: 154
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44136983dc00670800000000000000
+      internalID: 8503021739397170410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 419
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1095befd9a60d960800000000000000
+      internalID: 7624711395953971227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 419
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45187908, y: 0.5083854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6ba65622c23670800000000000000
+      internalID: 8517083315229650588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 416
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.32688984, y: 0.55284625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b86fd453887d70800000000000000
+      internalID: 9041120652494943288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 409
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.32829055, y: 0.6584089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70396c97e0b5fe0e0800000000000000
+      internalID: -2238470372049120505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 416
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced9dc66578a00ac0800000000000000
+      internalID: -3890924855858717204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 417
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a8de3cf95650c10800000000000000
+      internalID: 2019131744806865539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6ae767bad76ad0800000000000000
+      internalID: -2708956169582777280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 374
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd059528e12a3570800000000000000
+      internalID: 8447101332033441219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 374
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5058b451f7b42d8c0800000000000000
+      internalID: -3976032511824526075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 400
+        width: 137
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdfd0cfe6610acf0800000000000000
+      internalID: -243169713947017807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 406
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978a878d7cbeb470800000000000000
+      internalID: 8412368401305601939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ddfa7275da7be40800000000000000
+      internalID: 5672192845536025944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 406
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a399756fad3c5920800000000000000
+      internalID: 2980324876943463330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 408
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.33036727, y: 0.69259346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2cd87909b12280800000000000000
+      internalID: -9069764724213928962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 395
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526615953221ee520800000000000000
+      internalID: 2733141966892131877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 395
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b11b87407539c0800000000000000
+      internalID: -3948126045742188097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 389
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94141768fef8640c0800000000000000
+      internalID: -4591824511142117047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9697a2b1f0f07290800000000000000
+      internalID: -7894545225905367394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 397
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f2b27a38d34a710800000000000000
+      internalID: 1703554194707525393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 395
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebf8f0d752c8c80800000000000000
+      internalID: -8319233192597930422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 403
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54080fac3763c5c90800000000000000
+      internalID: -7179803834981515195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 341
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04217c602df9ed540800000000000000
+      internalID: 5034637157852451392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 341
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95985d538b177aeb0800000000000000
+      internalID: -4708669849401456295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9049508db582efeb0800000000000000
+      internalID: -4684262187487357943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8aebd11605071f0800000000000000
+      internalID: -1049250335136241447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaec3c31059de03f0800000000000000
+      internalID: -932569134866903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 350
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566c5f3ff24282b0800000000000000
+      internalID: -5583826923938879914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55cf1874bddb5e40800000000000000
+      internalID: 5646350325018248541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471fbc180b8fa8d90800000000000000
+      internalID: -7094584825993236108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 219
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c63302ad8fe2450800000000000000
+      internalID: 6066059363841436790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 279
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd9400d9e7cee90800000000000000
+      internalID: -6995076908433417424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 316
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda26019677834360800000000000000
+      internalID: 7152709576503470811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 299
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4702e064c6962f490800000000000000
+      internalID: -7713987297979522956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 273
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ba187f1846051e0800000000000000
+      internalID: -2211156907672884387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 282
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5641527b2a44150800000000000000
+      internalID: 5855984322973296043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e76fb3c248dff0800000000000000
+      internalID: -11185590571112812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 251
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c7fa7d1aa39d30800000000000000
+      internalID: 4437077101483902690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff499edc5a4370a0800000000000000
+      internalID: -6885077642587320336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_42
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5763f15e03aa200800000000000000
+      internalID: 192019694745974219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493d36eaad6ab8f00800000000000000
+      internalID: 1120172390490559380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242724c0e504fbc90800000000000000
+      internalID: -7151926910564273598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable
+        Characters - Smith_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 7
+        width: 110
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6f07e445ad9b60800000000000000
+      internalID: 7754535848754769452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 994680f5f7cdef744a6bdabcebbcdbe2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_0: 2119694018397396475
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_1: 6663778003094705508
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_10: -2708956169582777280
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_11: 8447101332033441219
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_12: -3976032511824526075
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_13: -243169713947017807
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_14: 8412368401305601939
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_15: 5672192845536025944
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_16: 2980324876943463330
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_17: -9069764724213928962
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_18: 2733141966892131877
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_19: -3948126045742188097
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_2: 1231199407456637730
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_20: -4591824511142117047
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_21: -7894545225905367394
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_22: 1703554194707525393
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_23: -8319233192597930422
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_24: -7179803834981515195
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_25: 5034637157852451392
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_26: -4708669849401456295
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_27: -4684262187487357943
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_28: -1049250335136241447
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_29: -932569134866903378
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_3: 8503021739397170410
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_30: -5583826923938879914
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_31: 5646350325018248541
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_32: -7094584825993236108
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_33: 6066059363841436790
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_34: -6995076908433417424
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_35: 7152709576503470811
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_36: -7713987297979522956
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_37: -2211156907672884387
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_38: 5855984322973296043
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_39: -11185590571112812
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_4: 7624711395953971227
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_40: 4437077101483902690
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_41: -6885077642587320336
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_42: 192019694745974219
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_43: 1120172390490559380
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_44: -7151926910564273598
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_45: 7754535848754769452
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_5: 8517083315229650588
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_6: 9041120652494943288
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_7: -2238470372049120505
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_8: -3890924855858717204
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Non-Playable Characters - Smith_9: 2019131744806865539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

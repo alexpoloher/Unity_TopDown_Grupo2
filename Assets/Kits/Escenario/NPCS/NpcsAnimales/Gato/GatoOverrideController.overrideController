@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GatoOverrideController
+  m_Controller: {fileID: 9100000, guid: a95ef5281ff100b4fb515bcaeda01654, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bff4677bce9f2e34c9337defd6b0982a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13a59a07e53721544aced32cc6ffe846, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 370a42ebd64141d409343b3c5728d5f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e93a0a12752ad0e44918f6c110d640ef, type: 2}

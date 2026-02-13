@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: d6b50d4bdfdda884cbb02437551f95f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1192308201591687723
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+      Cap-Style)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b75df102147fe0800000000000000
+      internalID: -1192308201591687723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db97b3973a7184289115bd669134be
+      internalID: 1151203851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e135d2456b6b348886f7bb15f3962d
+      internalID: 869981275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a11452f0d49a5459a1a7cfd72050de
+      internalID: -1328030485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77411d8f23f480408cda0d5c2b51606
+      internalID: 1849401532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc0c6d30f39b34fa72cfea198b65fd
+      internalID: 867411524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2858596f409c046837ee21b80d9b34
+      internalID: 565781155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c217fe9f866764b9fed3abb6572eae
+      internalID: -1988925312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d6a8a114c88143b9af3857c415bcf
+      internalID: -1203957575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e9364bfe56aa4caf7da014d2fc000
+      internalID: -24239553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c438c6145d8786f428a997072ee75cec
+      internalID: -198162071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68b22ce5e0e9d42a9bcddbb038c0b8
+      internalID: -1227552786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace4d7a27598d0546a9a9f8ffdad6d35
+      internalID: -1464595820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60ac93941d0c140827904e2b9fff39
+      internalID: -1888276406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041f8771b535c04d8fe1bc7209a3a0a
+      internalID: 677136281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0827d7dfde7d89429123509bda726a5
+      internalID: -1560294211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721cdd309f749c4bb813428df028aca
+      internalID: -1330264524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16df3f4fd8fbe44b5b27f476b81b8f
+      internalID: 1737771488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b29ada71874df48b185b18505ff753
+      internalID: 204337382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish
+        Cap-Style)_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc6baa8ed2e84c4da5f96340141006e
+      internalID: -1758516004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55bfd8b4c0440ef4eb7d73f94533eb7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_0: -1192308201591687723
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_1: 1151203851
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_10: -198162071
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_11: -1227552786
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_12: -1464595820
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_13: -1888276406
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_14: 677136281
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_15: -1560294211
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_16: -1330264524
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_17: 1737771488
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_18: 204337382
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_19: -1758516004
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_2: 869981275
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_3: -1328030485
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_4: 1849401532
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_5: 867411524
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_6: 565781155
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_7: -1988925312
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_8: -1203957575
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (The Minish Cap-Style)_9: -24239553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

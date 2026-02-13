@@ -1,0 +1,5491 @@
+fileFormatVersion: 2
+guid: 6454e821c1d3c414e8a0348e5cea2f11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8084327324511532320
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_0
+  - first:
+      213: 3054274070246170410
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_1
+  - first:
+      213: -4079156179975971010
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_2
+  - first:
+      213: -1709373658795419614
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_3
+  - first:
+      213: 7539611703598470893
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_4
+  - first:
+      213: 8329602135596653308
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_5
+  - first:
+      213: 955263600928766393
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_6
+  - first:
+      213: -5901553514983862956
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_7
+  - first:
+      213: -1132494441574087449
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_8
+  - first:
+      213: -7256615052671311064
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_9
+  - first:
+      213: -661895339591292329
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_10
+  - first:
+      213: 2705371131048667656
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_11
+  - first:
+      213: -1192486409614155598
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_12
+  - first:
+      213: -2199669896674822807
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_13
+  - first:
+      213: -6809284499603401736
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_14
+  - first:
+      213: 7490558705681452189
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_15
+  - first:
+      213: -4333106507254246375
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_16
+  - first:
+      213: -2500491903726286872
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_17
+  - first:
+      213: -7495134508761383000
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_18
+  - first:
+      213: 5658090346070787563
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_19
+  - first:
+      213: -2817297114760336512
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_20
+  - first:
+      213: -8231169272736430281
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_21
+  - first:
+      213: 8888038800736101035
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_22
+  - first:
+      213: -4870790435907625042
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_23
+  - first:
+      213: -1994799726905915751
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_24
+  - first:
+      213: 2364968582497301099
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_25
+  - first:
+      213: 307515063130454334
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_26
+  - first:
+      213: 1003401340846676054
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_27
+  - first:
+      213: 3593745358894163285
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_28
+  - first:
+      213: -6875493943659943883
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_29
+  - first:
+      213: -7772918481581572423
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_30
+  - first:
+      213: 3128489760564223041
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_31
+  - first:
+      213: 8761157968748770638
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_32
+  - first:
+      213: 8602895974668188053
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_33
+  - first:
+      213: 5284348126764071062
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_34
+  - first:
+      213: 4276346366820400026
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_35
+  - first:
+      213: 43793977660989790
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_36
+  - first:
+      213: -4494028274039716849
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_37
+  - first:
+      213: -5311353187405067687
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_38
+  - first:
+      213: -5619758455091132603
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_39
+  - first:
+      213: 7288008621620693976
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_40
+  - first:
+      213: -4881108554216470079
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_41
+  - first:
+      213: 3121101870870786749
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_42
+  - first:
+      213: 6784062944387422640
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_43
+  - first:
+      213: 4719177441032622429
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_44
+  - first:
+      213: -2818023306170316256
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_45
+  - first:
+      213: -410647110335531093
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_46
+  - first:
+      213: -5744076411193543966
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_47
+  - first:
+      213: -2079805030890517732
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_48
+  - first:
+      213: 3514822023720914795
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_49
+  - first:
+      213: 7116443427945654226
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_50
+  - first:
+      213: 53066448514550852
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_51
+  - first:
+      213: -1317310971905935713
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_52
+  - first:
+      213: -7993972598150074128
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_53
+  - first:
+      213: -3099626033020983351
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_54
+  - first:
+      213: 7289141782146274235
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_55
+  - first:
+      213: 4366088506043678069
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_56
+  - first:
+      213: 3638299701322696307
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_57
+  - first:
+      213: -83742318516022828
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_58
+  - first:
+      213: -8909367126857281401
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_59
+  - first:
+      213: -7264198544272270522
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_60
+  - first:
+      213: 6923308604993255136
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_61
+  - first:
+      213: -3226799415591262793
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_62
+  - first:
+      213: -1630432119427663191
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_63
+  - first:
+      213: -7267727089112240970
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_64
+  - first:
+      213: 158397524299027156
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_65
+  - first:
+      213: -2213501251283358173
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_66
+  - first:
+      213: 5660358192120989968
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_67
+  - first:
+      213: -1959771689210372315
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_68
+  - first:
+      213: 1470144019471495683
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_69
+  - first:
+      213: 7101640794293038539
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_70
+  - first:
+      213: -2791783305719184322
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_71
+  - first:
+      213: 977395055168340838
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_72
+  - first:
+      213: 7085162097972119548
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_73
+  - first:
+      213: 2974511488607040350
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_74
+  - first:
+      213: -3606515221470325041
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_75
+  - first:
+      213: 2381078447262390967
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_76
+  - first:
+      213: -3668232775669055083
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_77
+  - first:
+      213: -6201161578329658546
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_78
+  - first:
+      213: -961141026539534463
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_79
+  - first:
+      213: 7234037451886416586
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_80
+  - first:
+      213: -2339452006650848819
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_81
+  - first:
+      213: 2111977219670382526
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_82
+  - first:
+      213: 2266154233216278803
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_83
+  - first:
+      213: -6430355650073267419
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_84
+  - first:
+      213: 2439920867631681640
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_85
+  - first:
+      213: -9109806342700242964
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_86
+  - first:
+      213: -4788966657283456593
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_87
+  - first:
+      213: -6024614924060901399
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_88
+  - first:
+      213: 5785056010363744337
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_89
+  - first:
+      213: -8348578296847783064
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_90
+  - first:
+      213: 5576048373739321630
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_91
+  - first:
+      213: 8753029434553242059
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_92
+  - first:
+      213: -4217319440233938480
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_93
+  - first:
+      213: -6599188206392310103
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_94
+  - first:
+      213: -7102285386026855403
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_95
+  - first:
+      213: 5067843506930263089
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_96
+  - first:
+      213: -6318912979056102753
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_97
+  - first:
+      213: -4737880121390981316
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_98
+  - first:
+      213: -725102398718170721
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_99
+  - first:
+      213: -3608321713154378433
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_100
+  - first:
+      213: 3022677629701799423
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_101
+  - first:
+      213: 3419671338946404246
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_102
+  - first:
+      213: 4109777558763117081
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_103
+  - first:
+      213: 7578162663524308591
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_104
+  - first:
+      213: 3891030141771721198
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_105
+  - first:
+      213: 4754244440661604155
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_106
+  - first:
+      213: 9080945781283355688
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_107
+  - first:
+      213: -3939056683134032392
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_108
+  - first:
+      213: -3461933235671588627
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_109
+  - first:
+      213: -4377142084738410019
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_110
+  - first:
+      213: -8603876425111906196
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_111
+  - first:
+      213: 6156440060630296674
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_112
+  - first:
+      213: -5019513264148229211
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_113
+  - first:
+      213: 456267115202283468
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_114
+  - first:
+      213: -6128715562467582319
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_115
+  - first:
+      213: -6162001693203325055
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_116
+  - first:
+      213: 2899398052576056137
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_117
+  - first:
+      213: 2119037237016518174
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_118
+  - first:
+      213: 3272068132280742761
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_119
+  - first:
+      213: 8265180716871224031
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_120
+  - first:
+      213: -3460573333493556929
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_121
+  - first:
+      213: 6423079399643709765
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_122
+  - first:
+      213: 410467182625433891
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_123
+  - first:
+      213: 6975712390113988987
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_124
+  - first:
+      213: -2662576378363759106
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_125
+  - first:
+      213: 7877356869947477123
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_126
+  - first:
+      213: 4063982237033670661
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_127
+  - first:
+      213: -9133745124615229342
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_128
+  - first:
+      213: 8116713758009087525
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_129
+  - first:
+      213: -8113645286400257156
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_130
+  - first:
+      213: 2857119424588008940
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_131
+  - first:
+      213: -6961773477607540622
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_132
+  - first:
+      213: -1744649598779842979
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_133
+  - first:
+      213: 3057391972667051463
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_134
+  - first:
+      213: 510122502251116785
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_135
+  - first:
+      213: -6500118106702243009
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_136
+  - first:
+      213: 3685778439825130353
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_137
+  - first:
+      213: 1756541488448709495
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_138
+  - first:
+      213: 2051035544777694551
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_139
+  - first:
+      213: 5993600253451006051
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_140
+  - first:
+      213: -2602632871841128568
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_141
+  - first:
+      213: 1108775138578742423
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_142
+  - first:
+      213: -7893521269623366360
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_143
+  - first:
+      213: 7168441807859654316
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_144
+  - first:
+      213: -8163793695613076304
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_145
+  - first:
+      213: -2258822408951731813
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_146
+  - first:
+      213: 8125997443254978345
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_147
+  - first:
+      213: -8457838336910191194
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_148
+  - first:
+      213: 738044488613324871
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_149
+  - first:
+      213: 3692643976200182010
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_150
+  - first:
+      213: -628254249587272126
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_151
+  - first:
+      213: -6482194752833474686
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_152
+  - first:
+      213: -3592323416006283138
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_153
+  - first:
+      213: 6857536730258379216
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_154
+  - first:
+      213: -8616554980919616847
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_155
+  - first:
+      213: -1702493455081832745
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_156
+  - first:
+      213: 4599019043548734122
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_157
+  - first:
+      213: 4996412831614683943
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_158
+  - first:
+      213: 2200207568659537959
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_159
+  - first:
+      213: -6352547634132863552
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_160
+  - first:
+      213: 1939650009674341681
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_161
+  - first:
+      213: 7115079294941196860
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_162
+  - first:
+      213: -9000632767143046089
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_163
+  - first:
+      213: -5036233337719019254
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_164
+  - first:
+      213: 862299867149297819
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_165
+  - first:
+      213: 8743883571286804826
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_166
+  - first:
+      213: -2384802715481793868
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_167
+  - first:
+      213: 9155956309683109322
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_168
+  - first:
+      213: 1526402172897083857
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_169
+  - first:
+      213: 7180254992062387168
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_170
+  - first:
+      213: -7707408610149937445
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_171
+  - first:
+      213: 4263547531295501121
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_172
+  - first:
+      213: -6061971239044665286
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_173
+  - first:
+      213: -5375610329048246053
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_174
+  - first:
+      213: 1331218019425417236
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_175
+  - first:
+      213: 1237473039205066369
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_176
+  - first:
+      213: -7154350163272059563
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_177
+  - first:
+      213: 4563124118709906636
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_178
+  - first:
+      213: -7656395870091776697
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_179
+  - first:
+      213: -1206041074784073220
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_180
+  - first:
+      213: 8322664987140906135
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_181
+  - first:
+      213: 2304226236894682483
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_182
+  - first:
+      213: -8943718334745025794
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_183
+  - first:
+      213: 7663321509618188461
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_184
+  - first:
+      213: 1385722893715347605
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_185
+  - first:
+      213: -1142108651542726838
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_186
+  - first:
+      213: 6612944460821253819
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_187
+  - first:
+      213: 9168916701309947602
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_188
+  - first:
+      213: -740345160534692013
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_189
+  - first:
+      213: 5321463622021773195
+    second: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+      - Items_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 591
+        width: 114
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea81868123becf80800000000000000
+      internalID: -8084327324511532320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 591
+        width: 114
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f95bba516f26a20800000000000000
+      internalID: 3054274070246170410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 565
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f513d011de367c0800000000000000
+      internalID: -4079156179975971010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 565
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d617c6b51748e0800000000000000
+      internalID: -1709373658795419614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 566
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65d59d5e412a860800000000000000
+      internalID: 7539611703598470893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 567
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfad29c9201b89370800000000000000
+      internalID: 8329602135596653308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 567
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b938301f27c14d00800000000000000
+      internalID: 955263600928766393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 565
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dcd6c8858791ea0800000000000000
+      internalID: -5901553514983862956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 565
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44fdb3e429840f0800000000000000
+      internalID: -1132494441574087449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 566
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82326c98e035b4b90800000000000000
+      internalID: -7256615052671311064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 566
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aac2d02b970d6f0800000000000000
+      internalID: -661895339591292329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 425
+        width: 210
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa0c3c5b86b8520800000000000000
+      internalID: 2705371131048667656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0a773bdef637fe0800000000000000
+      internalID: -1192486409614155598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b39122e33971e0800000000000000
+      internalID: -2199669896674822807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d09223df8081a0800000000000000
+      internalID: -6809284499603401736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c4a55c47fc3f760800000000000000
+      internalID: 7490558705681452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 425
+        width: 210
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145d25e696bdd3c0800000000000000
+      internalID: -4333106507254246375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e787aa9cd77c4dd0800000000000000
+      internalID: -2500491903726286872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af718d00eeebf790800000000000000
+      internalID: -7495134508761383000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5cd902133958e40800000000000000
+      internalID: 5658090346070787563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2af76333f6e8d0800000000000000
+      internalID: -2817297114760336512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374f64382305cd80800000000000000
+      internalID: -8231169272736430281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a3cbc238a85b70800000000000000
+      internalID: 8888038800736101035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf1b54b7e9776cb0800000000000000
+      internalID: -4870790435907625042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9960abf973c0154e0800000000000000
+      internalID: -1994799726905915751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 528
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62f5b8456e02d020800000000000000
+      internalID: 2364968582497301099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 528
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f8f41253844400800000000000000
+      internalID: 307515063130454334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 529
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581158043ccced00800000000000000
+      internalID: 1003401340846676054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 529
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555681a0d5c8fd130800000000000000
+      internalID: 3593745358894163285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 510
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538acc8afa65590a0800000000000000
+      internalID: -6875493943659943883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 517
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef24dd2db012490800000000000000
+      internalID: -7772918481581572423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 517
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c90ed9cd0aa6b20800000000000000
+      internalID: 3128489760564223041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 516
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457a5401c2e59970800000000000000
+      internalID: 8761157968748770638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 516
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5993cb11f40a36770800000000000000
+      internalID: 8602895974668188053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 494
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f545af96c55940800000000000000
+      internalID: 5284348126764071062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_35
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 494
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bbcd21d52a85b30800000000000000
+      internalID: 4276346366820400026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 495
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e8c104669b9000800000000000000
+      internalID: 43793977660989790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_37
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 495
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040d4b581102a1c0800000000000000
+      internalID: -4494028274039716849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a0514ba684a46b0800000000000000
+      internalID: -5311353187405067687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5478bc8b57b9202b0800000000000000
+      internalID: -5619758455091132603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 482
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8fa35a35342560800000000000000
+      internalID: 7288008621620693976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 482
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c98ec391a1d24cb0800000000000000
+      internalID: -4881108554216470079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_42
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 468
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27f018d91605b20800000000000000
+      internalID: 3121101870870786749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 468
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95a1eed45d52e50800000000000000
+      internalID: 6784062944387422640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5159cc11e2ed7140800000000000000
+      internalID: 4719177441032622429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_45
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a42facbbe54e8d0800000000000000
+      internalID: -2818023306170316256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f86cf0a61d4af0800000000000000
+      internalID: -410647110335531093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 405
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2bb1cffe0f840b0800000000000000
+      internalID: -5744076411193543966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 405
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b43bbf75c0323e0800000000000000
+      internalID: -2079805030890517732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fca9c120827c030800000000000000
+      internalID: 3514822023720914795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 405
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d72ddad79fa2c260800000000000000
+      internalID: 7116443427945654226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 405
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c833d57a78cb000800000000000000
+      internalID: 53066448514550852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 405
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9672d486a8f7bde0800000000000000
+      internalID: -1317310971905935713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 405
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0fe0f9644bf0190800000000000000
+      internalID: -7993972598150074128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 405
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72b35ab8aebf4d0800000000000000
+      internalID: -3099626033020983351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 391
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb35942d4db382560800000000000000
+      internalID: 7289141782146274235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 390
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d36ac1d56779c30800000000000000
+      internalID: 4366088506043678069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_57
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 390
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376cfb34d46dd7230800000000000000
+      internalID: 3638299701322696307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_58
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 390
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15f241ecc76def0800000000000000
+      internalID: -83742318516022828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780112e4dc19b5480800000000000000
+      internalID: -8909367126857281401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_60
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bddbe49e1603b90800000000000000
+      internalID: -7264198544272270522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_61
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63707be78841060800000000000000
+      internalID: 6923308604993255136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_62
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5ae30270b1833d0800000000000000
+      internalID: -3226799415591262793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 385
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa702330aa8f59e0800000000000000
+      internalID: -1630432119427663191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2bf0f7b8d32b90800000000000000
+      internalID: -7267727089112240970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_65
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 385
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2152985bdb23200800000000000000
+      internalID: 158397524299027156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 385
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e6f5fe6501841e0800000000000000
+      internalID: -2213501251283358173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 385
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01908de29c1ad8e40800000000000000
+      internalID: 5660358192120989968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 385
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9fbf280e7dc4e0800000000000000
+      internalID: -1959771689210372315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 383
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30273415230076410800000000000000
+      internalID: 1470144019471495683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd62422da81e8260800000000000000
+      internalID: 7101640794293038539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e340ebcffd79149d0800000000000000
+      internalID: -2791783305719184322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663488ccf97609d00800000000000000
+      internalID: 977395055168340838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf780b9a36d835260800000000000000
+      internalID: 7085162097972119548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53bdb27076974920800000000000000
+      internalID: 2974511488607040350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d833a38513fdc0800000000000000
+      internalID: -3606515221470325041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad9677b3a4b0120800000000000000
+      internalID: 2381078447262390967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5910dc4c9b1d71dc0800000000000000
+      internalID: -3668232775669055083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2cd0566c01f9a0800000000000000
+      internalID: -6201161578329658546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_79
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 365
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878e06245759a2f0800000000000000
+      internalID: -961141026539534463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 364
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2df832cb6746460800000000000000
+      internalID: 7234037451886416586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9508e7bc8988fd0800000000000000
+      internalID: -2339452006650848819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 364
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb79b2077104f4d10800000000000000
+      internalID: 2111977219670382526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311aa1db44ff27f10800000000000000
+      internalID: 2266154233216278803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_84
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 364
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523f4f11b99c2c6a0800000000000000
+      internalID: -6430355650073267419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 373
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860df331a175cd120800000000000000
+      internalID: 2439920867631681640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce760caa567739180800000000000000
+      internalID: -9109806342700242964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10e6fb23c2a8db0800000000000000
+      internalID: -4788966657283456593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_88
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef35d675a4446ca0800000000000000
+      internalID: -6024614924060901399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15038777ac5a84050800000000000000
+      internalID: 5785056010363744337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2adc8544e32c80800000000000000
+      internalID: -8348578296847783064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e197027e37a126d40800000000000000
+      internalID: 5576048373739321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1951b25e1097970800000000000000
+      internalID: 8753029434553242059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c18c30521975c0800000000000000
+      internalID: -4217319440233938480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 365
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a60a005a49fa64a0800000000000000
+      internalID: -6599188206392310103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_95
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 365
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514db68221d9f6d90800000000000000
+      internalID: -7102285386026855403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_96
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 365
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13429d7a1d8945640800000000000000
+      internalID: 5067843506930263089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 365
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9271c4ef16be48a0800000000000000
+      internalID: -6318912979056102753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 365
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1b18c12baf3eb0800000000000000
+      internalID: -4737880121390981316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_99
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 365
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ae9ac53befe5f0800000000000000
+      internalID: -725102398718170721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_100
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 365
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ba14058aacedc0800000000000000
+      internalID: -3608321713154378433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_101
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 365
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd35e41a45b2f920800000000000000
+      internalID: 3022677629701799423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1c7ee6fc157f20800000000000000
+      internalID: 3419671338946404246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a92f74aecd80930800000000000000
+      internalID: 4109777558763117081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f669e79aaca0b2960800000000000000
+      internalID: 7578162663524308591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee924a26c47bff530800000000000000
+      internalID: 3891030141771721198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_106
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b20531287af140800000000000000
+      internalID: 4754244440661604155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_107
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf9fd3310060e70800000000000000
+      internalID: 9080945781283355688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_108
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5eaa311d8a559c0800000000000000
+      internalID: -3939056683134032392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02da3701eb4ffc0800000000000000
+      internalID: -3461933235671588627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd911cb07744143c0800000000000000
+      internalID: -4377142084738410019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_111
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68d8d50af3e89880800000000000000
+      internalID: -8603876425111906196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_112
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686adeed91107550800000000000000
+      internalID: 6156440060630296674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a35511e74b175ab0800000000000000
+      internalID: -5019513264148229211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_114
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 343
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7035c168cf45600800000000000000
+      internalID: 456267115202283468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_115
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 345
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e16b1daad62faa0800000000000000
+      internalID: -6128715562467582319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_116
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 345
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f92439b1c2c7aa0800000000000000
+      internalID: -6162001693203325055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_117
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 345
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943514aca2bbc3820800000000000000
+      internalID: 2899398052576056137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_118
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 345
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed132d325586d10800000000000000
+      internalID: 2119037237016518174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_119
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 345
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963387151a8b86d20800000000000000
+      internalID: 3272068132280742761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_120
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 345
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda84893212d3b270800000000000000
+      internalID: 8265180716871224031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_121
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f395de953e299ffc0800000000000000
+      internalID: -3460573333493556929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_122
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 352
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54184ebdeac532950800000000000000
+      internalID: 6423079399643709765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_123
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 352
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32928545ab542b500800000000000000
+      internalID: 410467182625433891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 352
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71190cb575bec060800000000000000
+      internalID: 6975712390113988987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_125
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5384c04e0ac0bd0800000000000000
+      internalID: -2662576378363759106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_126
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cc332565ef15d60800000000000000
+      internalID: 7877356869947477123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_127
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a3eb005a266830800000000000000
+      internalID: 4063982237033670661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_128
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607a5aa33b6e3180800000000000000
+      internalID: -9133745124615229342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52658a1a82c54a070800000000000000
+      internalID: 8116713758009087525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_130
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731796999a866f80800000000000000
+      internalID: -8113645286400257156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_131
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcf6f9af686a720800000000000000
+      internalID: 2857119424588008940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_132
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 341
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278777c38efc26f90800000000000000
+      internalID: -6961773477607540622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_133
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 341
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1337fe62c9c7e0800000000000000
+      internalID: -1744649598779842979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_134
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 341
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd43f5ecc90e6a20800000000000000
+      internalID: 3057391972667051463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_135
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 341
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87c9a86b1541700800000000000000
+      internalID: 510122502251116785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 218
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b9de36501fac5a0800000000000000
+      internalID: -6500118106702243009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_137
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 218
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173029286f3862330800000000000000
+      internalID: 3685778439825130353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_138
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 273
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773a83c5d2d706810800000000000000
+      internalID: 1756541488448709495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 136
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9c2c06fdb67c10800000000000000
+      internalID: 2051035544777694551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36073a0dcab8d2350800000000000000
+      internalID: 5993600253451006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f9721413791ebd0800000000000000
+      internalID: -2602632871841128568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_142
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 260
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c35ce2d19236f00800000000000000
+      internalID: 1108775138578742423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_143
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 260
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ddb191a34947290800000000000000
+      internalID: -7893521269623366360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_144
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae988e18db6b7360800000000000000
+      internalID: 7168441807859654316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb86133e064be80800000000000000
+      internalID: -8163793695613076304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_146
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b996dbf9cfc07a0e0800000000000000
+      internalID: -2258822408951731813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92702fa0f9755c070800000000000000
+      internalID: 8125997443254978345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_148
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a599c818d8bf9a80800000000000000
+      internalID: -8457838336910191194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_149
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486b345d8f0e3a00800000000000000
+      internalID: 738044488613324871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 226
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d563c128ee3330800000000000000
+      internalID: 3692643976200182010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_151
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24698b0b61ef747f0800000000000000
+      internalID: -628254249587272126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_152
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa578673e9a06a0800000000000000
+      internalID: -6482194752833474686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_153
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b0a6d2e0852ec0800000000000000
+      internalID: -3592323416006283138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_154
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 205
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19e39c25dda2f50800000000000000
+      internalID: 6857536730258379216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_155
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 205
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad9a6b5e8db6880800000000000000
+      internalID: -8616554980919616847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_156
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de7b6909378f58e0800000000000000
+      internalID: -1702493455081832745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_157
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 207
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2aaf5147ff2df30800000000000000
+      internalID: 4599019043548734122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_158
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc89b8ff2d65540800000000000000
+      internalID: 4996412831614683943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_159
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e3126025b88e10800000000000000
+      internalID: 2200207568659537959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_160
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c533c0859737d7a0800000000000000
+      internalID: -6352547634132863552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_161
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dd83738650bea10800000000000000
+      internalID: 1939650009674341681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_162
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32f4b3ebe6ddb260800000000000000
+      internalID: 7115079294941196860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_163
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 177
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73492b88f24571380800000000000000
+      internalID: -9000632767143046089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_164
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 164
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0927436674bb1ab0800000000000000
+      internalID: -5036233337719019254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_165
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 151
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98ec47192187fb00800000000000000
+      internalID: 862299867149297819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 138
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598cefe7c3885970800000000000000
+      internalID: 8743883571286804826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 125
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba1254c09a77eed0800000000000000
+      internalID: -2384802715481793868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_168
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 112
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd78a9d0cd701f70800000000000000
+      internalID: 9155956309683109322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_169
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 99
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14ae360bede2510800000000000000
+      internalID: 1526402172897083857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_170
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 86
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39a966fd365a360800000000000000
+      internalID: 7180254992062387168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_171
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 218
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec93564b8c90590800000000000000
+      internalID: -7707408610149937445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_172
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 45
+        width: 136
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bacd5f3e92b2b30800000000000000
+      internalID: 4263547531295501121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_173
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bb1a964d8fdba0800000000000000
+      internalID: -6061971239044665286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_174
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8982e03eef565b0800000000000000
+      internalID: -5375610329048246053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_175
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 40
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418737e4cbf697210800000000000000
+      internalID: 1331218019425417236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_176
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e0f83c236c2110800000000000000
+      internalID: 1237473039205066369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_177
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 40
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555396f8e64a6bc90800000000000000
+      internalID: -7154350163272059563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_178
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca8b1a539735f30800000000000000
+      internalID: 4563124118709906636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_179
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d696f75840fb590800000000000000
+      internalID: -7656395870091776697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_180
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf907f84808434fe0800000000000000
+      internalID: -1206041074784073220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_181
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5d1fd5bb008370800000000000000
+      internalID: 8322664987140906135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_182
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d1e3cdd814aff10800000000000000
+      internalID: 2304226236894682483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_183
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ef567f8781e380800000000000000
+      internalID: -8943718334745025794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0076c9f46995a60800000000000000
+      internalID: 7663321509618188461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_185
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598970541a31b3310800000000000000
+      internalID: 1385722893715347605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_186
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4735e98b3a6620f0800000000000000
+      internalID: -1142108651542726838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe43a243f5e5cb50800000000000000
+      internalID: 6612944460821253819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec9bc29298e3f70800000000000000
+      internalID: 9168916701309947602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_189
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f662fbff3c9b5f0800000000000000
+      internalID: -740345160534692013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous
+        - Items_190
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8775cb48f2a9d940800000000000000
+      internalID: 5321463622021773195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_0: -8084327324511532320
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_1: 3054274070246170410
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_10: -661895339591292329
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_100: -3608321713154378433
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_101: 3022677629701799423
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_102: 3419671338946404246
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_103: 4109777558763117081
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_104: 7578162663524308591
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_105: 3891030141771721198
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_106: 4754244440661604155
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_107: 9080945781283355688
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_108: -3939056683134032392
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_109: -3461933235671588627
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_11: 2705371131048667656
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_110: -4377142084738410019
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_111: -8603876425111906196
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_112: 6156440060630296674
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_113: -5019513264148229211
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_114: 456267115202283468
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_115: -6128715562467582319
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_116: -6162001693203325055
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_117: 2899398052576056137
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_118: 2119037237016518174
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_119: 3272068132280742761
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_12: -1192486409614155598
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_120: 8265180716871224031
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_121: -3460573333493556929
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_122: 6423079399643709765
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_123: 410467182625433891
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_124: 6975712390113988987
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_125: -2662576378363759106
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_126: 7877356869947477123
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_127: 4063982237033670661
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_128: -9133745124615229342
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_129: 8116713758009087525
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_13: -2199669896674822807
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_130: -8113645286400257156
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_131: 2857119424588008940
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_132: -6961773477607540622
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_133: -1744649598779842979
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_134: 3057391972667051463
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_135: 510122502251116785
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_136: -6500118106702243009
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_137: 3685778439825130353
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_138: 1756541488448709495
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_139: 2051035544777694551
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_14: -6809284499603401736
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_140: 5993600253451006051
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_141: -2602632871841128568
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_142: 1108775138578742423
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_143: -7893521269623366360
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_144: 7168441807859654316
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_145: -8163793695613076304
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_146: -2258822408951731813
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_147: 8125997443254978345
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_148: -8457838336910191194
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_149: 738044488613324871
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_15: 7490558705681452189
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_150: 3692643976200182010
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_151: -628254249587272126
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_152: -6482194752833474686
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_153: -3592323416006283138
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_154: 6857536730258379216
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_155: -8616554980919616847
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_156: -1702493455081832745
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_157: 4599019043548734122
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_158: 4996412831614683943
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_159: 2200207568659537959
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_16: -4333106507254246375
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_160: -6352547634132863552
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_161: 1939650009674341681
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_162: 7115079294941196860
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_163: -9000632767143046089
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_164: -5036233337719019254
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_165: 862299867149297819
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_166: 8743883571286804826
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_167: -2384802715481793868
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_168: 9155956309683109322
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_169: 1526402172897083857
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_17: -2500491903726286872
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_170: 7180254992062387168
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_171: -7707408610149937445
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_172: 4263547531295501121
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_173: -6061971239044665286
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_174: -5375610329048246053
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_175: 1331218019425417236
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_176: 1237473039205066369
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_177: -7154350163272059563
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_178: 4563124118709906636
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_179: -7656395870091776697
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_18: -7495134508761383000
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_180: -1206041074784073220
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_181: 8322664987140906135
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_182: 2304226236894682483
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_183: -8943718334745025794
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_184: 7663321509618188461
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_185: 1385722893715347605
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_186: -1142108651542726838
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_187: 6612944460821253819
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_188: 9168916701309947602
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_189: -740345160534692013
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_19: 5658090346070787563
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_190: 5321463622021773195
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_2: -4079156179975971010
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_20: -2817297114760336512
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_21: -8231169272736430281
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_22: 8888038800736101035
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_23: -4870790435907625042
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_24: -1994799726905915751
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_25: 2364968582497301099
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_26: 307515063130454334
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_27: 1003401340846676054
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_28: 3593745358894163285
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_29: -6875493943659943883
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_3: -1709373658795419614
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_30: -7772918481581572423
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_31: 3128489760564223041
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_32: 8761157968748770638
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_33: 8602895974668188053
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_34: 5284348126764071062
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_35: 4276346366820400026
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_36: 43793977660989790
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_37: -4494028274039716849
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_38: -5311353187405067687
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_39: -5619758455091132603
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_4: 7539611703598470893
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_40: 7288008621620693976
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_41: -4881108554216470079
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_42: 3121101870870786749
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_43: 6784062944387422640
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_44: 4719177441032622429
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_45: -2818023306170316256
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_46: -410647110335531093
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_47: -5744076411193543966
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_48: -2079805030890517732
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_49: 3514822023720914795
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_5: 8329602135596653308
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_50: 7116443427945654226
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_51: 53066448514550852
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_52: -1317310971905935713
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_53: -7993972598150074128
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_54: -3099626033020983351
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_55: 7289141782146274235
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_56: 4366088506043678069
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_57: 3638299701322696307
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_58: -83742318516022828
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_59: -8909367126857281401
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_6: 955263600928766393
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_60: -7264198544272270522
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_61: 6923308604993255136
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_62: -3226799415591262793
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_63: -1630432119427663191
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_64: -7267727089112240970
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_65: 158397524299027156
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_66: -2213501251283358173
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_67: 5660358192120989968
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_68: -1959771689210372315
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_69: 1470144019471495683
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_7: -5901553514983862956
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_70: 7101640794293038539
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_71: -2791783305719184322
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_72: 977395055168340838
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_73: 7085162097972119548
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_74: 2974511488607040350
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_75: -3606515221470325041
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_76: 2381078447262390967
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_77: -3668232775669055083
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_78: -6201161578329658546
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_79: -961141026539534463
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_8: -1132494441574087449
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_80: 7234037451886416586
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_81: -2339452006650848819
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_82: 2111977219670382526
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_83: 2266154233216278803
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_84: -6430355650073267419
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_85: 2439920867631681640
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_86: -9109806342700242964
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_87: -4788966657283456593
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_88: -6024614924060901399
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_89: 5785056010363744337
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_9: -7256615052671311064
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_90: -8348578296847783064
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_91: 5576048373739321630
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_92: 8753029434553242059
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_93: -4217319440233938480
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_94: -6599188206392310103
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_95: -7102285386026855403
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_96: 5067843506930263089
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_97: -6318912979056102753
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_98: -4737880121390981316
+      Game Boy Advance - The Legend of Zelda_ The Minish Cap - Miscellaneous - Items_99: -725102398718170721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
