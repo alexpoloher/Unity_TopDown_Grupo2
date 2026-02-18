@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,26 +10,34 @@ public class PlayerCharacter : BaseCharacter
 
     //Controles
     [SerializeField] InputActionReference move;
-    [SerializeField] InputActionReference punch;
+    [SerializeField] InputActionReference slash;
+    [SerializeField] InputActionReference roll;
+
     Vector2 rawMove;
     bool mustPunch;
     Vector2 punchDirection = Vector2.down;
-    [Header("Punch data")]
+
+    [Header("Sword parameters")]
+    private bool tieneEspada = false;
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
 
-    Life life;
+    [Header("Roll parameters")]
+    [SerializeField] float rollVelocity = 2f;
 
-    private bool tieneEspada = false;
+    [Header("Bow parameters")]
     private bool tieneArco = false;
     private int cantidadFlechas = 0;    //Flechas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxFlechas = 20;
 
-
-    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
-
+    [Header("Bomb parameters")]
+    private bool tieneBombas = false;
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
+
+    Life life;
+
+    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
     private bool estaCayendo = false;
 
@@ -49,8 +58,11 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed += OnMove;
         move.action.canceled += OnMove;
 
-        punch.action.Enable();
-        punch.action.performed += OnPunch;
+        slash.action.Enable();
+        slash.action.performed += OnPunch;
+
+        roll.action.Enable();
+        roll.action.performed += OnRoll;
 
     }
 
@@ -63,6 +75,20 @@ public class PlayerCharacter : BaseCharacter
         {
             mustPunch = false;
             PerformPunch();
+        }
+        if (timeToRoll >= 0.3f)
+        {
+            doRoll = false;
+            rollDelay = 0.3f;
+        }
+        if (rollDelay > 0f)
+        {
+            rollDelay -= Time.deltaTime;
+        }
+        if (doRoll && rollDelay <= 0f)
+        {
+            DoRoll();
+            timeToRoll += Time.deltaTime;
         }
 
         GuardarPosSuelo();
@@ -147,6 +173,11 @@ public class PlayerCharacter : BaseCharacter
         }
     }
 
+    void DoRoll()
+    {
+        Roll(rollVelocity);
+    }
+
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
@@ -161,8 +192,11 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed -= OnMove;
         move.action.canceled -= OnMove;
 
-        punch.action.Disable();
-        punch.action.performed -= OnPunch;
+        slash.action.Disable();
+        slash.action.performed -= OnPunch;
+
+        roll.action.Disable();
+        roll.action.performed -= OnRoll;
     }
 
 
@@ -182,6 +216,15 @@ public class PlayerCharacter : BaseCharacter
     {
         //Se indica que debe golpear
         mustPunch = true;
+    }
+
+    bool doRoll;
+    float timeToRoll;
+    float rollDelay = 0f;
+    private void OnRoll(InputAction.CallbackContext context)
+    {
+        doRoll = true;
+        timeToRoll = 0f;
     }
 
 
@@ -229,13 +272,13 @@ public class PlayerCharacter : BaseCharacter
     public void ImpedirMovimientos()
     {
         move.action.Disable();
-        punch.action.Disable();
+        slash.action.Disable();
     }
 
     public void Permitirmovimientos()
     {
         move.action.Enable();
-        punch.action.Enable();
+        slash.action.Enable();
 
     }
 
