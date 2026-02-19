@@ -1,0 +1,2564 @@
+fileFormatVersion: 2
+guid: 0809ed5f9931bc042a4d49e16c81e71a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5757850922430578903
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_0
+  - first:
+      213: -945968339596498585
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_1
+  - first:
+      213: -3402492727565402476
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_2
+  - first:
+      213: -5246658175897448753
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_3
+  - first:
+      213: 658078316332748864
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_4
+  - first:
+      213: 3533145297339926671
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_5
+  - first:
+      213: 4720389387923993598
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_6
+  - first:
+      213: 3301033652306523348
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_7
+  - first:
+      213: -5188416624060013498
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_8
+  - first:
+      213: -3745596990118579733
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_9
+  - first:
+      213: 9164901736782109486
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_10
+  - first:
+      213: -9026856298866263222
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_11
+  - first:
+      213: -6362600115698725855
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_12
+  - first:
+      213: 4417277949210059900
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_13
+  - first:
+      213: -9173782071782044885
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_14
+  - first:
+      213: 6367131117018474689
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_15
+  - first:
+      213: 7426614765553320982
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_16
+  - first:
+      213: 2993461426187830517
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_17
+  - first:
+      213: 4987463392162086766
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_18
+  - first:
+      213: -2968844341051695281
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_19
+  - first:
+      213: -3481981313244253502
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_20
+  - first:
+      213: -6196847567877067619
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_21
+  - first:
+      213: 7863052751887082366
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_22
+  - first:
+      213: 424151800313841982
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_23
+  - first:
+      213: 6273171651842765632
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_24
+  - first:
+      213: -2667120502663150215
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_25
+  - first:
+      213: -7699933098323077992
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_26
+  - first:
+      213: -686572435475399287
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_27
+  - first:
+      213: 6477688998620783942
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_28
+  - first:
+      213: -3372883582951937441
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_29
+  - first:
+      213: 373037311004295468
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_30
+  - first:
+      213: 6904120689493871998
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_31
+  - first:
+      213: -4946332165757355016
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_32
+  - first:
+      213: 8283110104675820053
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_33
+  - first:
+      213: 9124663045287681601
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_34
+  - first:
+      213: -7870099061922680733
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_35
+  - first:
+      213: -8271869294841795451
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_36
+  - first:
+      213: 8859402139863962430
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_37
+  - first:
+      213: -2292651235794179611
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_38
+  - first:
+      213: -3944980132857820342
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_39
+  - first:
+      213: 6522326669631420991
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_40
+  - first:
+      213: 8882106700743465497
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_41
+  - first:
+      213: -1095715839248628903
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_42
+  - first:
+      213: 3779238191914438338
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_43
+  - first:
+      213: 2114792543553537898
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_44
+  - first:
+      213: 2815011394473299836
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_45
+  - first:
+      213: 2511766622410596612
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_46
+  - first:
+      213: -592743569088308563
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_47
+  - first:
+      213: 7913135387567719668
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_48
+  - first:
+      213: -7086569672965155257
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_49
+  - first:
+      213: 6357207252114166051
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_50
+  - first:
+      213: 814496218442320138
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_51
+  - first:
+      213: 6442564910928516991
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_52
+  - first:
+      213: -9195000685224405800
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_53
+  - first:
+      213: 6352230582432121094
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_54
+  - first:
+      213: -4747298022219992120
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_55
+  - first:
+      213: -2352072063161741349
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_56
+  - first:
+      213: 326186029687208989
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_57
+  - first:
+      213: 6578213304811907292
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_58
+  - first:
+      213: -8128879506578124795
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_59
+  - first:
+      213: -7808308142306126586
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_60
+  - first:
+      213: -7594099219185262422
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_61
+  - first:
+      213: 8694348866904589443
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_62
+  - first:
+      213: -6203311277865712552
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_63
+  - first:
+      213: 4670770323154852341
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_64
+  - first:
+      213: 129786427656980177
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_65
+  - first:
+      213: -8861074561913154858
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_66
+  - first:
+      213: -1855559824261801530
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_67
+  - first:
+      213: -2412546163557809947
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_68
+  - first:
+      213: 7724082482864635230
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_69
+  - first:
+      213: -5010897634635662724
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_70
+  - first:
+      213: -7288292733379334118
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_71
+  - first:
+      213: 2828223212439036723
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_72
+  - first:
+      213: 2920040584097520415
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_73
+  - first:
+      213: 5427520692479290659
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_74
+  - first:
+      213: 1917152264586619769
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_75
+  - first:
+      213: 7707042296241097115
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_76
+  - first:
+      213: -7033325882847063128
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_77
+  - first:
+      213: 2470550144661794712
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_78
+  - first:
+      213: -4865046680949576465
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_79
+  - first:
+      213: 786815446657996882
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_80
+  - first:
+      213: -7663820647119983231
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_81
+  - first:
+      213: -969687585189564522
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_82
+  - first:
+      213: -3588252387066597244
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_83
+  - first:
+      213: -1978875147269131224
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_84
+  - first:
+      213: 3307141567290369099
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_85
+  - first:
+      213: -5276207665128576345
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_86
+  - first:
+      213: -8268135105334052771
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_87
+  - first:
+      213: -7854901382131254214
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_88
+  - first:
+      213: -6886993699937342108
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_89
+  - first:
+      213: -3034356844008174395
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_90
+  - first:
+      213: 891554008013877758
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_91
+  - first:
+      213: -2133637072608307996
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_92
+  - first:
+      213: 3953123953256424279
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_93
+  - first:
+      213: 2588926121478019908
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_94
+  - first:
+      213: 6000245888235543259
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_95
+  - first:
+      213: 5076609823249616872
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_96
+  - first:
+      213: 44919904273860473
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_97
+  - first:
+      213: -4621978449724252136
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_98
+  - first:
+      213: -7800557226427045811
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_99
+  - first:
+      213: 100137540972107560
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_100
+  - first:
+      213: -7273039803769103664
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_101
+  - first:
+      213: 3721039768969509074
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_102
+  - first:
+      213: -7662769788427242487
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_103
+  - first:
+      213: -892406425427640572
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_104
+  - first:
+      213: 1285523479438127467
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_105
+  - first:
+      213: 6702610318567891774
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_106
+  - first:
+      213: -7416843916741712846
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_107
+  - first:
+      213: 828225570454108714
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_108
+  - first:
+      213: -5134543999982828734
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_109
+  - first:
+      213: 7991729312985942472
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_110
+  - first:
+      213: 3742384185006416135
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_111
+  - first:
+      213: 3821647872494041585
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_112
+  - first:
+      213: -5308289325768855867
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_113
+  - first:
+      213: -2838189723691573230
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_114
+  - first:
+      213: 4364653465492409817
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_115
+  - first:
+      213: 2907663838134642013
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_116
+  - first:
+      213: -3344258506526708238
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_117
+  - first:
+      213: -5011817232996548374
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_118
+  - first:
+      213: -8940704513085965549
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_119
+  - first:
+      213: 5368083355026232002
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_120
+  - first:
+      213: -1400985893620465760
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_121
+  - first:
+      213: 6768988174105776845
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_122
+  - first:
+      213: 5456951297729727713
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_123
+  - first:
+      213: 8043539760753491674
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_124
+  - first:
+      213: 3609238312244813176
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_125
+  - first:
+      213: 3236547140533315791
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_126
+  - first:
+      213: -3780514396828520496
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_127
+  - first:
+      213: 491671159644725119
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_128
+  - first:
+      213: -5647642905149889913
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_129
+  - first:
+      213: 4247849868531240323
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_130
+  - first:
+      213: 743583657608226571
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_131
+  - first:
+      213: -7585500370289691145
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_132
+  - first:
+      213: 7886788286228777497
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_133
+  - first:
+      213: 3669820219474839587
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_134
+  - first:
+      213: 9121123706571431548
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_135
+  - first:
+      213: -4464558018690299173
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_136
+  - first:
+      213: 2761070510298847526
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_137
+  - first:
+      213: -8457203109118227345
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_138
+  - first:
+      213: 1778884175884357849
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_139
+  - first:
+      213: 7057216011681715314
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_140
+  - first:
+      213: -6848943888669065478
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_141
+  - first:
+      213: -1551200991221582631
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_142
+  - first:
+      213: -6270138518934876411
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_143
+  - first:
+      213: 7182559754882218362
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_144
+  - first:
+      213: -13366919192313935
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_145
+  - first:
+      213: -6262972360056262961
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_146
+  - first:
+      213: -4142355486329265228
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_147
+  - first:
+      213: 2422501641069046181
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_148
+  - first:
+      213: 4610018069574902513
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_149
+  - first:
+      213: -5986557940159051787
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_150
+  - first:
+      213: 3329540077163050882
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_151
+  - first:
+      213: 4605546145888138608
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_152
+  - first:
+      213: -2037992929386557935
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_153
+  - first:
+      213: 7556336224665310698
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_154
+  - first:
+      213: -7681178847100472474
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_155
+  - first:
+      213: 7917213045501788581
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_156
+  - first:
+      213: 4340322054730578760
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_157
+  - first:
+      213: 4484659502511987593
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_158
+  - first:
+      213: 3770902785053771179
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_159
+  - first:
+      213: 1831002352820703973
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_160
+  - first:
+      213: -5758661252059958469
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_161
+  - first:
+      213: -4402425702367993350
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_162
+  - first:
+      213: 2426091888772097158
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_163
+  - first:
+      213: 1755725729901570230
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_164
+  - first:
+      213: 3729145471124209774
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_165
+  - first:
+      213: -3943696749959224061
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_166
+  - first:
+      213: -3454078631091298663
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_167
+  - first:
+      213: -2032088582619787479
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_168
+  - first:
+      213: 2530974237613488861
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_169
+  - first:
+      213: 1861276125406951986
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_170
+  - first:
+      213: 8513903594852458500
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_171
+  - first:
+      213: 1972112705871227346
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_172
+  - first:
+      213: -1961050619757178812
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_173
+  - first:
+      213: 2850047989614492752
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_174
+  - first:
+      213: 8105746235243370313
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_175
+  - first:
+      213: 8178318304312920692
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_176
+  - first:
+      213: 5091079496799333190
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_177
+  - first:
+      213: 7963931825092725991
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_178
+  - first:
+      213: -3787883304182458823
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_179
+  - first:
+      213: 994450589079733753
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_180
+  - first:
+      213: -27069162274232749
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_181
+  - first:
+      213: 7865580119351168516
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_182
+  - first:
+      213: -1638534251862369385
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_183
+  - first:
+      213: -2524352905799664488
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_184
+  - first:
+      213: -3795935991275342913
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_185
+  - first:
+      213: 4471566568395917732
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_186
+  - first:
+      213: -1231376606871721171
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_187
+  - first:
+      213: -141322084908055562
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_188
+  - first:
+      213: 29085052459276298
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_189
+  - first:
+      213: -7078614231150124858
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_190
+  - first:
+      213: -966767044960109872
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_191
+  - first:
+      213: -4986803315536210830
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_192
+  - first:
+      213: -462164930783988773
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_193
+  - first:
+      213: 1414292011005821178
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_194
+  - first:
+      213: 3130233318991315429
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_195
+  - first:
+      213: 817570059598681575
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_196
+  - first:
+      213: 6072071390680591859
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_197
+  - first:
+      213: 8037997514984644392
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_198
+  - first:
+      213: 5600068207539724726
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_199
+  - first:
+      213: -7525375018623987641
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_200
+  - first:
+      213: -9023278716518378573
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_201
+  - first:
+      213: -5594646615777033648
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_202
+  - first:
+      213: 7902042605895710828
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_203
+  - first:
+      213: 3963551335188073551
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_204
+  - first:
+      213: 5288383843026227574
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_205
+  - first:
+      213: -3902929476602791817
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_206
+  - first:
+      213: 4454352842989255953
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_207
+  - first:
+      213: -3313094522427224748
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_208
+  - first:
+      213: 5028529270438493044
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_209
+  - first:
+      213: 5401377890237154424
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_210
+  - first:
+      213: 756333861916911520
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_211
+  - first:
+      213: 6267255056085365112
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_212
+  - first:
+      213: 4989745085964107875
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_213
+  - first:
+      213: -3156065567779182407
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_214
+  - first:
+      213: -3200297039946347789
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_215
+  - first:
+      213: -7341121227351816866
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_216
+  - first:
+      213: -2190647709564598134
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_217
+  - first:
+      213: -175790788090044053
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_218
+  - first:
+      213: -7896445161188078728
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_219
+  - first:
+      213: 6365453515477351633
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_220
+  - first:
+      213: 6985559294325734555
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_221
+  - first:
+      213: 746124784952939606
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_222
+  - first:
+      213: -1546702987122086051
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_223
+  - first:
+      213: 2324937570137559737
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_224
+  - first:
+      213: -7516716772211166043
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_225
+  - first:
+      213: 2552919600919698723
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_226
+  - first:
+      213: 7074096305897642408
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_227
+  - first:
+      213: -5485744273902100668
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_228
+  - first:
+      213: -4711498340944524585
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_229
+  - first:
+      213: 285576911822592535
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_230
+  - first:
+      213: 4391055535325698751
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_231
+  - first:
+      213: 7320035442067970427
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_232
+  - first:
+      213: -5831732483958160143
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_233
+  - first:
+      213: -958998632299894252
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_234
+  - first:
+      213: 1615910094211924835
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_235
+  - first:
+      213: 5097037883641980433
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_236
+  - first:
+      213: 4287451580961283910
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_237
+  - first:
+      213: -7174296061634930436
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_238
+  - first:
+      213: -1307158189268578674
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_239
+  - first:
+      213: 7290035372418255138
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_240
+  - first:
+      213: -5761946938147470237
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_241
+  - first:
+      213: 4831603135747490903
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_242
+  - first:
+      213: -1429295262911740869
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_243
+  - first:
+      213: -4681942214263295988
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_244
+  - first:
+      213: 5201096759866469528
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_245
+  - first:
+      213: 7664318822977453906
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_246
+  - first:
+      213: 1632161562259852292
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_247
+  - first:
+      213: -8349753437879513172
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_248
+  - first:
+      213: 5323796177133979320
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_249
+  - first:
+      213: -2947680640371903754
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_250
+  - first:
+      213: 3642009895200792303
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_251
+  - first:
+      213: 8058978988465046762
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_252
+  - first:
+      213: -6263959736648211498
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_253
+  - first:
+      213: -5198090636436609359
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_254
+  - first:
+      213: -3608275151095602910
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_255
+  - first:
+      213: 7221690515233830939
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_256
+  - first:
+      213: 9142512405621144309
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_257
+  - first:
+      213: -890795070507669250
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_258
+  - first:
+      213: -4877146021699866850
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_259
+  - first:
+      213: 2265827983684999612
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_260
+  - first:
+      213: -2669570548016479872
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_261
+  - first:
+      213: 6946552147919926441
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_262
+  - first:
+      213: -1923846926664482194
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_263
+  - first:
+      213: 9173343926412542756
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_264
+  - first:
+      213: -5486547528539184409
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_265
+  - first:
+      213: 2722119617478052653
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_266
+  - first:
+      213: 8186396897058516159
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_267
+  - first:
+      213: 473151558068838486
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_268
+  - first:
+      213: -4726469466718348458
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_269
+  - first:
+      213: 1346110522408857165
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_270
+  - first:
+      213: 187934317565112766
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_271
+  - first:
+      213: -5447220484178735883
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_272
+  - first:
+      213: 1507061528131276810
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_273
+  - first:
+      213: 9019640127927122104
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_274
+  - first:
+      213: 1645751864262713983
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_275
+  - first:
+      213: -8993939733650703446
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_276
+  - first:
+      213: -4129094656292899270
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_277
+  - first:
+      213: 8575897336694356566
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_278
+  - first:
+      213: -5993527157772289604
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_279
+  - first:
+      213: 1517835912035874405
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_280
+  - first:
+      213: 5556011050142508716
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_281
+  - first:
+      213: -1287861551236171954
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_282
+  - first:
+      213: -2425805522733081339
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_283
+  - first:
+      213: 2266094092647511167
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_284
+  - first:
+      213: 905575189498417547
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_285
+  - first:
+      213: 7629328085422064989
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_286
+  - first:
+      213: 5910884289912103873
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_287
+  - first:
+      213: 5914009715964491323
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_288
+  - first:
+      213: -7784529089703998972
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_289
+  - first:
+      213: 588860390973007718
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_290
+  - first:
+      213: -8132230679678346254
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_291
+  - first:
+      213: 8798973114015153180
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_292
+  - first:
+      213: 6509710935248589889
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_293
+  - first:
+      213: 3199260215668371735
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_294
+  - first:
+      213: 7219299482480882669
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_295
+  - first:
+      213: -6546401918381699381
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_296
+  - first:
+      213: 5827653320828404318
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_297
+  - first:
+      213: 558156953371081373
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_298
+  - first:
+      213: 318962942057634651
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_299
+  - first:
+      213: -2651997245840386105
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_300
+  - first:
+      213: -8680454010023521084
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_301
+  - first:
+      213: -3498070113633856409
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_302
+  - first:
+      213: -6071420583347762134
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_303
+  - first:
+      213: -6681058812630803618
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_304
+  - first:
+      213: -9156219133007692831
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_305
+  - first:
+      213: -7150202261923156476
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_306
+  - first:
+      213: 8843116691771725999
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_307
+  - first:
+      213: 7764586334680653599
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_308
+  - first:
+      213: 3987371190691252969
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_309
+  - first:
+      213: 8763575490877183225
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_310
+  - first:
+      213: -6965119863985551577
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_311
+  - first:
+      213: 3056467335209011911
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_312
+  - first:
+      213: -5801693227440332856
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_313
+  - first:
+      213: 1519779629759255058
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_314
+  - first:
+      213: 1812635516461228465
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_315
+  - first:
+      213: 2967903587808268352
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_316
+  - first:
+      213: -2161506877816748229
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_317
+  - first:
+      213: -2322217006119415393
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_318
+  - first:
+      213: -5775602337022490606
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_319
+  - first:
+      213: -3743979245690009371
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_320
+  - first:
+      213: -4334409435596833182
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_321
+  - first:
+      213: 6714675357990482055
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_322
+  - first:
+      213: -5109735765870687573
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_323
+  - first:
+      213: -4033186112747724464
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_324
+  - first:
+      213: 5817493438624047953
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_325
+  - first:
+      213: 2989864193742337997
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_326
+  - first:
+      213: -6955566431775586796
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_327
+  - first:
+      213: -6403560890280948219
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_328
+  - first:
+      213: -7948855444501881601
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_329
+  - first:
+      213: -7332960360453546849
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_330
+  - first:
+      213: 1789702915819343347
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_331
+  - first:
+      213: -624444085529540915
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_332
+  - first:
+      213: 8510344061313347114
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_333
+  - first:
+      213: 4440347928359835759
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_334
+  - first:
+      213: 6644172633794671631
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_335
+  - first:
+      213: -394314430750878558
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_336
+  - first:
+      213: -4179357911644134427
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_337
+  - first:
+      213: -3594817499366052629
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_338
+  - first:
+      213: 1187761479342236176
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_339
+  - first:
+      213: -1657757319931093737
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_340
+  - first:
+      213: -5210375971348705921
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_341
+  - first:
+      213: 8678393718863434958
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_342
+  - first:
+      213: 4031700619623859389
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_343
+  - first:
+      213: -9121637144191344966
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_344
+  - first:
+      213: -2105565090771981440
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_345
+  - first:
+      213: 6057377793892685705
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_346
+  - first:
+      213: 3017641994910825424
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_347
+  - first:
+      213: -617784391308235975
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_348
+  - first:
+      213: -428653694827182248
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_349
+  - first:
+      213: 2422917604727076354
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_350
+  - first:
+      213: 6247232640159923426
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_351
+  - first:
+      213: -5068427743897681717
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_352
+  - first:
+      213: 1278168104798783272
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_353
+  - first:
+      213: -5633939612438655853
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_354
+  - first:
+      213: 6803820484693397843
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_355
+  - first:
+      213: 5844685412632075057
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_356
+  - first:
+      213: 4604711102742349934
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_357
+  - first:
+      213: 3054947442505470718
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_358
+  - first:
+      213: -4679699034742203666
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_359
+  - first:
+      213: 855486681341664461
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_360
+  - first:
+      213: 2933242315653347767
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_361
+  - first:
+      213: -7929134411772278600
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_362
+  - first:
+      213: 3618573367941718317
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_363
+  - first:
+      213: -1892362396317165549
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_364
+  - first:
+      213: 8208786870820249997
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_365
+  - first:
+      213: 9027203387890838447
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_366
+  - first:
+      213: -6936065410720209903
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_367
+  - first:
+      213: 7010885002112563139
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_368
+  - first:
+      213: 890931029065245376
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_369
+  - first:
+      213: -1729972846024699986
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_370
+  - first:
+      213: 6396119851254990479
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_371
+  - first:
+      213: -3796068016072133260
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_372
+  - first:
+      213: 7512180307804931550
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_373
+  - first:
+      213: 5203842390004097676
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_374
+  - first:
+      213: 6792909130959706735
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_375
+  - first:
+      213: 8759864696484007049
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_376
+  - first:
+      213: -3674657197938745727
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_377
+  - first:
+      213: -4519879199221390278
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_378
+  - first:
+      213: 3177599605411588431
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_379
+  - first:
+      213: -3571841218510604013
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_380
+  - first:
+      213: 7269866764934335887
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_381
+  - first:
+      213: 4448069193001901410
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_382
+  - first:
+      213: 6161179555122104720
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_383
+  - first:
+      213: 2071587534128797185
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_384
+  - first:
+      213: 9032628081924488810
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_385
+  - first:
+      213: 1936106646600358808
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_386
+  - first:
+      213: -5795483602869001305
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_387
+  - first:
+      213: -5727488231046428138
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_388
+  - first:
+      213: -9125824815615193516
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_389
+  - first:
+      213: 7670058615568296642
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_390
+  - first:
+      213: -6951025700849434691
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_391
+  - first:
+      213: -6025387754853940481
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_392
+  - first:
+      213: -8220826829605075284
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_393
+  - first:
+      213: -8383536542377666602
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_394
+  - first:
+      213: 1904373985121068244
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_395
+  - first:
+      213: 6237572377549147952
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_396
+  - first:
+      213: 2095970018876605398
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_397
+  - first:
+      213: 2658362034237035362
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_398
+  - first:
+      213: -7715402988727846580
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_399
+  - first:
+      213: 5577345839272921397
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_400
+  - first:
+      213: -2216278332873312871
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_401
+  - first:
+      213: -5240202948171322857
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_402
+  - first:
+      213: 356729360039108835
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_403
+  - first:
+      213: 2490686219574866918
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_404
+  - first:
+      213: 3897279844460535606
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_405
+  - first:
+      213: 98899416957105546
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_406
+  - first:
+      213: 9199360439455693494
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_407
+  - first:
+      213: -1684534584686741580
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_408
+  - first:
+      213: 6595538522578396591
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_409
+  - first:
+      213: 820938403081990076
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_410
+  - first:
+      213: 5367450433498340960
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_411
+  - first:
+      213: 3688748050009358616
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_412
+  - first:
+      213: 3386344859226021641
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_413
+  - first:
+      213: -5966851509502461688
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_414
+  - first:
+      213: 1140499292256267187
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_415
+  - first:
+      213: 6005432019290040990
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_416
+  - first:
+      213: 6387706087744266361
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_417
+  - first:
+      213: 7320018193021365667
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_418
+  - first:
+      213: 2032180272100301726
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_419
+  - first:
+      213: 2008458187561609109
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_420
+  - first:
+      213: 4055489843750093209
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_421
+  - first:
+      213: 8304351797948220166
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_422
+  - first:
+      213: -6209490977255734723
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_423
+  - first:
+      213: 1121450275241751362
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_424
+  - first:
+      213: -8916303426371462837
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_425
+  - first:
+      213: 7711850370836465551
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_426
+  - first:
+      213: -3609630080735045552
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_427
+  - first:
+      213: -5290575176198679630
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_428
+  - first:
+      213: 2702952085700052965
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_429
+  - first:
+      213: -8144498953818852695
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_430
+  - first:
+      213: 5395294217476955609
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_431
+  - first:
+      213: 3359452966197294015
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_432
+  - first:
+      213: -4152120243760944180
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_433
+  - first:
+      213: -1735722308869110712
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_434
+  - first:
+      213: 2409045060046670703
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_435
+  - first:
+      213: -6147190018990442950
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_436
+  - first:
+      213: 359103117256668531
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_437
+  - first:
+      213: -4390286648926613319
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_438
+  - first:
+      213: 7014029493784223180
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_439
+  - first:
+      213: -41683815125530211
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_440
+  - first:
+      213: -2091913253978343369
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_441
+  - first:
+      213: 2881615592156293846
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_442
+  - first:
+      213: -5055443676118093770
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_443
+  - first:
+      213: -5007567260055082965
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_444
+  - first:
+      213: -3004823049371192165
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_445
+  - first:
+      213: 8969040405288489543
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_446
+  - first:
+      213: -2643137520031268301
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_447
+  - first:
+      213: -5977553859842349761
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_448
+  - first:
+      213: -2680424267228273581
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_449
+  - first:
+      213: -4115736990368870968
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_450
+  - first:
+      213: 5422267841232274348
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_451
+  - first:
+      213: 3859192723190707335
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_452
+  - first:
+      213: -1921425922269124586
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_453
+  - first:
+      213: -8686868213021410821
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_454
+  - first:
+      213: -694963157290815710
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_455
+  - first:
+      213: 4088098438522661379
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_456
+  - first:
+      213: 5262843526721141544
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_457
+  - first:
+      213: -3903784963646951554
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_458
+  - first:
+      213: -7759768510929344259
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_459
+  - first:
+      213: 4057380125920619359
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_460
+  - first:
+      213: -2085967050622540123
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_461
+  - first:
+      213: -2610083568018570405
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_462
+  - first:
+      213: -6327944248897663993
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_463
+  - first:
+      213: -5097179687910595646
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_464
+  - first:
+      213: 6424784649610987129
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_465
+  - first:
+      213: -7093241146176082569
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_466
+  - first:
+      213: -4036431028925449706
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_467
+  - first:
+      213: 8528240268989147366
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_468
+  - first:
+      213: -8166690278590799052
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_469
+  - first:
+      213: -2916513823463453745
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_470
+  - first:
+      213: 689244584015857747
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_471
+  - first:
+      213: 5703381857352133360
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_472
+  - first:
+      213: -7655792794967219480
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_473
+  - first:
+      213: -411756673314750694
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_474
+  - first:
+      213: -3800333714298956848
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_475
+  - first:
+      213: 290598794412769281
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_476
+  - first:
+      213: -7666250281656390200
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_477
+  - first:
+      213: -7152322346569613574
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_478
+  - first:
+      213: -5048464931879056083
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_479
+  - first:
+      213: 2105123537348277733
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_480
+  - first:
+      213: 655638164997320192
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_481
+  - first:
+      213: 886982212603654218
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_482
+  - first:
+      213: -1805669315143311587
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_483
+  - first:
+      213: 7163300470946907599
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_484
+  - first:
+      213: 5655238209557738956
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_485
+  - first:
+      213: -3380695494551026353
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_486
+  - first:
+      213: -8964240861972486284
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_487
+  - first:
+      213: 6620756893160655435
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_488
+  - first:
+      213: 8899514704818843360
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_489
+  - first:
+      213: -5760281394693382299
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_490
+  - first:
+      213: -4833103927830401212
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_491
+  - first:
+      213: -8220025358949000038
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_492
+  - first:
+      213: -2388599611939245358
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_493
+  - first:
+      213: -2222673041271298060
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_494
+  - first:
+      213: -2201831920058568257
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_495
+  - first:
+      213: -8909988004111384581
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_496
+  - first:
+      213: 5638372215073847445
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_497
+  - first:
+      213: 1351346142924266128
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_498
+  - first:
+      213: -4926454653182614458
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_499
+  - first:
+      213: -42024154921932407
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_500
+  - first:
+      213: 1676619056968590630
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_501
+  - first:
+      213: 3381979141998228928
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_502
+  - first:
+      213: -6079132214425806867
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_503
+  - first:
+      213: -9207822124184991801
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_504
+  - first:
+      213: 5267234165108010750
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_505
+  - first:
+      213: -2348015312033079986
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_506
+  - first:
+      213: -4600568560574340167
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_507
+  - first:
+      213: 3213740056638869664
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_508
+  - first:
+      213: 4110673423331266121
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_509
+  - first:
+      213: -7377467115804901747
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_510
+  - first:
+      213: 5122422384495342999
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_511
+  - first:
+      213: 1292111311006004909
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_512
+  - first:
+      213: -8617375624611569982
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_513
+  - first:
+      213: -5192135739923293104
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_514
+  - first:
+      213: 3123557880482805972
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_515
+  - first:
+      213: 5480492969397467293
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_516
+  - first:
+      213: 4665585407917889732
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_517
+  - first:
+      213: -5411851837854189394
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_518
+  - first:
+      213: 1367808849900195850
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_519
+  - first:
+      213: -8422597502586423663
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_520
+  - first:
+      213: -1670719930284695633
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_521
+  - first:
+      213: 1033732834354009434
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_522
+  - first:
+      213: 2346723191480865832
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_523
+  - first:
+      213: 6035945848838837898
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_524
+  - first:
+      213: -7915453222443367255
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_525
+  - first:
+      213: -8093403151839552656
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_526
+  - first:
+      213: 6361182404581205517
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_527
+  - first:
+      213: 4746143853372537418
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_528
+  - first:
+      213: -8317309811876173247
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_529
+  - first:
+      213: -8353736616638907054
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_530
+  - first:
+      213: -1272869739428622398
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_531
+  - first:
+      213: 5510349233627181637
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_532
+  - first:
+      213: 2238372300854128295
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_533
+  - first:
+      213: -783740751570347539
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_534
+  - first:
+      213: 4234686643171729157
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_535
+  - first:
+      213: -6351064061192648754
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_536
+  - first:
+      213: -7801771767127941235
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_537
+  - first:
+      213: 7959306563694542266
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_538
+  - first:
+      213: -8369925441815520543
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_539
+  - first:
+      213: -2538917645465034635
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_540
+  - first:
+      213: 4559393246094854755
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_541
+  - first:
+      213: 7191126588767963617
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_542
+  - first:
+      213: 3204284076135282999
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_543
+  - first:
+      213: 7769735602423628801
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_544
+  - first:
+      213: 5091394889905482209
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_545
+  - first:
+      213: 6757229213680774845
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_546
+  - first:
+      213: -6444330630943312943
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_547
+  - first:
+      213: 4745908432161476469
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_548
+  - first:
+      213: -8155867562587002630
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_549
+  - first:
+      213: -8367565821546009230
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_550
+  - first:
+      213: 5056455185769453015
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_551
+  - first:
+      213: 3215828237528790339
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_552
+  - first:
+      213: -5858522640720528375
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_553
+  - first:
+      213: -4331990944701150716
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_554
+  - first:
+      213: 3088797270150068225
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_555
+  - first:
+      213: -6396638905948110212
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_556
+  - first:
+      213: -8758180858239166830
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_557
+  - first:
+      213: 2705568664574723084
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_558
+  - first:
+      213: -5118175683471220788
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_559
+  - first:
+      213: 1343516532448273255
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_560
+  - first:
+      213: -341785887561282304
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_561
+  - first:
+      213: -6531572650746465556
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_562
+  - first:
+      213: 5867964789253277042
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_563
+  - first:
+      213: 8557193732583601087
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_564
+  - first:
+      213: -9075963838552258853
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_565
+  - first:
+      213: 8223005524786177947
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_566
+  - first:
+      213: -604090738863230022
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_567
+  - first:
+      213: 2795991615567419089
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_568
+  - first:
+      213: 6153374796221136908
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_569
+  - first:
+      213: -635783286902361977
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_570
+  - first:
+      213: -201538060139317541
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_571
+  - first:
+      213: 8897456032429969057
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_572
+  - first:
+      213: -228556471217559364
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_573
+  - first:
+      213: -2911651692691149581
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_574
+  - first:
+      213: -1987396137995953684
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_575
+  - first:
+      213: 5914842295347828042
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_576
+  - first:
+      213: -5733567477521801978
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_577
+  - first:
+      213: -9075423413708123813
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_578
+  - first:
+      213: -2817282554881776736
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_579
+  - first:
+      213: -5945413567650411780
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_580
+  - first:
+      213: -33774645658292586
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_581
+  - first:
+      213: 2175453437880921474
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_582
+  - first:
+      213: -2086246924873357171
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_583
+  - first:
+      213: 1210360575085592861
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_584
+  - first:
+      213: -1494848858853146084
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_585
+  - first:
+      213: -4926436417609946196
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_586
+  - first:
+      213: 6978405733071433591
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_587
+  - first:
+      213: 6740484931392243274
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_588
+  - first:
+      213: 9114070471395601783
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_589
+  - first:
+      213: 2642440485332487156
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_590
+  - first:
+      213: 869229743666147886
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_591
+  - first:
+      213: -6626595400651034270
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_592
+  - first:
+      213: 9195905823566290197
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_593
+  - first:
+      213: 7924392745478859386
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_594
+  - first:
+      213: -5700909496345917746
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_595
+  - first:
+      213: 4799645936652542155
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_596
+  - first:
+      213: 8747629187528032058
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_597
+  - first:
+      213: 5244727776835507959
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_598
+  - first:
+      213: -6101310356806212703
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_599
+  - first:
+      213: -236944800265387752
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_600
+  - first:
+      213: -7076996333043783118
+    second: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+      Warriors, Minish Cap-Style)_601
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule
+        Warriors, Minish Cap-Style)_0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 237
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbedaa7110810b0800000000000000
+      internalID: -5757850922430578903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a71e40934aa6774f9ad576cebe9ab62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":600.0,"y":590.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Custom _ Edited - The Legend of Zelda Customs - Items - Items (Hyrule Warriors, Minish Cap-Style)_0: -5757850922430578903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

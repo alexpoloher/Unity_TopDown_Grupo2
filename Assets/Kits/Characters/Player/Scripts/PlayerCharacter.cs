@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,27 +9,61 @@ public class PlayerCharacter : BaseCharacter
 
 
     //Controles
+
+    [Header("Controles")]
     [SerializeField] InputActionReference move;
+<<<<<<< HEAD
+    [SerializeField] InputActionReference slash;
+    [SerializeField] InputActionReference roll;
+    [SerializeField] InputActionReference shoot;
+
+=======
     [SerializeField] InputActionReference punch;
+    [SerializeField] InputActionReference dash;
+>>>>>>> naomi
     Vector2 rawMove;
-    bool mustPunch;
+    bool mustSlash;
     Vector2 punchDirection = Vector2.down;
-    [Header("Punch data")]
+
+    [Header("Sword parameters")]
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
+<<<<<<< HEAD
+    [SerializeField] float poderAtaque = 2.0f;
+    [SerializeField] float knockback = -50.0f;
+=======
+
+    [Header("Dash data")]
+    [SerializeField] float dashVelocity = 5f; //O lo que veais
+
+
 
     Life life;
 
+    private Vector2 lastDir;
+
+    private Animator anim;
+
+>>>>>>> naomi
     private bool tieneEspada = false;
+
+    [Header("Roll parameters")]
+    [SerializeField] float rollVelocity = 2f;
+
+    [Header("Bow parameters")]
+    [SerializeField] GameObject arrow;
     private bool tieneArco = false;
     private int cantidadFlechas = 0;    //Flechas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxFlechas = 20;
 
-
-    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
-
+    [Header("Bomb parameters")]
+    private bool tieneBombas = false;
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
+
+    Life life;
+
+    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
     private bool estaCayendo = false;
 
@@ -39,7 +74,7 @@ public class PlayerCharacter : BaseCharacter
     {
         base.Awake();
         life = GetComponent<Life>();
-
+        anim = GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -49,20 +84,62 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed += OnMove;
         move.action.canceled += OnMove;
 
-        punch.action.Enable();
-        punch.action.performed += OnPunch;
+        slash.action.Enable();
+        slash.action.performed += OnPunch;
 
+        roll.action.Enable();
+
+        shoot.action.Enable();
+        
+
+        dash.action.Enable();
+        dash.action.performed += OnDash;
     }
+
 
     protected override void Update()
     {
         base.Update();
         Move(rawMove);
 
-        if (mustPunch && tieneEspada)
+        if (mustSlash && tieneEspada)
         {
-            mustPunch = false;
-            PerformPunch();
+            mustSlash = false;
+            PerformSlash();
+        }
+
+        if (roll.action.triggered && rollDelay <= 0f)
+        {
+            OnRoll();
+        }
+        if (timeToRoll >= 0.3f)
+        {
+            doRoll = false;
+        }
+        if (rollDelay > 0f)
+        {
+            rollDelay -= Time.deltaTime;
+        }
+        if (doRoll)
+        {
+            DoRoll();
+            timeToRoll += Time.deltaTime;
+            rollDelay = 0.6f;
+        }
+
+        if (shoot.action.triggered && shootDelay <= 0f)
+        {
+            OnShoot();
+        }
+        if (shootDelay > 0f)
+        {
+            shootDelay -= Time.deltaTime;
+        }
+        if (mustShoot && tieneArco && cantidadFlechas > 0)
+        {
+            mustShoot = false;
+            PerformShoot();
+            shootDelay = 1f;
         }
 
         GuardarPosSuelo();
@@ -115,7 +192,7 @@ public class PlayerCharacter : BaseCharacter
         }
     }
 
-    void PerformPunch() {
+    void PerformSlash() {
         //En lugar de usar colliders con trigger para los puñetazos
         //Lanza un círculo para comprobar si hay enemigo a la hora de haber ehcho el golpeo
         RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, punchRadius, punchDirection * punchRange);
@@ -124,9 +201,11 @@ public class PlayerCharacter : BaseCharacter
             if (hit.collider)
             {
                 BaseCharacter otherBaseCharacter = hit.collider.GetComponent<BaseCharacter>();
+                Life otherCharacterLife = hit.collider.GetComponent<Life>();
                 if(otherBaseCharacter != this)  //This es la referencia a este mismo
                 {
-                    otherBaseCharacter?.NotifyHit();
+                    otherCharacterLife?.OnHitReceived(poderAtaque);
+                    otherBaseCharacter?.AplicarKnockback(knockback);
                 }
 
                 //Si ha golpeado a un jarrón, este se rompe
@@ -147,6 +226,56 @@ public class PlayerCharacter : BaseCharacter
         }
     }
 
+    void DoRoll()
+    {
+        Roll(rollVelocity);
+    }
+
+    void PerformShoot()
+    {
+        Vector3 arrowRotation;
+        if (rawMove.x < 0)
+        {
+            if (rawMove.y < 0)
+            {
+                arrowRotation = new Vector3(0, 0, 135);
+            } else if (rawMove.y > 0)
+            {
+                arrowRotation = new Vector3(0, 0, 45);
+            } else
+            {
+                arrowRotation = new Vector3(0, 0, 90);
+            }
+        } else if (rawMove.x > 0)
+        {
+            if (rawMove.y < 0)
+            {
+                arrowRotation = new Vector3(0, 0, -135);
+            }
+            else if (rawMove.y > 0)
+            {
+                arrowRotation = new Vector3(0, 0, -45);
+            }
+            else
+            {
+                arrowRotation = new Vector3(0, 0, -90);
+            }
+        } else
+        {
+            if (rawMove.y > 0)
+            {
+                arrowRotation = new Vector3(0, 0, 0);
+            }
+            else
+            {
+                arrowRotation = new Vector3(0, 0, 180);
+            }
+        }
+
+        GameObject arrowShot = Instantiate(arrow, transform.position, Quaternion.Euler(arrowRotation));
+        cantidadFlechas--;
+    }
+
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
@@ -161,29 +290,69 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed -= OnMove;
         move.action.canceled -= OnMove;
 
+<<<<<<< HEAD
+        slash.action.Disable();
+        slash.action.performed -= OnPunch;
+=======
         punch.action.Disable();
         punch.action.performed -= OnPunch;
-    }
 
+        dash.action.Disable();
+        dash.action.performed -= OnDash;
+    }
+>>>>>>> naomi
+
+        roll.action.Disable();
+
+        shoot.action.Disable();
+
+    }
 
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.action.ReadValue<Vector2>();  //Lee le valor de la acción que lo ha llamado, indicando que esperamos leer un Vector2
-       
-        //En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
-        if(rawMove.magnitude > 0f)
-        {
-            punchDirection = rawMove.normalized;
-        }
 
+        ////En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
+        //if (rawMove.magnitude > 0f)
+        //{
+        //    Vector2 punchDirection = rawMove.normalized;
+        //}
+        //Innecesario, está en el BaseCharacter
     }
 
     private void OnPunch(InputAction.CallbackContext context)
     {
         //Se indica que debe golpear
-        mustPunch = true;
+<<<<<<< HEAD
+        mustSlash = true;
     }
 
+    bool doRoll;
+    float timeToRoll;
+    float rollDelay = 0f;
+    private void OnRoll()
+    {
+        doRoll = true;
+        timeToRoll = 0f;
+    }
+
+    bool mustShoot;
+    float shootDelay = 0f;
+    private void OnShoot()
+    {
+        mustShoot = true;
+        shootDelay = 0f;
+=======
+        mustPunch = true;
+        anim.SetBool("mustPunch", true);
+>>>>>>> naomi
+    }
+
+
+    private void OnDash(InputAction.CallbackContext context)
+    {
+        anim.SetBool("Dash", true);
+    }
 
 
     //Al abrir un cofre o que un Npc te de un objeto, se llama a este método
@@ -229,13 +398,13 @@ public class PlayerCharacter : BaseCharacter
     public void ImpedirMovimientos()
     {
         move.action.Disable();
-        punch.action.Disable();
+        slash.action.Disable();
     }
 
     public void Permitirmovimientos()
     {
         move.action.Enable();
-        punch.action.Enable();
+        slash.action.Enable();
 
     }
 

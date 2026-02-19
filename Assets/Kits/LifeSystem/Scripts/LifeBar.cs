@@ -18,7 +18,7 @@ public class LifeBar : MonoBehaviour
         life.onDeath.RemoveListener(OnDeath);
     }
 
-    void OnLifeChanged(float newLife) {
+    public void OnLifeChanged(float newLife) {
         imageFill.fillAmount = newLife;
     }
 

@@ -22,15 +22,38 @@ public class BaseCharacter : MonoBehaviour, IVisible2D
 
     protected virtual void Update()
     {
-        animator.SetFloat("HorizontalVelocity", lastMoveDirection.x); //Poniendo rawMove.x, hace que se oriente hacia donde apuntes, da igual hacia donde esté moviendose
-        animator.SetFloat("VerticalVelocity", lastMoveDirection.y);
+        animator.SetFloat("EjeX", lastMoveDirection.x); //Poniendo rawMove.x, hace que se oriente hacia donde apuntes, da igual hacia donde esté moviendose
+        animator.SetFloat("EjeY", lastMoveDirection.y);
     }
 
 
     protected void Move(Vector2 direction)
     {
         rb.position += direction * linearSpeed * Time.deltaTime;
-        lastMoveDirection = direction;
+        if (direction != Vector2.zero)
+        {
+            lastMoveDirection = direction;
+        }
+
+        if (direction.magnitude > 0f)
+        {
+            animator.SetBool("IsMoving", true);
+        }
+
+        else
+        {
+            animator.SetBool("IsMoving", false);
+        }
+    }
+
+    protected void Roll(float rollSpeed)
+    {
+        rb.position += lastMoveDirection * rollSpeed * Time.deltaTime;
+    }
+
+    internal void AplicarKnockback(float velocidadKnockback)
+    {
+        rb.position += lastMoveDirection * velocidadKnockback * Time.deltaTime;
     }
 
     public void NotifyHit()

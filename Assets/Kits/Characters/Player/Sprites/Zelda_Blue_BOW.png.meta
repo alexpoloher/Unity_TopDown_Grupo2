@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 74e8dc67f5748cd42a058a155a23b78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9005161489322233057
+    second: Zelda_Blue_BOW_0
+  - first:
+      213: 1265684721177335589
+    second: Zelda_Blue_BOW_1
+  - first:
+      213: 9125586181614922927
+    second: Zelda_Blue_BOW_2
+  - first:
+      213: -1057094476925170885
+    second: Zelda_Blue_BOW_3
+  - first:
+      213: -344060099425480317
+    second: Zelda_Blue_BOW_4
+  - first:
+      213: 7203687018551994491
+    second: Zelda_Blue_BOW_5
+  - first:
+      213: -1565742868168046530
+    second: Zelda_Blue_BOW_6
+  - first:
+      213: -1419954780136461957
+    second: Zelda_Blue_BOW_7
+  - first:
+      213: -375737558680858577
+    second: Zelda_Blue_BOW_8
+  - first:
+      213: 102488438322353600
+    second: Zelda_Blue_BOW_9
+  - first:
+      213: 404505802854167531
+    second: Zelda_Blue_BOW_10
+  - first:
+      213: 7667843929573344699
+    second: Zelda_Blue_BOW_11
+  - first:
+      213: -7470913294259183151
+    second: Zelda_Blue_BOW_12
+  - first:
+      213: -7586444959449854024
+    second: Zelda_Blue_BOW_13
+  - first:
+      213: 389686126636822303
+    second: Zelda_Blue_BOW_14
+  - first:
+      213: -8805621760677591705
+    second: Zelda_Blue_BOW_15
+  - first:
+      213: 7469809350473596167
+    second: Zelda_Blue_BOW_16
+  - first:
+      213: 3604400203929901287
+    second: Zelda_Blue_BOW_17
+  - first:
+      213: -3325301465476742824
+    second: Zelda_Blue_BOW_18
+  - first:
+      213: 7210885693398271121
+    second: Zelda_Blue_BOW_19
+  - first:
+      213: -1195354983378413121
+    second: Zelda_Blue_BOW_20
+  - first:
+      213: -6792180137811082494
+    second: Zelda_Blue_BOW_21
+  - first:
+      213: 4003867761498588157
+    second: Zelda_Blue_BOW_22
+  - first:
+      213: 55422288697448708
+    second: Zelda_Blue_BOW_23
+  - first:
+      213: -5194170515082513459
+    second: Zelda_Blue_BOW_24
+  - first:
+      213: -3170504729606311885
+    second: Zelda_Blue_BOW_25
+  - first:
+      213: 447766868121046824
+    second: Zelda_Blue_BOW_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4414c9a2c8fc70800000000000000
+      internalID: 9005161489322233057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271a6b4c8d909110800000000000000
+      internalID: 1265684721177335589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facee52684894ae70800000000000000
+      internalID: 9125586181614922927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 101
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b09d88c227451f0800000000000000
+      internalID: -1057094476925170885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 100
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381db589927a93bf0800000000000000
+      internalID: -344060099425480317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 101
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7862e53d23a8f360800000000000000
+      internalID: 7203687018551994491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e380e35382d554ae0800000000000000
+      internalID: -1565742868168046530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7929d496ae4b4ce0800000000000000
+      internalID: -1419954780136461957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201e0e5eac19caf0800000000000000
+      internalID: -375737558680858577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d9cf01bc1c6100800000000000000
+      internalID: 102488438322353600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f4b072e71d9500800000000000000
+      internalID: 404505802854167531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 71
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ca5f8d67a96a60800000000000000
+      internalID: 7667843929573344699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d120f301fbf15890800000000000000
+      internalID: -7470913294259183151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf40fb018887b690800000000000000
+      internalID: -7586444959449854024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe510b771786500800000000000000
+      internalID: 389686126636822303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765cc50b9a52cc580800000000000000
+      internalID: -8805621760677591705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dbeda07081aa760800000000000000
+      internalID: 7469809350473596167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 41
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8569773e6650230800000000000000
+      internalID: 3604400203929901287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514c237fe72ad1d0800000000000000
+      internalID: -3325301465476742824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19443fe4556321460800000000000000
+      internalID: 7210885693398271121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99c33d9fe396fe0800000000000000
+      internalID: -1195354983378413121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038e43b6245db1a0800000000000000
+      internalID: -6792180137811082494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df303c30488909730800000000000000
+      internalID: 4003867761498588157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40953762746e4c000800000000000000
+      internalID: 55422288697448708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f2b9bf699ae7b0800000000000000
+      internalID: -5194170515082513459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330be191fba1004d0800000000000000
+      internalID: -3170504729606311885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Blue_BOW_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f4b8c1899c63600800000000000000
+      internalID: 447766868121046824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zelda_Blue_BOW_0: 9005161489322233057
+      Zelda_Blue_BOW_1: 1265684721177335589
+      Zelda_Blue_BOW_10: 404505802854167531
+      Zelda_Blue_BOW_11: 7667843929573344699
+      Zelda_Blue_BOW_12: -7470913294259183151
+      Zelda_Blue_BOW_13: -7586444959449854024
+      Zelda_Blue_BOW_14: 389686126636822303
+      Zelda_Blue_BOW_15: -8805621760677591705
+      Zelda_Blue_BOW_16: 7469809350473596167
+      Zelda_Blue_BOW_17: 3604400203929901287
+      Zelda_Blue_BOW_18: -3325301465476742824
+      Zelda_Blue_BOW_19: 7210885693398271121
+      Zelda_Blue_BOW_2: 9125586181614922927
+      Zelda_Blue_BOW_20: -1195354983378413121
+      Zelda_Blue_BOW_21: -6792180137811082494
+      Zelda_Blue_BOW_22: 4003867761498588157
+      Zelda_Blue_BOW_23: 55422288697448708
+      Zelda_Blue_BOW_24: -5194170515082513459
+      Zelda_Blue_BOW_25: -3170504729606311885
+      Zelda_Blue_BOW_26: 447766868121046824
+      Zelda_Blue_BOW_3: -1057094476925170885
+      Zelda_Blue_BOW_4: -344060099425480317
+      Zelda_Blue_BOW_5: 7203687018551994491
+      Zelda_Blue_BOW_6: -1565742868168046530
+      Zelda_Blue_BOW_7: -1419954780136461957
+      Zelda_Blue_BOW_8: -375737558680858577
+      Zelda_Blue_BOW_9: 102488438322353600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
