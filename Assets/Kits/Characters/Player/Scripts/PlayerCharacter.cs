@@ -9,10 +9,16 @@ public class PlayerCharacter : BaseCharacter
 
 
     //Controles
+
+    [Header("Controles")]
     [SerializeField] InputActionReference move;
+
     [SerializeField] InputActionReference slash;
     [SerializeField] InputActionReference roll;
     [SerializeField] InputActionReference shoot;
+
+    //[SerializeField] InputActionReference punch;
+    //[SerializeField] InputActionReference dash;
 
     Vector2 rawMove;
     bool mustSlash;
@@ -21,8 +27,17 @@ public class PlayerCharacter : BaseCharacter
     [Header("Sword parameters")]
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
+
     [SerializeField] float poderAtaque = 2.0f;
     [SerializeField] float knockback = -50.0f;
+
+
+    Life life;
+
+    private Vector2 lastDir;
+
+    private Animator anim;
+
     private bool tieneEspada = false;
 
     [Header("Roll parameters")]
@@ -39,7 +54,6 @@ public class PlayerCharacter : BaseCharacter
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
 
-    Life life;
 
     private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
@@ -52,7 +66,7 @@ public class PlayerCharacter : BaseCharacter
     {
         base.Awake();
         life = GetComponent<Life>();
-
+        anim = GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -63,14 +77,13 @@ public class PlayerCharacter : BaseCharacter
         move.action.canceled += OnMove;
 
         slash.action.Enable();
-        slash.action.performed += OnPunch;
+        slash.action.performed += OnSlash;
 
         roll.action.Enable();
 
         shoot.action.Enable();
-        
-
     }
+
 
     protected override void Update()
     {
@@ -265,8 +278,9 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed -= OnMove;
         move.action.canceled -= OnMove;
 
+
         slash.action.Disable();
-        slash.action.performed -= OnPunch;
+        slash.action.performed -= OnSlash;
 
         roll.action.Disable();
 
@@ -277,16 +291,16 @@ public class PlayerCharacter : BaseCharacter
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.action.ReadValue<Vector2>();  //Lee le valor de la acción que lo ha llamado, indicando que esperamos leer un Vector2
-       
-        //En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
-        if(rawMove.magnitude > 0f)
-        {
-            punchDirection = rawMove.normalized;
-        }
 
+        ////En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
+        //if (rawMove.magnitude > 0f)
+        //{
+        //    Vector2 punchDirection = rawMove.normalized;
+        //}
+        //Innecesario, está en el BaseCharacter
     }
 
-    private void OnPunch(InputAction.CallbackContext context)
+    private void OnSlash(InputAction.CallbackContext context)
     {
         //Se indica que debe golpear
         mustSlash = true;
@@ -295,20 +309,31 @@ public class PlayerCharacter : BaseCharacter
     bool doRoll;
     float timeToRoll;
     float rollDelay = 0f;
+
     private void OnRoll()
     {
         doRoll = true;
         timeToRoll = 0f;
+        anim.SetBool("Dash", true);
     }
 
     bool mustShoot;
     float shootDelay = 0f;
+
     private void OnShoot()
     {
         mustShoot = true;
         shootDelay = 0f;
+
+        mustSlash = true;
+        anim.SetBool("mustPunch", true);
     }
 
+
+    //private void OnDash(InputAction.CallbackContext context)
+    //{
+    //    anim.SetBool("Dash", true);
+    //}
 
 
     //Al abrir un cofre o que un Npc te de un objeto, se llama a este método
