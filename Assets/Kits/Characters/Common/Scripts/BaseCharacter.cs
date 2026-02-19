@@ -33,6 +33,16 @@ public class BaseCharacter : MonoBehaviour, IVisible2D
         lastMoveDirection = direction;
     }
 
+    protected void Roll(float rollSpeed)
+    {
+        rb.position += lastMoveDirection * rollSpeed * Time.deltaTime;
+    }
+
+    internal void AplicarKnockback(float velocidadKnockback)
+    {
+        rb.position += lastMoveDirection * velocidadKnockback * Time.deltaTime;
+    }
+
     public void NotifyHit()
     {
         Destroy(gameObject);
