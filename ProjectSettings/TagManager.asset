@@ -46,13 +46,13 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: Floor
     uniqueID: 2771455427
     locked: 0
-  - name: Characters
+  - name: Floor_Details
     uniqueID: 778810039
     locked: 0
-  - name: CloudShadows
+  - name: Environment
     uniqueID: 1888217933
     locked: 0
   - name: UI
