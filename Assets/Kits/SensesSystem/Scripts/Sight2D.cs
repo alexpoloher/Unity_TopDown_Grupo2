@@ -63,7 +63,8 @@ public class Sight2D : MonoBehaviour
         bool valorRetorno = false;
         for (int i = 0; colliders != null && (i < colliders.Length) && !valorRetorno; i++)
         {
-            if (colliders[i].CompareTag("Player")){
+            if (colliders[i].CompareTag("Player"))
+            {
                 valorRetorno = true;
             }
         }

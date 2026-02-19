@@ -7,11 +7,11 @@ public class BaseCharacter : MonoBehaviour, IVisible2D
     [SerializeField] int priority = 0;
     [SerializeField] IVisible2D.Side side;
 
-    Animator animator;
-    Rigidbody2D rb;
+    protected Animator animator;
+    protected Rigidbody2D rb;
 
     //Movimiento
-    [SerializeField] float linearSpeed = 1f;
+    [SerializeField] protected float linearSpeed = 1f;
     Vector2 lastMoveDirection;
 
     protected virtual void Awake()
