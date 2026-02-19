@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GreenChuchu : EnemyBase
+public class Chuchu : EnemyBase
 {
     [Header("Jump")]
     [SerializeField] float jumpSpeed = 50f;
