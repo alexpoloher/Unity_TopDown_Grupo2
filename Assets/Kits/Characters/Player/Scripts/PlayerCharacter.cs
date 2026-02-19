@@ -8,8 +8,11 @@ public class PlayerCharacter : BaseCharacter
 
 
     //Controles
+
+    [Header("Controles")]
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference punch;
+    [SerializeField] InputActionReference dash;
     Vector2 rawMove;
     bool mustPunch;
     Vector2 punchDirection = Vector2.down;
@@ -17,7 +20,16 @@ public class PlayerCharacter : BaseCharacter
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
 
+    [Header("Dash data")]
+    [SerializeField] float dashVelocity = 5f; //O lo que veais
+
+
+
     Life life;
+
+    private Vector2 lastDir;
+
+    private Animator anim;
 
     private bool tieneEspada = false;
     private bool tieneArco = false;
@@ -39,7 +51,7 @@ public class PlayerCharacter : BaseCharacter
     {
         base.Awake();
         life = GetComponent<Life>();
-
+        anim = GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -52,7 +64,10 @@ public class PlayerCharacter : BaseCharacter
         punch.action.Enable();
         punch.action.performed += OnPunch;
 
+        dash.action.Enable();
+        dash.action.performed += OnDash;
     }
+
 
     protected override void Update()
     {
@@ -163,27 +178,36 @@ public class PlayerCharacter : BaseCharacter
 
         punch.action.Disable();
         punch.action.performed -= OnPunch;
+
+        dash.action.Disable();
+        dash.action.performed -= OnDash;
     }
 
 
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.action.ReadValue<Vector2>();  //Lee le valor de la acción que lo ha llamado, indicando que esperamos leer un Vector2
-       
-        //En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
-        if(rawMove.magnitude > 0f)
-        {
-            punchDirection = rawMove.normalized;
-        }
 
+        ////En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
+        //if (rawMove.magnitude > 0f)
+        //{
+        //    Vector2 punchDirection = rawMove.normalized;
+        //}
+        //Innecesario, está en el BaseCharacter
     }
 
     private void OnPunch(InputAction.CallbackContext context)
     {
         //Se indica que debe golpear
         mustPunch = true;
+        anim.SetBool("mustPunch", true);
     }
 
+
+    private void OnDash(InputAction.CallbackContext context)
+    {
+        anim.SetBool("Dash", true);
+    }
 
 
     //Al abrir un cofre o que un Npc te de un objeto, se llama a este método

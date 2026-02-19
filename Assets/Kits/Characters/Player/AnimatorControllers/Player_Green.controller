@@ -145,8 +145,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -192,8 +192,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -338,8 +338,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -385,8 +385,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -428,10 +428,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: HasSword
+    m_ConditionEvent: tieneEspada
     m_EventTreshold: 0
   - m_ConditionMode: 1
-    m_ConditionEvent: AttackSword
+    m_ConditionEvent: mustPunch
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1867133723150222333}
@@ -480,16 +480,16 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player
+  m_Name: Player_Green
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: HorizontalVelocity
+  - m_Name: EjeX
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: VerticalVelocity
+  - m_Name: EjeY
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -501,13 +501,49 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
+  - m_Name: Dash
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: tieneArco
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: tieneEspada
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: mustPunch
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   - m_Name: IsDead
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
+  - m_Name: GetNewItem
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   - m_Name: HasObject
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: IsClimbing
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -520,48 +556,6 @@ AnimatorController:
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   - m_Name: IsPulling
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: GetNewItem
-    m_Type: 9
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: IsClimbing
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Dash
-    m_Type: 9
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: AttackSword
-    m_Type: 9
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: AttackBow
-    m_Type: 9
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: HasBow
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: HasSword
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -614,10 +608,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: AttackBow
+    m_ConditionEvent: mustPunch
     m_EventTreshold: 0
   - m_ConditionMode: 1
-    m_ConditionEvent: HasBow
+    m_ConditionEvent: tieneArco
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 3846442084015203327}
@@ -774,8 +768,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0.25
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -1054,8 +1048,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -1123,8 +1117,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -1197,8 +1191,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: HorizontalVelocity
     m_Mirror: 0
-  m_BlendParameter: HorizontalVelocity
-  m_BlendParameterY: VerticalVelocity
+  m_BlendParameter: EjeX
+  m_BlendParameterY: EjeY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
@@ -1277,22 +1271,22 @@ AnimatorStateMachine:
     m_Position: {x: 260, y: 10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -944100237428719036}
-    m_Position: {x: 580, y: 430, z: 0}
+    m_Position: {x: 560, y: 420, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2326131274480861121}
-    m_Position: {x: 780, y: 340, z: 0}
+    m_Position: {x: 800, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3028677193402455967}
-    m_Position: {x: 1030, y: 340, z: 0}
+    m_Position: {x: 800, y: 350, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3846442084015203327}
-    m_Position: {x: 220, y: 260, z: 0}
+    m_Position: {x: 180, y: 260, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5437518785430214725}
     m_Position: {x: 850, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1867133723150222333}
-    m_Position: {x: 440, y: 260, z: 0}
+    m_Position: {x: 400, y: 260, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: 3733537213712026425}
