@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 498209270}
   - component: {fileID: 498209269}
   - component: {fileID: 498209268}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.25, y: 1.5625}
+  m_Size: {x: 1.5, y: 1.9375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -226,7 +226,7 @@ Transform:
   m_GameObject: {fileID: 498209267}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.5108905, y: -1.2823341, z: 0}
+  m_LocalPosition: {x: -2.414, y: -1.531, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

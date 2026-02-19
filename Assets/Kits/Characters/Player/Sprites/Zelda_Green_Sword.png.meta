@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c8b94aa0586e9294d95b9809a1ec7ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2644860012682841309
+    second: Zelda_Green_Sword_0
+  - first:
+      213: -678581979035004174
+    second: Zelda_Green_Sword_1
+  - first:
+      213: -8559973228073580335
+    second: Zelda_Green_Sword_2
+  - first:
+      213: -1911275627820016626
+    second: Zelda_Green_Sword_3
+  - first:
+      213: 5506902394334124868
+    second: Zelda_Green_Sword_4
+  - first:
+      213: -4929436698156265645
+    second: Zelda_Green_Sword_5
+  - first:
+      213: -4543788939132095797
+    second: Zelda_Green_Sword_6
+  - first:
+      213: 6302311161016387380
+    second: Zelda_Green_Sword_7
+  - first:
+      213: -3651088040732781040
+    second: Zelda_Green_Sword_8
+  - first:
+      213: -6734299978576568937
+    second: Zelda_Green_Sword_9
+  - first:
+      213: 8761229456189452295
+    second: Zelda_Green_Sword_10
+  - first:
+      213: -7976252700254145403
+    second: Zelda_Green_Sword_11
+  - first:
+      213: 5804300947539974351
+    second: Zelda_Green_Sword_12
+  - first:
+      213: -8792071638451695724
+    second: Zelda_Green_Sword_13
+  - first:
+      213: -7966506563891344320
+    second: Zelda_Green_Sword_14
+  - first:
+      213: -3797198226674902350
+    second: Zelda_Green_Sword_15
+  - first:
+      213: -6844283367563229286
+    second: Zelda_Green_Sword_16
+  - first:
+      213: -8199447214364937447
+    second: Zelda_Green_Sword_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc88902b2e64b420800000000000000
+      internalID: 2644860012682841309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f213ac09413596f0800000000000000
+      internalID: -678581979035004174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d802d5a3bdd43980800000000000000
+      internalID: -8559973228073580335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1def51f8c975e0800000000000000
+      internalID: -1911275627820016626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 93
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b98030d827c6c40800000000000000
+      internalID: 5506902394334124868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0f97b07f179bb0800000000000000
+      internalID: -4929436698156265645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2beaca80831f0c0800000000000000
+      internalID: -4543788939132095797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 57
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4378c502c9e467750800000000000000
+      internalID: 6302311161016387380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 57
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016127075cab45dc0800000000000000
+      internalID: -3651088040732781040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd50e69d5fa82a0800000000000000
+      internalID: -6734299978576568937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007cdb75c3269970800000000000000
+      internalID: 8761229456189452295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 59
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f99add68ae4190800000000000000
+      internalID: -7976252700254145403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8559395f40d8050800000000000000
+      internalID: 5804300947539974351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fcc4e5d694cf580800000000000000
+      internalID: -8792071638451695724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c407e0d78417190800000000000000
+      internalID: -7966506563891344320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba9c4dc454ad4bc0800000000000000
+      internalID: -3797198226674902350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97874e2a883401a0800000000000000
+      internalID: -6844283367563229286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Green_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91336397336b53e80800000000000000
+      internalID: -8199447214364937447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zelda_Green_Sword_0: 2644860012682841309
+      Zelda_Green_Sword_1: -678581979035004174
+      Zelda_Green_Sword_10: 8761229456189452295
+      Zelda_Green_Sword_11: -7976252700254145403
+      Zelda_Green_Sword_12: 5804300947539974351
+      Zelda_Green_Sword_13: -8792071638451695724
+      Zelda_Green_Sword_14: -7966506563891344320
+      Zelda_Green_Sword_15: -3797198226674902350
+      Zelda_Green_Sword_16: -6844283367563229286
+      Zelda_Green_Sword_17: -8199447214364937447
+      Zelda_Green_Sword_2: -8559973228073580335
+      Zelda_Green_Sword_3: -1911275627820016626
+      Zelda_Green_Sword_4: 5506902394334124868
+      Zelda_Green_Sword_5: -4929436698156265645
+      Zelda_Green_Sword_6: -4543788939132095797
+      Zelda_Green_Sword_7: 6302311161016387380
+      Zelda_Green_Sword_8: -3651088040732781040
+      Zelda_Green_Sword_9: -6734299978576568937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
