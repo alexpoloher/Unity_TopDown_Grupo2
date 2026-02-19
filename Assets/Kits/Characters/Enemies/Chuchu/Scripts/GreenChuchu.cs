@@ -1,6 +1,4 @@
-using System;
 using UnityEngine;
-using static UnityEngine.LightAnchor;
 
 public class GreenChuchu : EnemyBase
 {
