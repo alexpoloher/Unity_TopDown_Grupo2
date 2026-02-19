@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: df6e4f1824ec1a0409ae2b5665a8dbd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7823577503827512047
+    second: Zelda_White_Sword_0
+  - first:
+      213: -3995054830713387186
+    second: Zelda_White_Sword_1
+  - first:
+      213: -796863596773121650
+    second: Zelda_White_Sword_2
+  - first:
+      213: 3673051535548204970
+    second: Zelda_White_Sword_3
+  - first:
+      213: 5782876261816783197
+    second: Zelda_White_Sword_4
+  - first:
+      213: -8758382086194039668
+    second: Zelda_White_Sword_5
+  - first:
+      213: -5040086008291670727
+    second: Zelda_White_Sword_6
+  - first:
+      213: -1010532503633577637
+    second: Zelda_White_Sword_7
+  - first:
+      213: 7167002065233349318
+    second: Zelda_White_Sword_8
+  - first:
+      213: -1907580964297197786
+    second: Zelda_White_Sword_9
+  - first:
+      213: 3398005638325288169
+    second: Zelda_White_Sword_10
+  - first:
+      213: 6599327769083676430
+    second: Zelda_White_Sword_11
+  - first:
+      213: -4890730290553532501
+    second: Zelda_White_Sword_12
+  - first:
+      213: -1149160037520321488
+    second: Zelda_White_Sword_13
+  - first:
+      213: -3146229795839002659
+    second: Zelda_White_Sword_14
+  - first:
+      213: -1955060439939086611
+    second: Zelda_White_Sword_15
+  - first:
+      213: -3714753774601587792
+    second: Zelda_White_Sword_16
+  - first:
+      213: 3022089828005822964
+    second: Zelda_White_Sword_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zelda_White_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4064e94ee29c60800000000000000
+      internalID: 7823577503827512047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47ce155cc6be88c0800000000000000
+      internalID: -3995054830713387186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81e5ebd7c8f0f4f0800000000000000
+      internalID: -796863596773121650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7cd0239ec49f230800000000000000
+      internalID: 3673051535548204970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 93
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d0a53257e04050800000000000000
+      internalID: 5782876261816783197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84724185e9f37680800000000000000
+      internalID: -8758382086194039668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935cb5e9a740e0ab0800000000000000
+      internalID: -5040086008291670727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 57
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593feeba0ed9f1f0800000000000000
+      internalID: -1010532503633577637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 57
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca89bae76e467360800000000000000
+      internalID: 7167002065233349318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b4c24839e685e0800000000000000
+      internalID: -1907580964297197786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec3729ef14282f20800000000000000
+      internalID: 3398005638325288169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 59
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078a9824a5859b50800000000000000
+      internalID: 6599327769083676430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf405386b2a02cb0800000000000000
+      internalID: -4890730290553532501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d68dc80d5d00f0800000000000000
+      internalID: -1149160037520321488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7344d8ba85654d0800000000000000
+      internalID: -3146229795839002659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6030363ea3ed4e0800000000000000
+      internalID: -1955060439939086611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b4d4af1b827cc0800000000000000
+      internalID: -3714753774601587792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_White_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1cb95dfae90f920800000000000000
+      internalID: 3022089828005822964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zelda_White_Sword_0: 7823577503827512047
+      Zelda_White_Sword_1: -3995054830713387186
+      Zelda_White_Sword_10: 3398005638325288169
+      Zelda_White_Sword_11: 6599327769083676430
+      Zelda_White_Sword_12: -4890730290553532501
+      Zelda_White_Sword_13: -1149160037520321488
+      Zelda_White_Sword_14: -3146229795839002659
+      Zelda_White_Sword_15: -1955060439939086611
+      Zelda_White_Sword_16: -3714753774601587792
+      Zelda_White_Sword_17: 3022089828005822964
+      Zelda_White_Sword_2: -796863596773121650
+      Zelda_White_Sword_3: 3673051535548204970
+      Zelda_White_Sword_4: 5782876261816783197
+      Zelda_White_Sword_5: -8758382086194039668
+      Zelda_White_Sword_6: -5040086008291670727
+      Zelda_White_Sword_7: -1010532503633577637
+      Zelda_White_Sword_8: 7167002065233349318
+      Zelda_White_Sword_9: -1907580964297197786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

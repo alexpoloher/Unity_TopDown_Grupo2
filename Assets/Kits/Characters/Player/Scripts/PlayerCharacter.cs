@@ -9,11 +9,18 @@ public class PlayerCharacter : BaseCharacter
 
 
     //Controles
+
+    [Header("Controles")]
     [SerializeField] InputActionReference move;
+<<<<<<< HEAD
     [SerializeField] InputActionReference slash;
     [SerializeField] InputActionReference roll;
     [SerializeField] InputActionReference shoot;
 
+=======
+    [SerializeField] InputActionReference punch;
+    [SerializeField] InputActionReference dash;
+>>>>>>> naomi
     Vector2 rawMove;
     bool mustSlash;
     Vector2 punchDirection = Vector2.down;
@@ -21,8 +28,23 @@ public class PlayerCharacter : BaseCharacter
     [Header("Sword parameters")]
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
+<<<<<<< HEAD
     [SerializeField] float poderAtaque = 2.0f;
     [SerializeField] float knockback = -50.0f;
+=======
+
+    [Header("Dash data")]
+    [SerializeField] float dashVelocity = 5f; //O lo que veais
+
+
+
+    Life life;
+
+    private Vector2 lastDir;
+
+    private Animator anim;
+
+>>>>>>> naomi
     private bool tieneEspada = false;
 
     [Header("Roll parameters")]
@@ -52,7 +74,7 @@ public class PlayerCharacter : BaseCharacter
     {
         base.Awake();
         life = GetComponent<Life>();
-
+        anim = GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -70,7 +92,10 @@ public class PlayerCharacter : BaseCharacter
         shoot.action.Enable();
         
 
+        dash.action.Enable();
+        dash.action.performed += OnDash;
     }
+
 
     protected override void Update()
     {
@@ -265,8 +290,17 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed -= OnMove;
         move.action.canceled -= OnMove;
 
+<<<<<<< HEAD
         slash.action.Disable();
         slash.action.performed -= OnPunch;
+=======
+        punch.action.Disable();
+        punch.action.performed -= OnPunch;
+
+        dash.action.Disable();
+        dash.action.performed -= OnDash;
+    }
+>>>>>>> naomi
 
         roll.action.Disable();
 
@@ -277,18 +311,19 @@ public class PlayerCharacter : BaseCharacter
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.action.ReadValue<Vector2>();  //Lee le valor de la acción que lo ha llamado, indicando que esperamos leer un Vector2
-       
-        //En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
-        if(rawMove.magnitude > 0f)
-        {
-            punchDirection = rawMove.normalized;
-        }
 
+        ////En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
+        //if (rawMove.magnitude > 0f)
+        //{
+        //    Vector2 punchDirection = rawMove.normalized;
+        //}
+        //Innecesario, está en el BaseCharacter
     }
 
     private void OnPunch(InputAction.CallbackContext context)
     {
         //Se indica que debe golpear
+<<<<<<< HEAD
         mustSlash = true;
     }
 
@@ -307,8 +342,17 @@ public class PlayerCharacter : BaseCharacter
     {
         mustShoot = true;
         shootDelay = 0f;
+=======
+        mustPunch = true;
+        anim.SetBool("mustPunch", true);
+>>>>>>> naomi
     }
 
+
+    private void OnDash(InputAction.CallbackContext context)
+    {
+        anim.SetBool("Dash", true);
+    }
 
 
     //Al abrir un cofre o que un Npc te de un objeto, se llama a este método
