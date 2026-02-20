@@ -71,8 +71,6 @@ public class PlayerCharacter : BaseCharacter
     private Vector3 ultimaPosEnSuelo;
     private float tiempoUltimaComprobacion;
 
-
-
     protected override void Awake()
     {
         base.Awake();
@@ -100,6 +98,10 @@ public class PlayerCharacter : BaseCharacter
     private void Start()
     {
         GameManager gm = GameManager.Instance;
+        if (GestorPlayer.Instance != null)
+        {
+            GestorPlayer.Instance.RegistrarJugador(this);
+        }
     }
 
     protected override void Update()

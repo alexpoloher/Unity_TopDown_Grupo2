@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 
 public class GestorPlayer : MonoBehaviour
 {
@@ -8,7 +10,7 @@ public class GestorPlayer : MonoBehaviour
     private PlayerCharacter playerScript;
     public string idPuertaDestino = "";
 
-
+    
     private void Awake()
     {
         if (Instance == null)

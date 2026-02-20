@@ -47,6 +47,7 @@ public class CofreScript : MonoBehaviour
 
     private void OnInteractuar(InputAction.CallbackContext context)
     {
+
         if (!estaAbierto && pedirBotonMostrandose == true)
         {
             animator.SetBool("Abierto", true);
@@ -57,6 +58,7 @@ public class CofreScript : MonoBehaviour
             estaEnRango = false;
             pedirBotonInteractuar.gameObject.SetActive(false);
 
+ 
             //Se muestra el contenido del cofre, y tras un rato, se le aplica el efecto al jugador
             if (!tieneQueEsperar)
             {
@@ -71,7 +73,7 @@ public class CofreScript : MonoBehaviour
 
     IEnumerator DarObjetoAlPlayer()
     {
-
+   
         yield return new WaitForSeconds(tiempoParaDesaparecerItem);
         refItemContenido.SetActive(false);
         if (playerRef != null)
