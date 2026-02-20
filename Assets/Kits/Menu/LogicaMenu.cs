@@ -8,6 +8,7 @@ public class LogicaMenu : MonoBehaviour
 {
     public GameObject mainMenuPanel;
     public GameObject characterSelectPanel;
+    public GameObject pauseMenuPanel;
     public Button continueButton;
 
     public GameObject characterPreviewPoint;
@@ -32,6 +33,7 @@ public class LogicaMenu : MonoBehaviour
     public void NewGame()
     {
         mainMenuPanel.SetActive(false);
+        pauseMenuPanel.SetActive(false);
         characterSelectPanel.SetActive(true);
         characterPreviewPoint.SetActive(true);
     }
