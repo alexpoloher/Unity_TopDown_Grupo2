@@ -47,10 +47,7 @@ public class Bobomb : EnemyBase
                 chargeTimer -= Time.deltaTime;
                 if (chargeTimer < 0f)
                 {
-                    status = BobombStatus.Charging;
-                    animator.SetTrigger("triggerCharge");
-                    explosionTimer = explosionCountdown;
-                    Move(Vector3.zero);
+                    doCharge();
                 }
 
                 if (isAggro)
@@ -69,8 +66,11 @@ public class Bobomb : EnemyBase
                 explosionTimer -= Time.deltaTime;
                 if (explosionTimer < 0f)
                 {
-                    doExplode();
+                    this.killEnemy();
                 }
+                break;
+
+            case BobombStatus.Exploding:
                 break;
         }
     }
@@ -88,9 +88,22 @@ public class Bobomb : EnemyBase
         }
     }
 
-    private void doExplode()
+    private void doCharge()
     {
-        //Daño en area, efecto de explosion, etc
-        killEnemy();
+        status = BobombStatus.Charging;
+        animator.SetTrigger("triggerCharge");
+        explosionTimer = explosionCountdown;
+        Move(Vector3.zero);
+    }
+    protected override void recieveDamage(float dmg)
+    {
+        doCharge();
+    }
+
+    protected override void killEnemy()
+    {
+        status = BobombStatus.Exploding;
+        animator.SetTrigger("triggerDeath");
+        Destroy(gameObject, 0.75f); //La animacion de muerte dura 45/60 fotogramas
     }
 }
