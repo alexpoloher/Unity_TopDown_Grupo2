@@ -9,10 +9,12 @@ public class Chuchu : EnemyBase
     [SerializeField] float jumpDistance = 5f;
 
     private ChuchuStatus status;
+    private float originalSpeed;
     new void Awake()
     {
         base.Awake();
         status = ChuchuStatus.Hiding;
+        originalSpeed = linearSpeed;
     }
 
     private Vector3 jumpDirection;
@@ -38,11 +40,12 @@ public class Chuchu : EnemyBase
                 //Movimiento normal
                 Vector3 playerPosition = sight.GetClosestTarget().position;
                 Vector3 towardsPlayerDirection = (playerPosition - transform.position).normalized;
-                rb.linearVelocity = towardsPlayerDirection * linearSpeed;
+                Move(towardsPlayerDirection);
 
                 float distanceToPlayer = Vector3.Distance(playerPosition, transform.position);
                 if (distanceToPlayer < jumpDistance)
                 {
+                    linearSpeed = jumpSpeed;
                     jumpDirection = towardsPlayerDirection;
                     status = ChuchuStatus.Jumping;
                     jumpTimer = jumpDuration;
@@ -58,8 +61,7 @@ public class Chuchu : EnemyBase
 
         case ChuchuStatus.Jumping:
             jumpTimer -= Time.deltaTime;
-            //Movimiento por salto
-            rb.linearVelocity = jumpDirection * jumpSpeed;
+            Move(jumpDirection);
             if (jumpTimer < 0f)
             {
                 doIdleStart();
@@ -74,6 +76,7 @@ public class Chuchu : EnemyBase
                 if (isAggro)
                 {
                     status = ChuchuStatus.Walking;
+                    linearSpeed = originalSpeed;
                     print("Animacion walk");
                 }
                 else

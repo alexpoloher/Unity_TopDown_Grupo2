@@ -1,3 +1,4 @@
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class Bobomb : EnemyBase
@@ -30,12 +31,14 @@ public class Bobomb : EnemyBase
                 if (isAggro)
                 {
                     status = BobombStatus.Chasing;
+                    animator.SetTrigger("triggerChase");
                     chargeTimer = chargeCountdown;
+                    linearSpeed = chasingSpeed;
                 }
                 else
                 {
                     Vector3 movementDirection = (nextPointPosition - transform.position).normalized;
-                    rb.linearVelocity = movementDirection * linearSpeed;
+                    Move(movementDirection);
                     updateRoute();
                 }
                 break;
@@ -45,19 +48,20 @@ public class Bobomb : EnemyBase
                 if (chargeTimer < 0f)
                 {
                     status = BobombStatus.Charging;
+                    animator.SetTrigger("triggerCharge");
                     explosionTimer = explosionCountdown;
-                    rb.linearVelocity = Vector3.zero;
+                    Move(Vector3.zero);
                 }
 
                 if (isAggro)
                 {
                     Vector3 playerPosition = sight.GetClosestTarget().position;
                     Vector3 movementDirection = (playerPosition - transform.position).normalized;
-                    rb.linearVelocity = movementDirection * chasingSpeed;
+                    Move(movementDirection);
                 }
                 else
                 {
-                    rb.linearVelocity = Vector3.zero;
+                    Move(Vector3.zero);
                 }
                 break;
 
@@ -86,7 +90,7 @@ public class Bobomb : EnemyBase
 
     private void doExplode()
     {
-        //Daño en area, efecto
+        //Daño en area, efecto de explosion, etc
         killEnemy();
     }
 }

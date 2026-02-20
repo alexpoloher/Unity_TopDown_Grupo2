@@ -8,7 +8,7 @@ public class EnemyBase : BaseCharacter
     protected AudioSource audioSource;
 
     protected bool isAggro;
-    protected virtual void Awake()
+    protected override void Awake()
     {
         base.Awake();
         sprite = GetComponent<SpriteRenderer>();
@@ -17,8 +17,9 @@ public class EnemyBase : BaseCharacter
         isAggro = false;
     }
 
-    protected virtual void Update()
+    protected override void Update()
     {
+        base.Update();
         if (sight.GetClosestTarget() != null)
             isAggro = true;
         else
