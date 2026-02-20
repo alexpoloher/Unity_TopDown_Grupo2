@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e58aa527a73ace459c2dda6fc0d34fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Sight2D
-  radius: 1
+  radius: 2
   checkFrequency: 5
   perceivedSides: 0000000002000000
 --- !u!114 &2794473966304316977
@@ -68,7 +68,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BaseSkelleton
   priority: 0
   side: 1
-  linearSpeed: 1
+  linearSpeed: 2
 --- !u!114 &2900841038362058005
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -158,9 +158,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
+  m_SortingOrder: 2
   m_Sprite: {fileID: -87851405452967582, guid: 86fb28c40b6754045bd1188880fbbb02, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

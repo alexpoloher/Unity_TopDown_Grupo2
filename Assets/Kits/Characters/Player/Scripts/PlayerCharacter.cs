@@ -245,7 +245,6 @@ public class PlayerCharacter : BaseCharacter
 
     void DoRoll()
     {
-        anim.SetTrigger("Dash");
         Roll(rollVelocity);
     }
 
@@ -338,6 +337,7 @@ public class PlayerCharacter : BaseCharacter
     {
         doRoll = true;
         timeToRoll = 0f;
+        anim.SetTrigger("Dash");
     }
 
     bool mustShoot;
