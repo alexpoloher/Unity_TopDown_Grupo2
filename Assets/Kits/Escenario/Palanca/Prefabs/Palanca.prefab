@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.843, y: -5.332, z: 0}
-  m_LocalScale: {x: 2.0450034, y: 2.0450034, z: 2.0450034}
+  m_LocalScale: {x: 5.479382, y: 5.479382, z: 5.479382}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -53,6 +53,7 @@ MonoBehaviour:
   camaraPlayer: {fileID: 0}
   camaraBoton: {fileID: 0}
   tiempoCambioCamara: 5
+  sonidoActivar: {fileID: 8300000, guid: e9ab79829ee54724ebca4f2cb059eed1, type: 3}
 --- !u!212 &5504937301406087655
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.65, y: -1.152, z: 0}
-  m_LocalScale: {x: 1.9163519, y: 1.9163519, z: 1.9163519}
+  m_LocalScale: {x: 5.800922, y: 5.800922, z: 5.800922}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8979968714721500440}
@@ -49,7 +49,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d26e820c7175dd46befbcba0bf6e52d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JarronRompibleScript
-  objetoInterior: {fileID: 0}
+  sonidoRoto: {fileID: 8300000, guid: 60041426ef3ebfc4f9b4aa5c9a13254c, type: 3}
+  objetoInterior: {fileID: 9047204755386139060, guid: a5346192d0810a542b73c26372ae4b41, type: 3}
   posicionSpawnItem: {fileID: 8979968714721500440}
 --- !u!212 &6809808561539149038
 SpriteRenderer:

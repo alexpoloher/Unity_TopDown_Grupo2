@@ -11,7 +11,7 @@ public class ScriptPalanca : MonoBehaviour
     [SerializeField] float tiempoCambioCamara;
 
     Animator animator;
-
+    [SerializeField] AudioClip sonidoActivar;
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -21,7 +21,7 @@ public class ScriptPalanca : MonoBehaviour
     public void NotifyHit()
     {
         animator.SetTrigger("Activar");
-
+        GestorSonido.Instance.EjecutarSonido(sonidoActivar);
         if (camaraBoton != null && camaraPlayer != null)
         {
             camaraPlayer.Priority = 0;

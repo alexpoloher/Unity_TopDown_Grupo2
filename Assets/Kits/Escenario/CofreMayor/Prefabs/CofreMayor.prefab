@@ -164,6 +164,7 @@ MonoBehaviour:
   refItemContenido: {fileID: 2667197328202481551}
   tiempoParaDesaparecerItem: 1.25
   tieneQueEsperar: 1
+  sonidoAbrir: {fileID: 8300000, guid: dd14908f5e33c9744b4f6e10372acc33, type: 3}
 --- !u!212 &1635704706160695053
 SpriteRenderer:
   m_ObjectHideFlags: 0
