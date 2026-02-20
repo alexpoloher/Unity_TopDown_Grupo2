@@ -3,7 +3,7 @@ using UnityEngine;
 public class Bobomb : EnemyBase
 {
     [SerializeField] Transform[] patrolRoute;
-    [SerializeField] float chasingSpeed = 20f;
+    [SerializeField] float chasingSpeed = 2f;
     [SerializeField] float chargeCountdown = 5f;
     [SerializeField] float explosionCountdown = 0.5f;
     [SerializeField] float explosionDistance = 0.1f;
@@ -35,7 +35,7 @@ public class Bobomb : EnemyBase
                 else
                 {
                     Vector3 movementDirection = (nextPointPosition - transform.position).normalized;
-                    rb.linearVelocity = movementDirection * linearSpeed * Time.deltaTime;
+                    rb.linearVelocity = movementDirection * linearSpeed;
                     updateRoute();
                 }
                 break;
@@ -53,7 +53,7 @@ public class Bobomb : EnemyBase
                 {
                     Vector3 playerPosition = sight.GetClosestTarget().position;
                     Vector3 movementDirection = (playerPosition - transform.position).normalized;
-                    rb.linearVelocity = movementDirection * chasingSpeed * Time.deltaTime;
+                    rb.linearVelocity = movementDirection * chasingSpeed;
                 }
                 else
                 {

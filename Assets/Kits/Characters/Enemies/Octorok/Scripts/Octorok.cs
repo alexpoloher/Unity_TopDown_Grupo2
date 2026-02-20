@@ -37,7 +37,7 @@ public class Octorok : EnemyBase
 
             case OctorokStatus.Walking:
                 walkTimer -= Time.deltaTime;
-                rb.linearVelocity = movementDirection * linearSpeed * Time.deltaTime;
+                rb.linearVelocity = movementDirection * linearSpeed;
                 if (walkTimer < 0f)
                 {
                     rb.linearVelocity = Vector3.zero;

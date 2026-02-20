@@ -3,7 +3,7 @@ using UnityEngine;
 public class Chuchu : EnemyBase
 {
     [Header("Jump")]
-    [SerializeField] float jumpSpeed = 50f;
+    [SerializeField] float jumpSpeed = 3f;
     [SerializeField] float jumpDuration = 0.5f;
     [SerializeField] float jumpCooldown = 1f;
     [SerializeField] float jumpDistance = 5f;
@@ -38,7 +38,7 @@ public class Chuchu : EnemyBase
                 //Movimiento normal
                 Vector3 playerPosition = sight.GetClosestTarget().position;
                 Vector3 towardsPlayerDirection = (playerPosition - transform.position).normalized;
-                rb.linearVelocity = towardsPlayerDirection * linearSpeed * Time.deltaTime;
+                rb.linearVelocity = towardsPlayerDirection * linearSpeed;
 
                 float distanceToPlayer = Vector3.Distance(playerPosition, transform.position);
                 if (distanceToPlayer < jumpDistance)
@@ -59,7 +59,7 @@ public class Chuchu : EnemyBase
         case ChuchuStatus.Jumping:
             jumpTimer -= Time.deltaTime;
             //Movimiento por salto
-            rb.linearVelocity = jumpDirection * jumpSpeed * Time.deltaTime;
+            rb.linearVelocity = jumpDirection * jumpSpeed;
             if (jumpTimer < 0f)
             {
                 doIdleStart();
