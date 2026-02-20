@@ -1,5 +1,5 @@
 using UnityEngine;
-using static UnityEditor.PlayerSettings.SplashScreen;
+
 
 public class BaseCharacter : MonoBehaviour, IVisible2D
 {
