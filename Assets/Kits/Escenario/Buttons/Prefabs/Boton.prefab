@@ -53,6 +53,7 @@ MonoBehaviour:
   camaraPlayer: {fileID: 0}
   camaraBoton: {fileID: 0}
   tiempoCambioCamara: 5
+  sonidoActivar: {fileID: 8300000, guid: ca9fcb7ca27720f4db801089b46ea25b, type: 3}
 --- !u!212 &8453122236210899541
 SpriteRenderer:
   m_ObjectHideFlags: 0

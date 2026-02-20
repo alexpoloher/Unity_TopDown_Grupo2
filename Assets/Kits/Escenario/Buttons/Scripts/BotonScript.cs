@@ -11,7 +11,7 @@ public class BotonScript : MonoBehaviour
     [SerializeField] CinemachineCamera camaraPlayer;
     [SerializeField] CinemachineCamera camaraBoton;
     [SerializeField] float tiempoCambioCamara;
-
+    [SerializeField] AudioClip sonidoActivar;
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -35,6 +35,7 @@ public class BotonScript : MonoBehaviour
         estaPulsado = true;
         if (camaraBoton != null && camaraPlayer != null)
         {
+            GestorSonido.Instance.EjecutarSonido(sonidoActivar);
             camaraPlayer.Priority = 0;
             camaraBoton.Priority = 10;
             StartCoroutine(VolverACamaraJugador());

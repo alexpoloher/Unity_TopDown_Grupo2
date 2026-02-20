@@ -167,7 +167,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.037, y: -0.813, z: 0}
-  m_LocalScale: {x: 1.7071, y: 1.7071, z: 1.7071}
+  m_LocalScale: {x: 5.3736095, y: 5.3736095, z: 5.3736095}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2629173738419254470}
@@ -187,12 +187,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NpcsInteractuablesQuietos
   pedirBotonInteractuar: {fileID: 6096353010371159167}
   interactuar: {fileID: 5713074332584372969, guid: cbc19f8d33e2377448fee8f1ec0890fd, type: 3}
-  radioDeteccion: 0.5
+  radioDeteccion: 1
   personaje:
     serializedVersion: 2
     m_Bits: 8
   fraseDialogo: {fileID: 11400000, guid: 5aca6ec1cf9eace4987253ce4f513a4a, type: 2}
   imagenDialogo: {fileID: 0}
+  sonidoInicioDialogo: {fileID: 8300000, guid: 10cb425095c713046881a61347fb2f8c, type: 3}
 --- !u!212 &1813291055443646236
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -237,8 +238,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -8719632130819399153, guid: 8409ce0083ef89e4c9a246c22abf9825, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

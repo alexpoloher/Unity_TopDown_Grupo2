@@ -54,6 +54,8 @@ public class PlayerCharacter : BaseCharacter
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
 
+    [Header("Sonidos")]
+    [SerializeField] AudioClip sonidoRecogerItem;
 
     private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
@@ -155,6 +157,9 @@ public class PlayerCharacter : BaseCharacter
     {
         Drop drop = elOtro.GetComponent<Drop>();
         if (drop != null) {
+
+            GestorSonido.Instance.EjecutarSonido(sonidoRecogerItem);
+
             if (drop.dropDefinition.tipoDeObjeto.Equals(DropDefinition.enumTipoObjeto.Vida)) {
                 life.RecoverHealth(drop.dropDefinition.healthRecovery);
             }else if (drop.dropDefinition.tipoDeObjeto.Equals(DropDefinition.enumTipoObjeto.Balas))

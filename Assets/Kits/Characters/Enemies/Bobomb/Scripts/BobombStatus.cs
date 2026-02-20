@@ -4,5 +4,6 @@ public enum BobombStatus
 {
     Patroling,
     Chasing,
-    Charging
+    Charging,
+    Exploding
 }

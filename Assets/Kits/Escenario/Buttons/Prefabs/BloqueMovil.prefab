@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cca659038820d2429264699bd48055c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BloqueMovil
-  speed: 0.1
+  speed: 1
   posFinal: {fileID: 8523320336802613588}
   posInicial: {fileID: 8162130915954041072}
 --- !u!212 &2701237118598578809

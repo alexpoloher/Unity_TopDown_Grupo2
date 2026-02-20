@@ -2169,11 +2169,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4342992750568523753, guid: 1a932556b45847249ae98d6ab1b80fe3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 19.578611
+      value: 10.36
       objectReference: {fileID: 0}
     - target: {fileID: 4342992750568523753, guid: 1a932556b45847249ae98d6ab1b80fe3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.728254
+      value: -5.22
       objectReference: {fileID: 0}
     - target: {fileID: 4342992750568523753, guid: 1a932556b45847249ae98d6ab1b80fe3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -33229,6 +33229,63 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &444120702359506740
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316007551937222160, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053425944815761227, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
+      propertyPath: m_Name
+      value: Octorok
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de5892e5012dc2a42becc144bd55b29e, type: 3}
 --- !u!1001 &2365092571799246371
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33360,3 +33417,4 @@ SceneRoots:
   - {fileID: 6460564429869841087}
   - {fileID: 1562427325}
   - {fileID: 857533752}
+  - {fileID: 444120702359506740}

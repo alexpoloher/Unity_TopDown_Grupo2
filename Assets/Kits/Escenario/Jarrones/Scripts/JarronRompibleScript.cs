@@ -3,9 +3,11 @@ using UnityEngine;
 public class JarronRompibleScript : MonoBehaviour
 {
 
+    [SerializeField] AudioClip sonidoRoto;
     [SerializeField] GameObject objetoInterior;
     [SerializeField] Transform posicionSpawnItem;
     private Animator animator;
+
 
     private void Awake()
     {
@@ -20,6 +22,7 @@ public class JarronRompibleScript : MonoBehaviour
     private void RomperJarron()
     {
         animator.SetTrigger("Romper");
+        GestorSonido.Instance.EjecutarSonido(sonidoRoto);
     }
 
 
