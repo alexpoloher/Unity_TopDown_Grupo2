@@ -12,11 +12,6 @@ public class FlechasBehaviour : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
     private float currentDistance = 0f;
     void Update()
@@ -48,7 +43,7 @@ public class FlechasBehaviour : MonoBehaviour
             palanca.NotifyHit();
         }
 
-        if (!collision.CompareTag("Player") && !collision.CompareTag("PiesPlayer"))  // Si no es el jugador, entonces intenta hacer daño
+        if (!collision.CompareTag("Player") && !collision.CompareTag("PiesPlayer") && !collision.CompareTag("HuecoSuelo"))  // Si no es el jugador, entonces intenta hacer daño
         {
             otherCharacterLife?.OnHitReceived(damage);
             Destroy(gameObject); // Si choca y no es el jugador, se destruirá la flecha
