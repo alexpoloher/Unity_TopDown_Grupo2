@@ -15,6 +15,7 @@ public class Chuchu : EnemyBase
         base.Awake();
         status = ChuchuStatus.Hiding;
         originalSpeed = linearSpeed;
+        animator.SetBool("isHiding", true);
     }
 
     private Vector3 jumpDirection;
@@ -30,7 +31,7 @@ public class Chuchu : EnemyBase
             {
                 status = ChuchuStatus.Idle;
                 idleTimer = 0.2f;
-                print("Animacion rise");
+                animator.SetBool("isHiding", false);
             }
             break;
 
@@ -49,7 +50,7 @@ public class Chuchu : EnemyBase
                     jumpDirection = towardsPlayerDirection;
                     status = ChuchuStatus.Jumping;
                     jumpTimer = jumpDuration;
-                    print("Animacion jump");
+                    animator.SetTrigger("triggerJump");
                 }
             }
             else
@@ -65,11 +66,12 @@ public class Chuchu : EnemyBase
             if (jumpTimer < 0f)
             {
                 doIdleStart();
-                print("Animacion land");
+                animator.SetTrigger("triggerLand");
             }
             break;
 
         case ChuchuStatus.Idle:
+            Move(Vector2.zero);
             idleTimer -= Time.deltaTime;
             if (idleTimer < 0f)
             {
@@ -77,12 +79,11 @@ public class Chuchu : EnemyBase
                 {
                     status = ChuchuStatus.Walking;
                     linearSpeed = originalSpeed;
-                    print("Animacion walk");
                 }
                 else
                 {
                     status = ChuchuStatus.Hiding;
-                    print("Animacion hide");
+                    animator.SetBool("isHiding", true);
                 }
             }
             break;
