@@ -8,8 +8,14 @@ public class GameManager : MonoBehaviour
 
     [Header("Player State")]
     public string characterId;
-    public int currentLife;
+    public float currentLife;
     public int currentLevel;
+    public Vector3 currentPlayerPosition;
+    public int currentArrowAmount;
+    public int currentBombAmount;
+    public int currentKeyAmount;
+    public bool nowHasEspada;
+    public bool nowHasArco;
 
     private string SavePath => Application.persistentDataPath + "/save.json";
 
@@ -56,11 +62,19 @@ public class GameManager : MonoBehaviour
 
     public void SaveGame()
     {
+        RefreshFromPlayer();
+
         SaveData data = new SaveData
         {
             characterId = characterId,
             scene = currentLevel,
-            life = currentLife
+            life = currentLife,
+            playerPosition = currentPlayerPosition,
+            arrowAmount = currentArrowAmount,
+            bombAmount = currentBombAmount,
+            keyAmount = currentKeyAmount,
+            hasEspada = nowHasEspada,
+            hasArco = nowHasArco,
         };
 
         string json = JsonUtility.ToJson(data, true);
@@ -81,6 +95,12 @@ public class GameManager : MonoBehaviour
         characterId = data.characterId;
         currentLife = data.life;
         currentLevel = data.scene;
+        currentPlayerPosition = data.playerPosition;
+        currentArrowAmount = data.arrowAmount;
+        currentBombAmount = data.bombAmount;
+        currentKeyAmount = data.keyAmount;
+        nowHasEspada = data.hasEspada;
+        nowHasArco = data.hasArco;
 
         if (currentLevel == 0)
         {
@@ -88,9 +108,12 @@ public class GameManager : MonoBehaviour
             currentLevel = 1;
         }
 
-        isLoadingFromSave = true;
-
-        Debug.Log($"Loaded save -> Character: {characterId}, Life: {currentLife}, Level: {currentLevel}");
+        if (isLoadingFromSave)
+        {
+            isLoadingFromSave = false;
+            ApplyToPlayer();
+            return;
+        }
 
         SceneManager.LoadScene(currentLevel);
     }
@@ -100,5 +123,36 @@ public class GameManager : MonoBehaviour
     {
         currentLevel = SceneManager.GetActiveScene().buildIndex + 1;
         SceneManager.LoadScene(currentLevel);
+    }
+
+    private void RefreshFromPlayer()
+    {
+        PlayerCharacter player = FindFirstObjectByType<PlayerCharacter>();
+        Life life = player.GetComponent<Life>();
+
+        currentPlayerPosition = player.transform.position;
+        currentLife = life.currentLife;
+
+        nowHasEspada = player.tieneEspada;
+        nowHasArco = player.tieneArco;
+
+        currentArrowAmount = player.cantidadFlechas;
+        currentBombAmount = player.cantidadBombas;
+        currentKeyAmount = player.cantidadLlaves;
+    }
+
+    private void ApplyToPlayer()
+    {
+        PlayerCharacter player = FindFirstObjectByType<PlayerCharacter>();
+        Life life = player.GetComponent<Life>();
+
+        player.transform.position = currentPlayerPosition;
+        life.currentLife = currentLife;
+
+        player.tieneEspada = nowHasEspada;
+        player.tieneArco = nowHasArco;
+        player.cantidadFlechas = currentArrowAmount;
+        player.cantidadBombas = currentBombAmount;
+        player.cantidadLlaves = currentKeyAmount;
     }
 }

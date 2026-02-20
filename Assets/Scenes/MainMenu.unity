@@ -840,8 +840,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   characterId: 
-  currentLife: 5
+  currentLife: 1
   currentLevel: 0
+  currentPlayerPosition: {x: 0, y: 0, z: 0}
+  currentArrowAmount: 0
+  currentBombAmount: 0
+  currentKeyAmount: 0
+  nowHasEspada: 0
+  nowHasArco: 0
 --- !u!4 &679909750
 Transform:
   m_ObjectHideFlags: 0
