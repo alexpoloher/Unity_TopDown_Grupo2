@@ -5,7 +5,8 @@ public class GestorPlayer : MonoBehaviour
 {
 
     public static GestorPlayer Instance;
-    private GameObject player;
+    private PlayerCharacter playerScript;
+    public string idPuertaDestino = "";
 
 
     private void Awake()
@@ -14,48 +15,42 @@ public class GestorPlayer : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
-            SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else
         {
             Destroy(gameObject);
         }
-
-
     }
 
-    private void OnDisable()
+    public void RegistrarJugador(PlayerCharacter nuevoPlayer)
     {
-        SceneManager.sceneLoaded -= OnSceneLoaded;
+        playerScript = nuevoPlayer;
     }
 
-    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
-    {
-        player = GameObject.FindWithTag("Player");
-    }
     public void ImpedirMovimiento()
     {
-        if (player != null) {
-            player.GetComponent<PlayerCharacter>().ImpedirMovimientos();
-        }
-
+        if (playerScript != null) playerScript.ImpedirMovimientos();
     }
+
     public void PermitirMovimiento()
     {
-        if (player != null) {
-            player.GetComponent<PlayerCharacter>().Permitirmovimientos();
-        }
-
+        if (playerScript != null) playerScript.Permitirmovimientos();
     }
 
     public bool ComprobarSiJugadorTieneLlave()
     {
-        return player.GetComponent<PlayerCharacter>().JugadorTieneLlaves();
+        if (playerScript != null)
+        {
+            return playerScript.JugadorTieneLlaves();
+        }
+        return false;
     }
 
     public void ConsumirObjeto(DropDefinition.enumTipoObjeto tipoObjeto, int cantidad)
     {
-        player.GetComponent<PlayerCharacter>().ConsumirObjeto(tipoObjeto, cantidad);
+        if (playerScript != null)
+        {
+            playerScript.ConsumirObjeto(tipoObjeto, cantidad);
+        }
     }
-
 }

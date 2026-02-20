@@ -80,6 +80,8 @@ public class PlayerCharacter : BaseCharacter
         base.Awake();
         life = GetComponent<Life>();
         anim = GetComponent<Animator>();
+
+        DontDestroyOnLoad(gameObject);
     }
 
     private void OnEnable()
