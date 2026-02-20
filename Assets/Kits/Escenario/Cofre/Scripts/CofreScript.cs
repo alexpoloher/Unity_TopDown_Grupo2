@@ -19,6 +19,8 @@ public class CofreScript : MonoBehaviour
 
     [SerializeField] private bool tieneQueEsperar = false;
 
+    [SerializeField] AudioClip sonidoAbrir;
+
     private bool pedirBotonMostrandose;
     private bool estaEnRango;
     private bool estaAbierto = false;
@@ -49,6 +51,7 @@ public class CofreScript : MonoBehaviour
         {
             animator.SetBool("Abierto", true);
             estaAbierto = true;
+            GestorSonido.Instance.EjecutarSonido(sonidoAbrir);
 
             pedirBotonMostrandose = false;
             estaEnRango = false;

@@ -1,25 +1,26 @@
-using System;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
-using Object = UnityEngine.Object;
 
-public class NpcsInteractuablesQuietos : MonoBehaviour
+public class NpcsInteractuablesMoviles : NpcAnimalBase
 {
-
+    [Header("Info Diálogo")]
     [SerializeField] GameObject pedirBotonInteractuar;
     [SerializeField] InputActionReference interactuar;
     private bool pedirBotonMostrandose;
-    [SerializeField] float radioDeteccion = 0.5f;
-    [SerializeField] LayerMask personaje;
-    protected PlayerCharacter playerRef;
 
-    [SerializeField] protected FraseDialogo fraseDialogo;
+    public FraseDialogo fraseDialogo;
+
     private bool abriendoDialogo = false;
     private float delayDialogoInicio = 0.5f;
     private bool mostrandoDialogo = false;
     [SerializeField] Image imagenDialogo;
+
+    [Header("Sonido")]
+    [SerializeField] AudioClip sonidoInicioDialogo;
+
     private void OnEnable()
     {
         interactuar.action.Enable();
@@ -35,12 +36,11 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
     {
         if (!abriendoDialogo)
         {
-            if(pedirBotonMostrandose && !mostrandoDialogo)
+            if (pedirBotonMostrandose && !mostrandoDialogo)
             {
                 pedirBotonMostrandose = false;
                 pedirBotonInteractuar.gameObject.SetActive(false);
-
-
+                GestorSonido.Instance.EjecutarSonido(sonidoInicioDialogo);
                 imagenDialogo.gameObject.SetActive(true);
                 Object.FindFirstObjectByType<ControladorDialogos>().ActivarCartel(fraseDialogo);
                 StartCoroutine(AbriendoDialogo());
@@ -57,7 +57,7 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
     }
 
 
-    protected virtual void CerrarDialogo()
+    private void CerrarDialogo()
     {
         Object.FindFirstObjectByType<ControladorDialogos>().cerrarCuadro -= CerrarDialogo;
         GestorPlayer.Instance.PermitirMovimiento();
@@ -65,7 +65,6 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
 
         pedirBotonMostrandose = true;
         pedirBotonInteractuar.gameObject.SetActive(true);
-
     }
 
     IEnumerator AbriendoDialogo()
@@ -76,20 +75,14 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
     }
 
 
-    // Update is called once per frame
-    void Update()
+    protected override void Update()
     {
+        base.Update();
+
         //Si detecta al player cerca, le muestra el mensaje para inicial el diálogo
         bool estaCerca = Physics2D.OverlapCircle(transform.position, radioDeteccion, personaje);
 
-
-        if (estaCerca && !mostrandoDialogo)
-        {
-            if(playerRef == null)
-            {
-                Collider2D player = Physics2D.OverlapCircle(transform.position, radioDeteccion, personaje);
-                playerRef = player.gameObject.GetComponentInParent<PlayerCharacter>();
-            }
+        if (estaCerca) {
             pedirBotonMostrandose = true;
             pedirBotonInteractuar.gameObject.SetActive(true);
         }
@@ -98,5 +91,6 @@ public class NpcsInteractuablesQuietos : MonoBehaviour
             pedirBotonMostrandose = false;
             pedirBotonInteractuar.gameObject.SetActive(false);
         }
+
     }
 }

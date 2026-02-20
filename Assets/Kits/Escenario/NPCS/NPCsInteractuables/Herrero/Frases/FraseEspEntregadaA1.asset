@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: FraseEspEntregadaA1
   m_EditorClassIdentifier: Assembly-CSharp::FraseDialogo
   textos:
-  - Para golpear con la espada, pulsa la tecla XXXXX.
+  - Para golpear con la espada, pulsa el click derecho.
   opciones: []
   sigFrase: {fileID: 0}

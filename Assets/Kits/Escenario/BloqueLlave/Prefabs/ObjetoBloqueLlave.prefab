@@ -41,6 +41,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 111318720399219720}
     m_Modifications:
     - target: {fileID: 1805566759548650690, guid: 0c07f727ba499334bbe656b9cc3c83e0, type: 3}
+      propertyPath: sonidoAbrir
+      value: 
+      objectReference: {fileID: 8300000, guid: cb7e7da6065df5e4b8aecd6d6d5d5e54, type: 3}
+    - target: {fileID: 1805566759548650690, guid: 0c07f727ba499334bbe656b9cc3c83e0, type: 3}
       propertyPath: radioDeteccion
       value: 1
       objectReference: {fileID: 0}
