@@ -848,6 +848,10 @@ MonoBehaviour:
   currentKeyAmount: 0
   nowHasEspada: 0
   nowHasArco: 0
+  gamePrefabs:
+  - {fileID: 1925860782327312680, guid: aec351b56b77d42419238eb7d2660caf, type: 3}
+  - {fileID: 1925860782327312680, guid: d50b74f6185f24f4daaeedbc1938709e, type: 3}
+  - {fileID: 1925860782327312680, guid: 60ccee0b114c0364194c85ffa1890452, type: 3}
 --- !u!4 &679909750
 Transform:
   m_ObjectHideFlags: 0

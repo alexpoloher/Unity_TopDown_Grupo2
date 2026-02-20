@@ -17,6 +17,9 @@ public class GameManager : MonoBehaviour
     public bool nowHasEspada;
     public bool nowHasArco;
 
+    [Header("Player Prefabs")]
+    [SerializeField] public GameObject[] gamePrefabs;
+
     private string SavePath => Application.persistentDataPath + "/save.json";
 
     private bool isLoadingFromSave = false;
@@ -49,6 +52,8 @@ public class GameManager : MonoBehaviour
 
         if (currentLevel == 0)
             return;
+
+        SpawnPlayerIfNeeded();
 
         if (isLoadingFromSave)
         {
@@ -160,5 +165,39 @@ public class GameManager : MonoBehaviour
         player.cantidadBombas = currentBombAmount;
         player.cantidadLlaves = currentKeyAmount;
         return true;
+    }
+
+    private void SpawnPlayerIfNeeded()
+    {
+        if (GameObject.FindGameObjectWithTag("Player") != null)
+            return;
+
+        GameObject chosenPrefab = null;
+
+        // Intentar encontrar el prefab
+        foreach (var prefab in gamePrefabs)
+        {
+            if (prefab != null && prefab.name == characterId)
+            {
+                chosenPrefab = prefab;
+                break;
+            }
+        }
+
+        // Si no existe o characterId está vacío 
+        if (chosenPrefab == null)
+        {
+            Debug.LogWarning("[SPAWN] Default no encontrado. Usando primer prefab del array.");
+            chosenPrefab = gamePrefabs[0];
+        }
+
+
+        // Buscar SpawnPoint en escena
+        GameObject spawn = GameObject.Find("SpawnPoint");
+        Vector3 pos = spawn ? spawn.transform.position : Vector3.zero;
+
+        Instantiate(chosenPrefab, pos, Quaternion.identity);
+
+        Debug.Log($"[SPAWN] Instanciado '{chosenPrefab.name}' en {pos}");
     }
 }

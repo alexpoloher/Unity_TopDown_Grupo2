@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 public class PlayerCharacter : BaseCharacter
 {
 
+    public static PlayerCharacter Instance;
 
     //Controles
 
@@ -61,8 +62,6 @@ public class PlayerCharacter : BaseCharacter
     [Header("Sonidos")]
     [SerializeField] AudioClip sonidoRecogerItem;
 
-    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
-
     //GUARDAR
     public int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
@@ -77,6 +76,14 @@ public class PlayerCharacter : BaseCharacter
 
     protected override void Awake()
     {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        Instance = this;
+
         base.Awake();
         life = GetComponent<Life>();
         anim = GetComponent<Animator>();
@@ -102,6 +109,9 @@ public class PlayerCharacter : BaseCharacter
     private void Start()
     {
         GameManager gm = GameManager.Instance;
+
+        if (GestorPlayer.Instance != null)
+        { GestorPlayer.Instance.RegistrarJugador(this); }
     }
 
     protected override void Update()

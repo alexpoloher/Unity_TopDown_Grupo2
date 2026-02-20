@@ -74,7 +74,7 @@ public class LogicaSeleccionCampeon : MonoBehaviour
         if (GameManager.Instance != null)
         {
             GameManager.Instance.characterId = selectedCharacterId;
-            GameManager.Instance.currentLife = 5;
+            GameManager.Instance.currentLife = 1;
             GameManager.Instance.currentLevel = 1;
         }
 
