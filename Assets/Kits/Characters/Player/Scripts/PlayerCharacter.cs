@@ -61,8 +61,6 @@ public class PlayerCharacter : BaseCharacter
     [Header("Sonidos")]
     [SerializeField] AudioClip sonidoRecogerItem;
 
-    private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
-
     //GUARDAR
     public int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
