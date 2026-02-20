@@ -31,38 +31,49 @@ public class PlayerCharacter : BaseCharacter
     [SerializeField] float poderAtaque = 2.0f;
     [SerializeField] float knockback = -50.0f;
 
-
+    //GUARDAR
     Life life;
 
     private Vector2 lastDir;
 
     private Animator anim;
 
-    private bool tieneEspada = false;
+    //GUARDAR
+    public bool tieneEspada = false;
 
     [Header("Roll parameters")]
     [SerializeField] float rollVelocity = 2f;
 
     [Header("Bow parameters")]
     [SerializeField] GameObject arrow;
-    private bool tieneArco = false;
-    private int cantidadFlechas = 0;    //Flechas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
+    public bool tieneArco = false;
+    //GUARDAR
+    public int cantidadFlechas = 0;    //Flechas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxFlechas = 20;
 
     [Header("Bomb parameters")]
     private bool tieneBombas = false;
-    private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
+    //GUARDAR
+    public int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
+
 
     [Header("Sonidos")]
     [SerializeField] AudioClip sonidoRecogerItem;
 
     private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
+    //GUARDAR
+    public int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
+
+
     private bool estaCayendo = false;
 
+    //GUARDAR
     private Vector3 ultimaPosEnSuelo;
     private float tiempoUltimaComprobacion;
+
+
 
     protected override void Awake()
     {
@@ -86,6 +97,10 @@ public class PlayerCharacter : BaseCharacter
         shoot.action.Enable();
     }
 
+    private void Start()
+    {
+        GameManager gm = GameManager.Instance;
+    }
 
     protected override void Update()
     {

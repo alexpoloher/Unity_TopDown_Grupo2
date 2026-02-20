@@ -11,7 +11,8 @@ public class Life : MonoBehaviour
     [SerializeField] bool debugReceiveHit;
     [SerializeField] float debugHitDamage = 0.1f;
 
-    float currentLife;
+    public float currentLife;
+
     [SerializeField] public UnityEvent<float> onLifeChanged;
     [SerializeField] public UnityEvent onDeath;
 
