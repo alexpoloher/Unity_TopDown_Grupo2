@@ -31,7 +31,6 @@ public class Octorok : EnemyBase
                     movementDirection = (transform.position - playerPosition).normalized;
                     status = OctorokStatus.Walking;
                     walkTimer = walkCooldown;
-                    print("Animacion andar");
                 }
                 break;
 
@@ -40,7 +39,7 @@ public class Octorok : EnemyBase
                 Move(movementDirection);
                 if (walkTimer < 0f)
                 {
-                    rb.linearVelocity = Vector3.zero;
+                    Move(Vector2.zero);
                     if (isAggro)
                     {
                         doShoot();
@@ -64,6 +63,7 @@ public class Octorok : EnemyBase
 
     private void doShoot()
     {
+        animator.SetTrigger("triggerShoot");
         Vector3 playerPosition = sight.GetClosestTarget().position;
         Vector3 towardsPlayerDirection = (playerPosition - transform.position).normalized;
         OctorokProjectile projectile = Instantiate(projectilePrefab, transform.position, Quaternion.identity).GetComponent<OctorokProjectile>();
