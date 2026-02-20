@@ -12,7 +12,7 @@ public class BaseCharacter : MonoBehaviour, IVisible2D
 
     //Movimiento
     [SerializeField] protected float linearSpeed = 1f;
-    Vector2 lastMoveDirection;
+    protected Vector2 lastMoveDirection;
 
     protected virtual void Awake()
     {
@@ -22,7 +22,7 @@ public class BaseCharacter : MonoBehaviour, IVisible2D
 
     protected virtual void Update()
     {
-        animator.SetFloat("EjeX", lastMoveDirection.x); //Poniendo rawMove.x, hace que se oriente hacia donde apuntes, da igual hacia donde esté moviendose
+        animator.SetFloat("EjeX", lastMoveDirection.x); //Poniendo rawMove.x, hace que se oriente hacia donde apuntes, da igual hacia donde estï¿½ moviendose
         animator.SetFloat("EjeY", lastMoveDirection.y);
     }
 
