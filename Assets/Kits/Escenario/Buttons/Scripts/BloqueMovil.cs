@@ -16,14 +16,12 @@ public class BloqueMovil : MonoBehaviour, IActivable
 
         if (haciaPos2 == true)
         {
-            print("hacia final");
             if (estaActivo && transform.position != posFinal.position)
             {
                 transform.position = Vector2.MoveTowards(transform.position, posFinal.position, speed * Time.deltaTime);
             }
         }
         else{
-            print("va haciea 2" + posInicial.position);
             if (estaActivo && transform.position != posInicial.position)
             {
                 print(posInicial.position);
