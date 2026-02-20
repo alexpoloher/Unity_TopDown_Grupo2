@@ -90,6 +90,8 @@ public class PlayerCharacter : BaseCharacter
         base.Update();
         Move(rawMove);
 
+        punchDirection = lastMoveDirection;
+
         if (mustSlash && tieneEspada)
         {
             mustSlash = false;
@@ -183,13 +185,18 @@ public class PlayerCharacter : BaseCharacter
     void PerformSlash() {
         //En lugar de usar colliders con trigger para los puñetazos
         //Lanza un círculo para comprobar si hay enemigo a la hora de haber ehcho el golpeo
-        RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, punchRadius, punchDirection * punchRange);
-        foreach (RaycastHit2D hit in hits)
+        //RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, punchRadius, punchDirection * punchRange);
+        Vector2 slashPoint = new Vector2(transform.position.x + (punchDirection.x * punchRange), transform.position.y + (punchDirection.y * punchRange));
+        Collider2D[] hits = Physics2D.OverlapCircleAll(slashPoint, punchRadius);
+
+        anim.SetTrigger("mustSlash");
+
+        foreach (Collider2D hit in hits)
         {
-            if (hit.collider)
+            if (hit)
             {
-                BaseCharacter otherBaseCharacter = hit.collider.GetComponent<BaseCharacter>();
-                Life otherCharacterLife = hit.collider.GetComponent<Life>();
+                BaseCharacter otherBaseCharacter = hit.GetComponent<BaseCharacter>();
+                Life otherCharacterLife = hit.GetComponent<Life>();
                 if(otherBaseCharacter != this)  //This es la referencia a este mismo
                 {
                     otherCharacterLife?.OnHitReceived(poderAtaque);
@@ -197,13 +204,13 @@ public class PlayerCharacter : BaseCharacter
                 }
 
                 //Si ha golpeado a un jarrón, este se rompe
-                JarronRompibleScript jarron = hit.collider.GetComponent<JarronRompibleScript>();
+                JarronRompibleScript jarron = hit.GetComponent<JarronRompibleScript>();
                 if(jarron != null)
                 {
                     jarron.NotifyHit();
                 }
 
-                ScriptPalanca palanca = hit.collider.GetComponent<ScriptPalanca>();
+                ScriptPalanca palanca = hit.GetComponent<ScriptPalanca>();
                 if(palanca != null)
                 {
                     palanca.NotifyHit();
@@ -216,31 +223,32 @@ public class PlayerCharacter : BaseCharacter
 
     void DoRoll()
     {
+        anim.SetTrigger("Dash");
         Roll(rollVelocity);
     }
 
     void PerformShoot()
     {
         Vector3 arrowRotation;
-        if (rawMove.x < 0)
+        if (punchDirection.x < 0) // Calcular la rotación del prefab de la flecha dependiendo de la dirección de ataque
         {
-            if (rawMove.y < 0)
+            if (punchDirection.y < 0)
             {
                 arrowRotation = new Vector3(0, 0, 135);
-            } else if (rawMove.y > 0)
+            } else if (punchDirection.y > 0)
             {
                 arrowRotation = new Vector3(0, 0, 45);
             } else
             {
                 arrowRotation = new Vector3(0, 0, 90);
             }
-        } else if (rawMove.x > 0)
+        } else if (punchDirection.x > 0)
         {
-            if (rawMove.y < 0)
+            if (punchDirection.y < 0)
             {
                 arrowRotation = new Vector3(0, 0, -135);
             }
-            else if (rawMove.y > 0)
+            else if (punchDirection.y > 0)
             {
                 arrowRotation = new Vector3(0, 0, -45);
             }
@@ -250,7 +258,7 @@ public class PlayerCharacter : BaseCharacter
             }
         } else
         {
-            if (rawMove.y > 0)
+            if (punchDirection.y > 0)
             {
                 arrowRotation = new Vector3(0, 0, 0);
             }
@@ -260,14 +268,15 @@ public class PlayerCharacter : BaseCharacter
             }
         }
 
+        anim.SetTrigger("mustShoot");
         GameObject arrowShot = Instantiate(arrow, transform.position, Quaternion.Euler(arrowRotation));
         cantidadFlechas--;
     }
 
-    private void OnDrawGizmos()
+    private void OnDrawGizmos() // Para testing, ver el rango de acción de la espada
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawRay(transform.position, punchDirection * punchRange);
+        Gizmos.DrawSphere(new Vector3(transform.position.x + (punchDirection.x * punchRange), transform.position.y + (punchDirection.y * punchRange), 0), punchRadius);
     }
 
 
@@ -291,13 +300,6 @@ public class PlayerCharacter : BaseCharacter
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.action.ReadValue<Vector2>();  //Lee le valor de la acción que lo ha llamado, indicando que esperamos leer un Vector2
-
-        ////En caso de que te muevas y no estes quieto (lo de 0f), se guarda a qué pos es la última a la que te moviste, para saber a donde está mirando el personaje
-        //if (rawMove.magnitude > 0f)
-        //{
-        //    Vector2 punchDirection = rawMove.normalized;
-        //}
-        //Innecesario, está en el BaseCharacter
     }
 
     private void OnSlash(InputAction.CallbackContext context)
@@ -314,7 +316,6 @@ public class PlayerCharacter : BaseCharacter
     {
         doRoll = true;
         timeToRoll = 0f;
-        anim.SetBool("Dash", true);
     }
 
     bool mustShoot;
@@ -324,9 +325,6 @@ public class PlayerCharacter : BaseCharacter
     {
         mustShoot = true;
         shootDelay = 0f;
-
-        mustSlash = true;
-        anim.SetBool("mustPunch", true);
     }
 
 
