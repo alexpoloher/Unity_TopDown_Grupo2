@@ -10,7 +10,7 @@ public class CofreScript : MonoBehaviour
     [SerializeField] InputActionReference interactuar;
     [SerializeField] LayerMask personaje;
     [SerializeField] float radioDeteccion = 1f;
-    Vector2 tamanioOverlap = new Vector2(0.35f, 0.75f);
+    [SerializeField] Vector2 tamanioOverlap = new Vector2(0.35f, 0.75f);
 
     [SerializeField] DropDefinition itemContenido;
 
@@ -116,4 +116,9 @@ public class CofreScript : MonoBehaviour
         StartCoroutine(DarObjetoAlPlayer());
     }
 
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireCube(transform.position, tamanioOverlap);
+    }
 }

@@ -133,7 +133,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.2471519, y: -2.8986025, z: 0}
-  m_LocalScale: {x: 1.548, y: 1.548, z: 1.548}
+  m_LocalScale: {x: 5.2285247, y: 5.2285247, z: 5.2285247}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6531045677613614717}
@@ -159,6 +159,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   radioDeteccion: 0.25
+  tamanioOverlap: {x: 1, y: 2.25}
   itemContenido: {fileID: 11400000, guid: 8f74e2822c6c4ad4695a451c113f356b, type: 2}
   refItemContenido: {fileID: 2667197328202481551}
   tiempoParaDesaparecerItem: 1.25
@@ -207,9 +208,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
-  m_SortingOrder: -2
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
+  m_SortingOrder: -1
   m_Sprite: {fileID: -5335561041058985637, guid: a515eaaffc9fe674e94c8e80358aea08, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -282,7 +283,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.03518514}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -292,7 +293,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.34, y: 0.33}
+  m_Size: {x: 0.34, y: 0.25962976}
   m_EdgeRadius: 0
 --- !u!95 &9149898310577855003
 Animator:
@@ -341,7 +342,7 @@ Transform:
   m_GameObject: {fileID: 2413613552455744431}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.014759773, y: 0.03785696, z: 0}
+  m_LocalPosition: {x: 0.014759773, y: 0.053, z: 0}
   m_LocalScale: {x: 1.5473514, y: 1.3424419, z: 0.64599484}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -483,7 +484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db56e7a86a0fa4440b60695f9d1e1532, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemDeCofre
-  velocidad: 0.1
+  velocidad: 0.4
   tiempoParaDesaparecer: 1.25
 --- !u!212 &3005451780370106862
 SpriteRenderer:
@@ -529,8 +530,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
   m_SortingOrder: 3
   m_Sprite: {fileID: -1988925312, guid: d6b50d4bdfdda884cbb02437551f95f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
