@@ -12,15 +12,14 @@ public class PlayerCharacter : BaseCharacter
 
     [Header("Controles")]
     [SerializeField] InputActionReference move;
-<<<<<<< HEAD
+
     [SerializeField] InputActionReference slash;
     [SerializeField] InputActionReference roll;
     [SerializeField] InputActionReference shoot;
 
-=======
-    [SerializeField] InputActionReference punch;
-    [SerializeField] InputActionReference dash;
->>>>>>> naomi
+    //[SerializeField] InputActionReference punch;
+    //[SerializeField] InputActionReference dash;
+
     Vector2 rawMove;
     bool mustSlash;
     Vector2 punchDirection = Vector2.down;
@@ -28,14 +27,9 @@ public class PlayerCharacter : BaseCharacter
     [Header("Sword parameters")]
     [SerializeField] float punchRadius = 0.3f;
     [SerializeField] float punchRange = 1f;
-<<<<<<< HEAD
+
     [SerializeField] float poderAtaque = 2.0f;
     [SerializeField] float knockback = -50.0f;
-=======
-
-    [Header("Dash data")]
-    [SerializeField] float dashVelocity = 5f; //O lo que veais
-
 
 
     Life life;
@@ -44,7 +38,6 @@ public class PlayerCharacter : BaseCharacter
 
     private Animator anim;
 
->>>>>>> naomi
     private bool tieneEspada = false;
 
     [Header("Roll parameters")]
@@ -61,7 +54,6 @@ public class PlayerCharacter : BaseCharacter
     private int cantidadBombas = 0;    //Bombas que tiene el player. En el GestorPLayer que permanece entre escenas, habrá que guardar esta info y rellenar eset campo al cargar una escena
     private int numMaxBombas = 10;
 
-    Life life;
 
     private int cantidadLlaves = 0; //Llaves que tiene el player. También debe guardar el gestor esto entre escenas
 
@@ -85,15 +77,11 @@ public class PlayerCharacter : BaseCharacter
         move.action.canceled += OnMove;
 
         slash.action.Enable();
-        slash.action.performed += OnPunch;
+        slash.action.performed += OnSlash;
 
         roll.action.Enable();
 
         shoot.action.Enable();
-        
-
-        dash.action.Enable();
-        dash.action.performed += OnDash;
     }
 
 
@@ -290,17 +278,9 @@ public class PlayerCharacter : BaseCharacter
         move.action.performed -= OnMove;
         move.action.canceled -= OnMove;
 
-<<<<<<< HEAD
-        slash.action.Disable();
-        slash.action.performed -= OnPunch;
-=======
-        punch.action.Disable();
-        punch.action.performed -= OnPunch;
 
-        dash.action.Disable();
-        dash.action.performed -= OnDash;
-    }
->>>>>>> naomi
+        slash.action.Disable();
+        slash.action.performed -= OnSlash;
 
         roll.action.Disable();
 
@@ -320,39 +300,40 @@ public class PlayerCharacter : BaseCharacter
         //Innecesario, está en el BaseCharacter
     }
 
-    private void OnPunch(InputAction.CallbackContext context)
+    private void OnSlash(InputAction.CallbackContext context)
     {
         //Se indica que debe golpear
-<<<<<<< HEAD
         mustSlash = true;
     }
 
     bool doRoll;
     float timeToRoll;
     float rollDelay = 0f;
+
     private void OnRoll()
     {
         doRoll = true;
         timeToRoll = 0f;
+        anim.SetBool("Dash", true);
     }
 
     bool mustShoot;
     float shootDelay = 0f;
+
     private void OnShoot()
     {
         mustShoot = true;
         shootDelay = 0f;
-=======
-        mustPunch = true;
+
+        mustSlash = true;
         anim.SetBool("mustPunch", true);
->>>>>>> naomi
     }
 
 
-    private void OnDash(InputAction.CallbackContext context)
-    {
-        anim.SetBool("Dash", true);
-    }
+    //private void OnDash(InputAction.CallbackContext context)
+    //{
+    //    anim.SetBool("Dash", true);
+    //}
 
 
     //Al abrir un cofre o que un Npc te de un objeto, se llama a este método
