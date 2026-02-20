@@ -61,9 +61,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6223587205078775158}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1, y: 0.116, z: 0}
-  m_LocalScale: {x: 2.3953, y: 2.0781, z: 1}
+  m_LocalScale: {x: 7.637388, y: 6.626, z: 3.1884894}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6811132364356163968}
@@ -88,9 +88,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   radioDeteccion: 0.25
+  tamanioOverlap: {x: 0.5, y: 1.5}
   itemContenido: {fileID: 11400000, guid: 6c45a909ab402774781dc086253205e4, type: 2}
   refItemContenido: {fileID: 6857209002857229953}
   tiempoParaDesaparecerItem: 1.25
+  tieneQueEsperar: 0
 --- !u!212 &5480643120162977887
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -135,8 +137,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
   m_SortingOrder: -2
   m_Sprite: {fileID: 2082609959, guid: a5787dbb4be52aa4f9647b84fe80d7ed, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -210,7 +212,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.012344215}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -220,7 +222,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 0.16, y: 0.13531157}
   m_EdgeRadius: 0
 --- !u!95 &3485177963671437500
 Animator:
@@ -289,7 +291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db56e7a86a0fa4440b60695f9d1e1532, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemDeCofre
-  velocidad: 0.1
+  velocidad: 0.4
   tiempoParaDesaparecer: 1.25
 --- !u!212 &2185129250026926699
 SpriteRenderer:
@@ -335,8 +337,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 778810039
-  m_SortingLayer: 2
+  m_SortingLayerID: 1888217933
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 6923308604993255136, guid: 6454e821c1d3c414e8a0348e5cea2f11, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

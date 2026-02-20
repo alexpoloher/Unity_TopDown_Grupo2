@@ -61,7 +61,6 @@ public class BloqueLlaveScript : MonoBehaviour
             if (GestorPlayer.Instance != null)
             {
                 tieneLlave = GestorPlayer.Instance.ComprobarSiJugadorTieneLlave();
-                print(tieneLlave);
             }
 
             if (tieneLlave)
