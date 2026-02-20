@@ -7,6 +7,8 @@ public class BloqueLlaveScript : MonoBehaviour
     [SerializeField] InputActionReference interactuar;
     [SerializeField] float radioDeteccion = 0.5f;
     [SerializeField] LayerMask personaje;
+    [SerializeField] AudioClip sonidoAbrir;
+
     protected PlayerCharacter playerRef;
 
     Animator animator;
@@ -61,12 +63,12 @@ public class BloqueLlaveScript : MonoBehaviour
             if (GestorPlayer.Instance != null)
             {
                 tieneLlave = GestorPlayer.Instance.ComprobarSiJugadorTieneLlave();
-                print(tieneLlave);
             }
 
             if (tieneLlave)
             {
                 animator.SetTrigger("Abrir");
+                GestorSonido.Instance.EjecutarSonido(sonidoAbrir);
                 GestorPlayer.Instance.ConsumirObjeto(tipoObjetoConsume, cantidadConsume);
             }
         }

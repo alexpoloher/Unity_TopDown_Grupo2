@@ -59,7 +59,7 @@ public class GameManager : MonoBehaviour
         SaveData data = new SaveData
         {
             characterId = characterId,
-            level = currentLevel,
+            scene = currentLevel,
             life = currentLife
         };
 
@@ -80,7 +80,7 @@ public class GameManager : MonoBehaviour
 
         characterId = data.characterId;
         currentLife = data.life;
-        currentLevel = data.level;
+        currentLevel = data.scene;
 
         if (currentLevel == 0)
         {
