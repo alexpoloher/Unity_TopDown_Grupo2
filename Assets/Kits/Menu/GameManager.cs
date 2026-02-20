@@ -53,6 +53,9 @@ public class GameManager : MonoBehaviour
         if (isLoadingFromSave)
         {
             isLoadingFromSave = false;
+            ApplyToPlayer();
+            Debug.Log("Estoy cargando el nivel guardado");
+            Debug.Log(currentPlayerPosition);
             return;
         }
 
@@ -108,12 +111,7 @@ public class GameManager : MonoBehaviour
             currentLevel = 1;
         }
 
-        if (isLoadingFromSave)
-        {
-            isLoadingFromSave = false;
-            ApplyToPlayer();
-            return;
-        }
+        isLoadingFromSave = true;
 
         SceneManager.LoadScene(currentLevel);
     }
@@ -125,10 +123,13 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(currentLevel);
     }
 
-    private void RefreshFromPlayer()
+    private bool RefreshFromPlayer()
     {
         PlayerCharacter player = FindFirstObjectByType<PlayerCharacter>();
+        if (player == null) return false;
+
         Life life = player.GetComponent<Life>();
+        if (life == null) return false;
 
         currentPlayerPosition = player.transform.position;
         currentLife = life.currentLife;
@@ -139,12 +140,16 @@ public class GameManager : MonoBehaviour
         currentArrowAmount = player.cantidadFlechas;
         currentBombAmount = player.cantidadBombas;
         currentKeyAmount = player.cantidadLlaves;
+        return true;
     }
 
-    private void ApplyToPlayer()
+    private bool ApplyToPlayer()
     {
         PlayerCharacter player = FindFirstObjectByType<PlayerCharacter>();
+        if (player == null) return false;
+
         Life life = player.GetComponent<Life>();
+        if (life == null) return false;
 
         player.transform.position = currentPlayerPosition;
         life.currentLife = currentLife;
@@ -154,5 +159,6 @@ public class GameManager : MonoBehaviour
         player.cantidadFlechas = currentArrowAmount;
         player.cantidadBombas = currentBombAmount;
         player.cantidadLlaves = currentKeyAmount;
+        return true;
     }
 }
