@@ -820,6 +820,7 @@ GameObject:
   - component: {fileID: 679909750}
   - component: {fileID: 679909749}
   - component: {fileID: 679909751}
+  - component: {fileID: 679909752}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -881,6 +882,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UIManager
   pauseMenuPrefab: {fileID: 2857906120206856353, guid: 7b112943158ba1b478fa71dab9aaba6b, type: 3}
   pauseAction: {fileID: 436031887538889891, guid: cbc19f8d33e2377448fee8f1ec0890fd, type: 3}
+--- !u!114 &679909752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679909748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9728320d061258740bcd350b674a198e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GestorPlayer
+  idPuertaDestino: 
 --- !u!1 &720433066
 GameObject:
   m_ObjectHideFlags: 0
