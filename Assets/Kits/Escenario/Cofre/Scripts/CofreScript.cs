@@ -55,7 +55,8 @@ public class CofreScript : MonoBehaviour
             pedirBotonInteractuar.gameObject.SetActive(false);
 
             //Se muestra el contenido del cofre, y tras un rato, se le aplica el efecto al jugador
-            if (!tieneQueEsperar) {
+            if (!tieneQueEsperar)
+            {
                 refItemContenido.SetActive(true);
                 StartCoroutine(DarObjetoAlPlayer());
             }
@@ -65,7 +66,8 @@ public class CofreScript : MonoBehaviour
     }
 
 
-    IEnumerator DarObjetoAlPlayer() {
+    IEnumerator DarObjetoAlPlayer()
+    {
 
         yield return new WaitForSeconds(tiempoParaDesaparecerItem);
         refItemContenido.SetActive(false);
@@ -80,7 +82,8 @@ public class CofreScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!estaAbierto) {
+        if (!estaAbierto)
+        {
             //estaEnRango = Physics2D.OverlapCircle(transform.position, radioDeteccion, personaje);
             estaEnRango = Physics2D.OverlapBox(transform.position, tamanioOverlap, 0f, personaje);
             if (estaEnRango)
@@ -114,11 +117,5 @@ public class CofreScript : MonoBehaviour
     {
         refItemContenido.SetActive(true);
         StartCoroutine(DarObjetoAlPlayer());
-    }
-
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireCube(transform.position, tamanioOverlap);
     }
 }
