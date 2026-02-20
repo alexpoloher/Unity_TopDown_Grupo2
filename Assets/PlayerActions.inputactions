@@ -91,7 +91,7 @@
                     "name": "Sprint",
                     "type": "Button",
                     "id": "641cd816-40e6-41b4-8c3d-04687c349290",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -1077,7 +1077,7 @@
             ]
         },
         {
-            "name": "New action map",
+            "name": "OpenMenu",
             "id": "3f3a56dd-3e84-4c92-9898-a4ee224804ac",
             "actions": [
                 {
@@ -1094,7 +1094,18 @@
                 {
                     "name": "",
                     "id": "df150350-f3ae-41eb-b891-3e89d86bb39c",
-                    "path": "",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c9328ac5-d2f1-42e0-88b6-272a842eae16",
+                    "path": "<Keyboard>/1",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
